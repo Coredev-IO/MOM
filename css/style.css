@@ -858,5 +858,17 @@ h3.heading-progress {
     margin-top: -25px;
 }
 
+.big-btn{
+    width: 400px;
+    font-size: 25px;
+}
 
+.color-pink{
+    color: #fe2d91;
+    font-size: 40px;
+}
+
+.color-pink2{
+    color: #fe2d91;
+}
 
