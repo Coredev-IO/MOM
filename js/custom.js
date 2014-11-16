@@ -19,7 +19,7 @@ $(document).ready(function() {
  =============================================== */
 $(window).load(function() {
     $('.main-flex-slider').flexslider({
-        slideshowSpeed: 5000,
+        slideshowSpeed: 1000,
         directionNav: false,
         animation: "fade",
         controlNav: false
