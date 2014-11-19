@@ -369,9 +369,13 @@ transition: top 0.15s linear;
 }
 /**testimonials**/
 .testimonials{
+
     background:url(../image/showcase-1.jpg);
     padding: 80px 0;
 }
+
+
+
 .bg-heading .center-heading h2{
     color:#fff;
     text-shadow: 0px 0px 3px rgba(0,0,0,0.33);
@@ -921,4 +925,8 @@ h3.heading-progress {
 
 .btn-100{
     width: 100%;
+}
+
+.font-h{
+     line-height: 10px;
 }
