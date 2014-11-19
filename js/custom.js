@@ -128,7 +128,4 @@ wow.init();
 //MAGNIFIC POPUP
 $('.show-image').magnificPopup({type: 'image'});
 
-$(function() {
-$('.knob').knob();
-});
-		
+	
