@@ -887,3 +887,14 @@ h3.heading-progress {
         -webkit-transform : scale(2);   /* Chrome - Safari */
         -o-transform : scale(2);        /* Opera */
     }
+
+
+
+.respo-cust img{
+    width: 90%;
+}
+
+
+.btn-100{
+    width: 100%;
+}
