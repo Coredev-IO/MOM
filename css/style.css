@@ -121,7 +121,7 @@ vertical-align: middle;
 z-index: 1;
 }
 .parallax-overlay{
-  position: absolute;
+  position: relative;
 left: 0;
 top: 0;
 width: 100%;
