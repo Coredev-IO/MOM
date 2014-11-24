@@ -516,7 +516,7 @@ font-weight: 400;
     position: absolute;
     top: 0;
     left: 0;
-    background: url(../image/plus.png) no-repeat center center rgba(217, 40, 119, 0.6);
+    background:no-repeat center center rgba(217, 40, 119, 0.6);
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
     filter: alpha(opacity=0);
     opacity: 0;
@@ -863,7 +863,7 @@ h3.heading-progress {
 
 /*******fun-facts****/
 .fun-facts{
-    background: url('../image/showcase-5 copia copia.jpg');
+    background: url('../image/showcase-5.jpg');
     padding: 80px 0;
 }
 .fact-inner h1{
@@ -929,4 +929,19 @@ h3.heading-progress {
 
 .font-h{
      line-height: 40px;
+}
+
+
+.rueda{
+    transition: 2.5s ease;
+    -moz-transition: 2.5s ease; /* Firefox */
+    -webkit-transition: 2.5s ease; /* Chrome - Safari */
+    -o-transition: 2.5s ease; /* Opera */
+}
+ 
+.rueda:hover{
+    transform : rotate(360deg);
+    -moz-transform : rotate(360deg); /* Firefox */
+    -webkit-transform : rotate(360deg); /* Chrome - Safari */
+    -o-transform : rotate(360deg); /* Opera */
 }
