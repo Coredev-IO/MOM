@@ -76,20 +76,112 @@
 	-ms-transform: rotate3d(0,1,0,180deg);
 	transform: rotate3d(0,1,0,180deg);
 
-	background-image: url(../image/10.jpg);
+	background-image: url(../image/bolsa1.1fondo1.png);
 }
 
 .ch-img-1 {
-	background-image: url(../image/10.jpg);
+	background-image: url(../image/bolsa1.1fondo1.png);
 }
 
 .ch-img-2 {
-	background-image: url(../images/11.jpg);
+	background-image: url(../image/travel1.1fondo1.png);
 }
 
-.ch-img-3 {
-	background-image: url(../images/12.jpg);
+.ch-info .ch-info-back2 {
+	-webkit-transform: rotate3d(0,1,0,180deg);
+	-moz-transform: rotate3d(0,1,0,180deg);
+	-o-transform: rotate3d(0,1,0,180deg);
+	-ms-transform: rotate3d(0,1,0,180deg);
+	transform: rotate3d(0,1,0,180deg);
+
+	background-image: url(../image/travel1.1fondo1.png);
 }
+
+
+.ch-img-3 {
+	background-image: url(../image/bolsa1.2fondo1.png);
+}
+
+.ch-info .ch-info-back3 {
+	-webkit-transform: rotate3d(0,1,0,180deg);
+	-moz-transform: rotate3d(0,1,0,180deg);
+	-o-transform: rotate3d(0,1,0,180deg);
+	-ms-transform: rotate3d(0,1,0,180deg);
+	transform: rotate3d(0,1,0,180deg);
+
+	background-image: url(../image/bolsa1.2fondo1.png);
+}
+
+.ch-img-4 {
+	background-image: url(../image/travel1.2fondo1.png);
+}
+
+.ch-info .ch-info-back4 {
+	-webkit-transform: rotate3d(0,1,0,180deg);
+	-moz-transform: rotate3d(0,1,0,180deg);
+	-o-transform: rotate3d(0,1,0,180deg);
+	-ms-transform: rotate3d(0,1,0,180deg);
+	transform: rotate3d(0,1,0,180deg);
+
+	background-image: url(../image/travel1.2fondo1.png);
+}
+
+.ch-img-5 {
+	background-image: url(../image/bolsa1.3fondo1.png);
+}
+
+.ch-info .ch-info-back5 {
+	-webkit-transform: rotate3d(0,1,0,180deg);
+	-moz-transform: rotate3d(0,1,0,180deg);
+	-o-transform: rotate3d(0,1,0,180deg);
+	-ms-transform: rotate3d(0,1,0,180deg);
+	transform: rotate3d(0,1,0,180deg);
+
+	background-image: url(../image/bolsa1.3fondo1.png);
+}
+
+.ch-img-6 {
+	background-image: url(../image/travel1.3fondo1.png);
+}
+
+.ch-info .ch-info-back6 {
+	-webkit-transform: rotate3d(0,1,0,180deg);
+	-moz-transform: rotate3d(0,1,0,180deg);
+	-o-transform: rotate3d(0,1,0,180deg);
+	-ms-transform: rotate3d(0,1,0,180deg);
+	transform: rotate3d(0,1,0,180deg);
+
+	background-image: url(../image/travel1.3fondo1.png);
+}
+
+.ch-img-7 {
+	background-image: url(../image/bolsa1.4fondo1.png);
+}
+
+.ch-info .ch-info-back7 {
+	-webkit-transform: rotate3d(0,1,0,180deg);
+	-moz-transform: rotate3d(0,1,0,180deg);
+	-o-transform: rotate3d(0,1,0,180deg);
+	-ms-transform: rotate3d(0,1,0,180deg);
+	transform: rotate3d(0,1,0,180deg);
+
+	background-image: url(../image/bolsa1.4fondo1.png);
+}
+
+.ch-img-8 {
+	background-image: url(../image/travel1.4fondo1.png);
+}
+
+.ch-info .ch-info-back8 {
+	-webkit-transform: rotate3d(0,1,0,180deg);
+	-moz-transform: rotate3d(0,1,0,180deg);
+	-o-transform: rotate3d(0,1,0,180deg);
+	-ms-transform: rotate3d(0,1,0,180deg);
+	transform: rotate3d(0,1,0,180deg);
+
+	background-image: url(../image/travel1.4fondo1.png);
+}
+
 
 .ch-info h3 {
 	color: #fff;
