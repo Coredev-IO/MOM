@@ -44,7 +44,7 @@ a {
     text-decoration: none;
 }
 a:hover{
-    color:#fe2d91;
+    color:#6c4dff;
     text-decoration:none;
 }
 h1,h2,h3,h4,h5,h6{
@@ -63,11 +63,11 @@ h1,h2,h3,h4,h5,h6{
     margin-bottom: 30px;
 }
 ::selection {
-    background:#fe2d91; /* Safari */
+    background:#6c4dff; /* Safari */
     color: #fff;
 }
 ::-moz-selection {
-    background:#fe2d91; /* Firefox */
+    background:#6c4dff; /* Firefox */
     color: #fff;
 }
 /**********bootstrap navigation overrides***********/
@@ -89,7 +89,7 @@ font-size: 15px;
 color:#000;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-color: #fe2d91;
+color: #6c4dff;
 background-color: transparent;
 }
 .navbar-brand {
@@ -112,7 +112,7 @@ font-weight: 400;
     background-size: cover;
     background-repeat: repeat;
     background-attachment: fixed;
-    background-image: url(../image/bg1.jpg);
+    background-image: url(../image/1.jpg);
     display: table;
     width: 100%;
     height: 100%;
@@ -134,7 +134,7 @@ background-position: center 0%;
 background-size: auto;
 background-repeat: repeat;
 background-attachment: fixed;
-background-image: url(../image/bg1.jpg);
+background-image: url(../image/1.jpg);
 display: table;
 width: 100%;
 height: 100%;
@@ -244,10 +244,10 @@ h2.slide-btm-text{
 }
 .btn-dark:hover{
     color:#fff;
-    background-color: #fe2d91;
+    background-color: #6c4dff;
 }
 .btn-theme{
-    background-color: #fe2d91;
+    background-color: #6c4dff;
     color:#fff;
 }
 .btn-theme:hover{
@@ -315,7 +315,7 @@ h2.slide-btm-text{
     height: 60px;
     line-height: 60px;
     text-align: center;
-    color:#fe2d91;
+    color:#6c4dff;
     font-size: 40px;
       margin-bottom: 20px;
     -webkit-transition: 0.7s ease-in-out;
@@ -370,7 +370,7 @@ transition: top 0.15s linear;
 /**testimonials**/
 .testimonials{
 
-    background:url(../image/showcase-1.jpg);
+    background:url(../image/12.jpg);
     padding: 80px 0;
 }
 
@@ -397,23 +397,23 @@ transition: top 0.15s linear;
     line-height: 30px;
 }
 #testi-carousel p{
-    color:#fe2d91;
+    color:#6c4dff;
 }
 
 /**cta-1**/
 .cta-1{
     padding: 40px 0;
-    background-color: #fe2d91;
+    background-color: #6c4dff;
 }
 /**cta-2**/
 .cta-2{
     padding: 40px 0;
-    background-color: #333;
+    background-color: #6c4dff;
 }
 /**cta-2**/
 .cta-3{
     padding: 40px 0;
-    background-color:#fe2d91;
+    background-color:#6c4dff;
 }
 .cta-3 h3{
     color:#fff;
@@ -432,14 +432,14 @@ font-weight: 400;
     line-height: 70px;
     text-align: center;
     color:#fff;
-    background-color: #fe2d91;
+    background-color: #6c4dff;
     border-radius: 35px;
     -webkit-border-radius: 35px;
     margin-bottom: 10px;
     font-size: 30px;
 }
 .service-info h4{
-    color:#fe2d91;
+    color:#6c4dff;
     font-size: 24px;
     font-weight: 400;
 }
@@ -478,14 +478,14 @@ font-weight: 400;
     transition: 0.7s ease-in-out;
 }
 .portfolio-filters li:hover{
-    background-color: #fe2d91;
+    background-color: #6c4dff;
     color:#fff;
-    border-color:#fe2d91;
+    border-color:#6c4dff;
 }
 .portfolio-filters li.active{
-    background-color: #fe2d91;
+    background-color: #6c4dff;
     color:#fff;
-    border-color:#fe2d91;
+    border-color:#6c4dff;
 }
 
 /************************image hover effect*******************/
@@ -525,7 +525,7 @@ font-weight: 400;
 }
 
 .item-img-wrap:hover .item-img-overlay span{
-    opacity: 3;
+    
 }
 .item-img-wrap:hover{
     -moz-transform: scale(1.1); 
@@ -582,7 +582,7 @@ font-size: 16px;
     text-align: center;
 }
 .plan-wrap.popular .price-title{
-    background-color: #fe2d91;
+    background-color: #6c4dff;
     color:#fff;
 }
 
@@ -594,7 +594,7 @@ font-size: 16px;
     font-size: 17px;
 }
 .address-info p i{
-    color:#fe2d91;
+    color:#6c4dff;
     margin-right: 10px;
 }
 .address-info p{
@@ -617,7 +617,7 @@ font-size: 16px;
 }
 .social li a i:hover{
     color:#fff;
-    background-color: #fe2d91;
+    background-color: #6c4dff;
 }
 
 .contact-form form .form-control{
@@ -792,7 +792,7 @@ iframe {
     margin-left: 5px;
 }
 .cat-list li a:hover{
-    color:#fe2d91;
+    color:#6c4dff;
 }
 blockquote{
     color:#aaa;
@@ -812,7 +812,7 @@ blockquote{
     font-weight: 700;
 }
 .comment-list h4 a{
-    color:#fe2d91;
+    color:#6c4dff;
     margin-left: 8px;
 }
 .comment-list h4 a:hover{
@@ -856,7 +856,7 @@ h3.heading-progress {
 }
 .progress-bar {
     line-height: 10px;
-    background:#fe2d91;
+    background:#6c4dff;
     box-shadow: none;
     -webkit-box-shadow: none;
 }
@@ -892,12 +892,12 @@ h3.heading-progress {
 }
 
 .color-pink{
-    color: #fe2d91;
+    color: #6c4dff;
     font-size: 40px;
 }
 
 .color-pink2{
-    color: #fe2d91;
+    color: #6c4dff;
 }
 
 .zoom{
