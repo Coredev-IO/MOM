@@ -1,4 +1,4 @@
-/* 
+/*
     Document   : Quick
     Created on : Jul 22, 2014, 10:15:10 PM
     Author     : Design_mylife
@@ -8,7 +8,7 @@
 html, body{
     height:100%;
 }
-body { 
+body {
     -webkit-font-smoothing: antialiased;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
@@ -17,7 +17,7 @@ body {
     font-size: 14px;
     line-height: 24px;
     background-color: #fff;
-   
+
 
 
 }
@@ -167,7 +167,7 @@ font-weight: 400;
 font-size: 50px;
 }
 h2.slide-btm-text{
-    
+
     text-align: center;
     margin: 30px 0;
     font-weight: 300;
@@ -192,12 +192,12 @@ h2.slide-btm-text{
 @media(max-width:767px){
     .main-flex-slider h1{
         font-size: 4em;
-    }   
+    }
 }
 @media(max-width:420px){
     .main-flex-slider h1{
         font-size: 3em;
-    }   
+    }
     h2.slide-btm-text{
         display: none;
     }
@@ -216,7 +216,7 @@ h2.slide-btm-text{
     -o-transition: all 200ms ease-in;
     -moz-transition: all 200ms ease-in;
     transition: all 200ms ease-in;
-  
+
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
@@ -231,7 +231,7 @@ h2.slide-btm-text{
 .btn-border-white{
     border: 2px solid #fff;
     color:#fff;
-    
+
 }
 .btn-border-white:hover{
     color:#333;
@@ -324,12 +324,37 @@ h2.slide-btm-text{
     -o-transition: 0.7s ease-in-out;
     transition: 0.7s ease-in-out;
 }
+
+.service-box3 i{
+    width:60px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    color:#fff;
+    font-size: 40px;
+      margin-bottom: 20px;
+    -webkit-transition: 0.7s ease-in-out;
+    -moz-transition: 0.7s ease-in-out;
+    -ms-transition: 0.7s ease-in-out;
+    -o-transition: 0.7s ease-in-out;
+    transition: 0.7s ease-in-out;
+}
+
 .service-box:hover i{
         -webkit-transform: rotateY(360deg);
     -moz-transform: rotateY(360deg);
     -ms-transform: rotateY(360deg);
     -o-transform: rotateY(360deg);
 }
+
+.service-box3:hover i{
+        -webkit-transform: rotateY(360deg);
+    -moz-transform: rotateY(360deg);
+    -ms-transform: rotateY(360deg);
+    -o-transform: rotateY(360deg);
+}
+
+
 .service-box h3{
     font-weight: 300;
 }
@@ -381,7 +406,7 @@ transition: top 0.15s linear;
     text-shadow: 0px 0px 3px rgba(0,0,0,0.33);
 }
 .bg-heading .center-heading .icon {
- 
+
     color:  #fff;
 }
 .bg-heading .center-heading .icon:before {
@@ -432,14 +457,14 @@ font-weight: 400;
     line-height: 70px;
     text-align: center;
     color:#fff;
-    background-color: #6c4dff;
+    background-color: #fff;
     border-radius: 35px;
     -webkit-border-radius: 35px;
     margin-bottom: 10px;
     font-size: 30px;
 }
 .service-info h4{
-    color:#6c4dff;
+    color:#fff;
     font-size: 24px;
     font-weight: 400;
 }
@@ -497,11 +522,11 @@ font-weight: 400;
 
 }
 .item-img-wrap img{
-    -webkit-transition:all 200ms linear; 
-    -moz-transition:all 200ms linear; 
-    -o-transition:all 200ms linear; 
-    -ms-transition:all 200ms linear; 
-    transition:all 200ms linear; 
+    -webkit-transition:all 200ms linear;
+    -moz-transition:all 200ms linear;
+    -o-transition:all 200ms linear;
+    -ms-transition:all 200ms linear;
+    transition:all 200ms linear;
 }
 .item-img-overlay{
     position: absolute;
@@ -525,13 +550,13 @@ font-weight: 400;
 }
 
 .item-img-wrap:hover .item-img-overlay span{
-    
+
 }
 .item-img-wrap:hover{
-    -moz-transform: scale(1.1); 
-    -webkit-transform: scale(1.1); 
-    -o-transform: scale(1.1); 
-    transform: scale(1.1); 
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
 }
 
 
@@ -549,7 +574,7 @@ text-align: center;
     margin: 0;
 }
 .plan-price{
-    padding: 20px 0;  
+    padding: 20px 0;
     text-align: center;
     border-bottom: 1px solid #efefef;
 }
@@ -594,7 +619,7 @@ font-size: 16px;
     font-size: 17px;
 }
 .address-info p i{
-    color:#6c4dff;
+    color:#939393;
     margin-right: 10px;
 }
 .address-info p{
@@ -609,15 +634,15 @@ font-size: 16px;
     line-height: 40px;
     text-align: center;
     background-color: #f4f4f2;
-       -webkit-transition:all 200ms linear; 
-    -moz-transition:all 200ms linear; 
-    -o-transition:all 200ms linear; 
-    -ms-transition:all 200ms linear; 
-    transition:all 200ms linear; 
+       -webkit-transition:all 200ms linear;
+    -moz-transition:all 200ms linear;
+    -o-transition:all 200ms linear;
+    -ms-transition:all 200ms linear;
+    transition:all 200ms linear;
 }
 .social li a i:hover{
     color:#fff;
-    background-color: #6c4dff;
+    background-color: #939393;
 }
 
 .contact-form form .form-control{
@@ -649,7 +674,7 @@ border-top-color: rgb(160,160,160);
 box-shadow: inset 0px 1px 2px rgba(0,0,0,0.1);
     font-size: 12px;
     color: #7a7a7a;
-   
+
     background: #FFF;
     -webkit-transition: all 200ms ease-in;
     -o-transition: all 200ms ease-in;
@@ -766,7 +791,7 @@ iframe {
 }
 .post-sidebar-box h4{
     font-size: 17px;
-    
+
 }
 .post-sidebar-box p{
     font-size: 13px;
@@ -863,7 +888,7 @@ h3.heading-progress {
 
 /*******fun-facts****/
 .fun-facts{
-    background: url('../image/showcase-5.jpg');
+    background: url('../image/showcase-55.jpg');
     padding: 80px 0;
 }
 .fact-inner h1{
@@ -896,16 +921,63 @@ h3.heading-progress {
     font-size: 40px;
 }
 
+.color-green{
+    color: #56ef00;
+    font-size: 40px;
+}
+
+.color-white{
+    color: #fff;
+    font-size: 40px;
+}
+
+.color-grey{
+    color: #939393;
+    font-size: 40px;
+}
+
+.color-orange{
+    color: #f6bb33;
+    font-size: 40px;
+}
+
+.color-red{
+    color: #ff1717;
+    font-size: 40px;
+}
+
+
 .color-pink2{
     color: #6c4dff;
 }
+
+.color-red2{
+    color: #ff1717;
+}
+
+.color-orange2{
+    color: #f6bb33;
+}
+
+.color-green2{
+    color: #56ef00;
+}
+
+.color-grey2{
+    color: #939393;
+}
+
+.btn-grey{
+    background-color: #939393;
+}
+
 
 .zoom{
         /* Aumentamos la anchura y altura durante 2 segundos */
         transition: width 2s, height 2s, transform 2s;
         -moz-transition: width 2s, height 2s, -moz-transform 2s;
         -webkit-transition: width 2s, height 2s, -webkit-transform 2s;
-        -o-transition: width 2s, height 2s,-o-transform 2s;       
+        -o-transition: width 2s, height 2s,-o-transform 2s;
     }
     .zoom:hover{
         /* tranformamos el elemento al pasar el mouse por encima al doble de
@@ -938,7 +1010,7 @@ h3.heading-progress {
     -webkit-transition: 2.5s ease; /* Chrome - Safari */
     -o-transition: 2.5s ease; /* Opera */
 }
- 
+
 .rueda:hover{
     transform : rotate(360deg);
     -moz-transform : rotate(360deg); /* Firefox */
