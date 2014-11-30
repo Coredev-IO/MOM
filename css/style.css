@@ -614,20 +614,20 @@ font-size: 16px;
 /***contact***/
 .address-info h3{
     font-weight: 400;
-    color:#000;
+    color:#042EC6;
     margin-bottom: 20px;
     font-size: 17px;
 }
 .address-info p i{
-    color:#939393;
+    color:#042EC6;
     margin-right: 10px;
 }
 .address-info p{
-    color:#777;
+    color:#042EC6;
 }
 .social li a i{
     font-size: 20px;
-    color:#777;
+    color:#042EC6;
     width:40px;
     margin-bottom: 3px;
     height: 40px;
@@ -642,7 +642,7 @@ font-size: 16px;
 }
 .social li a i:hover{
     color:#fff;
-    background-color: #939393;
+    background-color: #042EC6;
 }
 
 .contact-form form .form-control{
@@ -932,7 +932,7 @@ h3.heading-progress {
 }
 
 .color-grey{
-    color: #939393;
+    color: #042EC6;
     font-size: 40px;
 }
 
@@ -964,11 +964,11 @@ h3.heading-progress {
 }
 
 .color-grey2{
-    color: #939393;
+    color: #042EC6;
 }
 
 .btn-grey{
-    background-color: #939393;
+    background-color: #042EC6;
 }
 
 
