@@ -1801,6 +1801,21 @@
             </div>
         </div><!--cta 2-->
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         <section id="contact" class="section-padding">
             <div class="container">
                 <div class="row">
@@ -1821,23 +1836,45 @@
                 <div class="divided-50"></div>
                 <div class="row contact-form">
                     <div class="col-md-7 wow animated fadeInUp margin-btm-30"  data-wow-duration="700ms" data-wow-delay="300ms">
-                        <form role="form">
-                            <div class="form-group color-grey2">
-                                <label for="name">Nombre</label>
-                                <input type="text" class="form-control" id="name" required="">
-                            </div>
-                            <div class="form-group color-grey2">
-                                <label for="email">Email</label>
-                                <input type="email" class="form-control" id="email" required="">
-                            </div>
-                            <div class="form-group color-grey2">
-                                <label for="message">Mensaje</label>
-                                <textarea class="form-control" rows="7" id="message" required=""></textarea>
-                            </div> <div class="clearfix"></div>
-                            <p class="text-right">
-                                <button type="submit" class="btn btn-theme btn-lg btn-grey">Enviar Mensaje</button>
-                            </p>
-                        </form>
+
+                      <?php
+
+                      $attributes = array('class' => '', 'id' => '');
+                      echo form_open('home', $attributes); ?>
+                        <div class="form-group color-grey2">
+                          <label for="name">Nombre</label>
+                          <input type="text" placeholder="Nombre" class="form-control" id="name" name="nombre" required="" value="<?php echo set_value('nombre'); ?>">
+                        </div>
+
+                        <div class="form-group color-grey2">
+                          <label for="email">Dirección de correo electrónico</label>
+                          <input type="email" class="form-control" id="email" required="" name="mail" placeholder="Mail">
+                        </div>
+
+                        <div class="form-group color-grey2">
+                          <label for="tel">Télefono</label>
+                          <input type="phone" class="form-control" id="phone" required="" name="tel" placeholder="Télefono">
+                        </div>
+
+
+                        <div class="form-group color-grey2">
+                          <label for="asunto">Asunto</label>
+                          <input type="text" class="form-control" id="asunto" required="" name="asunto" placeholder="Asunto">
+                        </div>
+
+
+                        <div class="form-group color-grey2">
+                          <label for="message">Mensaje</label>
+                          <textarea class="form-control" rows="7" id="message" placeholder="Mensaje" name="mensaje" required=""></textarea>
+                        </div> <div class="clearfix"></div>
+
+
+                        <p class="text-right">
+                          <?php
+                          $attributes = array('class' => 'class="btn btn-theme btn-lg btn-grey"');
+                          echo form_submit( 'submit', 'Enviar', $attributes['class']); ?>
+                        </p>
+
                     </div><!--form col-->
                     <div class="col-md-5">
                            <div class=" margin-btm-30 address-info wow animated bounceIn "  data-wow-duration="700ms" data-wow-delay="200ms">
