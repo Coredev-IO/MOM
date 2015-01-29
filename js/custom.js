@@ -19,7 +19,7 @@ $(document).ready(function() {
  =============================================== */
 $(window).load(function() {
     $('.main-flex-slider').flexslider({
-        slideshowSpeed: 4000,
+        slideshowSpeed: 3000,
         directionNav: false,
         animation: "fade",
         controlNav: false
@@ -76,7 +76,7 @@ $(document).ready(function() {
         itemsMobile: [479, 1],
         singleItem: false,
         startDragging: true,
-        autoPlay: false
+        autoPlay: true
     });
 
 });

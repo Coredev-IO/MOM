@@ -7,7 +7,6 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>MomShop - Fashion Travelling Bags</title>
-
         <!-- Bootstrap -->
         <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <!-- <link rel="stylesheet" type="text/css" href="css/demo.css" /> -->
@@ -24,17 +23,15 @@
         <!--web fonts-->
         <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600,800' rel='stylesheet' type='text/css'>
         <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
-
         <!--owl carousel css-->
         <link href="css/owl.carousel.css" rel="stylesheet" type="text/css" media="screen">
         <link href="css/owl.theme.css" rel="stylesheet" type="text/css" media="screen">
         <!--popups css-->
         <link href="css/magnific-popup.css" rel="stylesheet" type="text/css">
-
-
     </head>
-    <body data-spy="scroll" data-offset="80">
 
+    <body data-spy="scroll" data-offset="80">
+        <!--********************************************HOME*****************************************  -->
         <section id="home" data-stellar-background-ratio="0.5" style="background-position: 50% 0px;">
             <div class="parallax-overlay"></div>
             <div class="home-content text-center">
@@ -46,49 +43,39 @@
                             </center>
                         </div>
                     </div>
-
                     <div class="main-flex-slider">
                         <ul class="slides">
                             <li class="" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;">
                                 <h1>El toque Fashion</h2>
-
                             </li>
+
                             <li class="" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 0; display: block; z-index: 1;">
                                 <h1>para tus actividades</h1>
-
                             </li>
-                            <li class="flex-active-slide" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;">
-                                <h1>d&iacutea a d&iacutea</h1>
 
+                            <li class="flex-active-slide" style="width: 100%; float: left; margin-right: -100%; position: relative; opacity: 1; display: block; z-index: 2;">
+                                <h1>d&iacute;a a d&iacute;a</h1>
                             </li>
                         </ul>
                     </div>
-
                     <h2 class="slide-btm-text"><b>Empresa dedicada a la venta de productos de Moda, Belleza, Estilo y Comodidad.</b></h2>
-
                     <!-- Aqui va el video pero aun no tiene esperar para habilitar opción -->
 
                     <!-- <div class="home-link-btn text-center">
                          <a class="btn btn-lg btn-border-white" data-toggle="modal" data-target=".bs-example-modal-sm"> <i class="fa fa-play"></i> </a>
                     </div> -->
-
-
                     <br><br><br><br><br><br>
-
                     <div class="col-md-6 col-md-offset-3 text-center">
                         <a href="http://online.fliphtml5.com/cwvx/hlub/" class="btn btn-lg btn-border-white big-btn btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b>Cat&aacute;logo 2014</b></a>
                             <!-- Otro Catalogo 20134 http://online.fliphtml5.com/hpvm/marb/#p=1 -->
-                    </div> <br><br><br>
+                    </div>
+                    <br><br><br>
                     <center>
                     <div class="col-md-4 col-md-offset-4 text-center">
                     <a href="CatalogoMujeres.pdf" class="btn btn-lg btn-border-white big-btn btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b><h4><i class="fa fa-download"></i>&nbsp;Descarga Cat&aacute;logo 2014</b></h4></a>
                   </div>
-
-
                 </div>
-
             </div>
-
         </section>
                     <!-- Contenido de Modal -->
                     <!-- <div class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
@@ -97,7 +84,10 @@
                       </div>
                     </div> -->
                     <!-- Fin del contenido de Modal -->
+        <!--********************************************Termina HOME*****************************************  -->
 
+
+        <!--********************************************Inicia primera sección***********************************  -->
         <section id="navigation">
             <div class="navbar navbar-default navbar-static-top" role="navigation">
                 <div class="container">
@@ -111,21 +101,21 @@
                         <a class="navbar-brand" href="index.html"> <img src="image/logomom1.png" class="center2" align="center" alt="workimg" height="70" width="200"></a>
                     </div>
                     <div class="navbar-collapse collapse">
-
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="#home">INICIO</a></li>
                             <li><a href="#about">&iquest;QU&Iacute;ENES SOMOS?</a></li>
-                            <!-- <li><a href="#team">PRODUCTOS</a></li>
-                            <li><a href="#services">CUALIDADES T&Eacute;CNICAS</a></li> -->
                             <li><a href="#work">COLECCI&Oacute;N HANGING</a></li>
                             <li><a href="#blog">DETALLES TRAVELLING</a></li>
                             <li><a href="#contact">AF&Iacute;LIATE</a></li>
                         </ul>
-
                     </div><!--/.nav-collapse -->
                 </div><!--/.container -->
             </div><!--navbar-default-->
-        </section><!--navigation section end here-->
+        </section>
+        <!--********************************************Termina primera sección***********************************  -->
+
+
+        <!--********************************************Inicia segunda sección***********************************  -->
         <section id="about" class="section-padding">
             <div class="container">
                 <div class="row">
@@ -138,7 +128,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 text-center wow animated fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">
                         <p class="lead margin-btm-30" align="justify">
-                        Somos una marca dedicada a la venta y distribuci&oacuten de productos de Moda, Belleza, Estilo y Comodidad, pensada en la mujer actual que se desarrolla en un mundo din&aacutemico y cambiante y que  adem&aacute;s se preocupa por realizar sus actividades proyectando glamour, personalidad y estilo. Productos dise&ntilde;ados y pensados para facilitar su vida con estilo y comodidad.
+                        Somos una marca dedicada a la venta y distribuci&oacute;en de productos de Moda, Belleza, Estilo y Comodidad, pensada en la mujer actual que se desarrolla en un mundo din&aacutemico y cambiante y que  adem&aacute;s se preocupa por realizar sus actividades proyectando glamour, personalidad y estilo. Productos dise&ntilde;ados y pensados para facilitar su vida con estilo y comodidad.
                         </p>
                     </div>
                 </div>
@@ -147,28 +137,28 @@
                         <div class="service-box wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="300ms">
                             <i class="fa fa-female"></i>
                             <h3>Moda, estilo y comodidad</h3>
-                            <p align="justify">Estos son los principales objetivos de MOM,  Queremos que la mujer actual est&eacute; a la vanguardia de la moda con el estilo de cada una y sobre todo lleve sus cosas de una manera c&oacute;moda en todas sus actividades.</p>
+                            <p align="justify">Queremos que la mujer actual est&eacute; a la vanguardia de la moda con el estilo y lleve una MOM a todos lados d&iacute;a con d&iacute;a.</p>
                         </div>
                     </div><!--service col end-->
                     <div class="col-md-3 margin-btm-30">
                         <div class="service-box wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="400ms">
                             <i class="fa fa-heart"></i>
                             <h3>Mom est&aacute; con el ritmo diario de la vida</h3>
-                            <p align="justify"> En MOM nos preocupamos porque cada uno de nuestros productos tenga el balance necesario para estar a la moda y sobre todo con el estilo de cada mujer.</p>
+                            <p align="justify"> En MOM nos preocupamos porque cada uno de nuestros productos tenga el balance necesario para estar a la moda.</p>
                         </div>
                     </div><!--service col end-->
                     <div class="col-md-3 margin-btm-30">
                         <div class="service-box wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="500ms">
                             <i class="fa fa-car"></i>
                             <h3>Mom es fashion a donde quiera que vayas</h3>
-                            <p align="justify">MOM est&aacute; dise&ntilde;ada para llevarla c&oacute;modamente a todos lados, para que te acompa&ntilde;e a cualquier actividad y no solo te sirva para viajar y quede guardada en el armario hasta tus siguientes vacaciones.  Podr&aacute;s llevarla a todos lados, a la oficina o al gimnasio.</p>
+                            <p align="justify">MOM est&aacute; dise&ntilde;ada para llevarla c&oacute;modamente a todos lados, para que te acompa&ntilde;e a cualquier actividad y no solo te sirva para viajar.</p>
                         </div>
                     </div><!--service col end-->
                     <div class="col-md-3 margin-btm-30">
                         <div class="service-box wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="600ms">
                             <i class="fa fa-gift"></i>
                             <h3>Mom es un bonito regalo</h3>
-                            <p align="justify">Un regalo &uacute;til, de calidad y duradero, que adem&aacute;s podr&iacute;a ser una fuente de ingresos extra.</p>
+                            <p align="justify">Un regalo &uacute;til, de calidad y duradero, que adem&aacute;s podr&iacute;a ser un bello detalle para cualquier mujer que viaje mucho y con estilo.</p>
                         </div>
                     </div><!--service col end-->
                 </div>
@@ -176,32 +166,28 @@
                 <div class="row goals-skills-wrap">
                     <div class="col-md-6 margin-btm-30">
                         <h2>Objetivo de MOM</h2>
-                        <p align="justify">En MOM nuestra meta principal es contribuir a que la mujer viva m&aacute;s relajada al no cargar un pesado bolso.  Que pueda trasladar c&oacute;modamente todas sus cosas no s&oacute;lo de viaje, sino de casa, oficina o escuela y que adem&aacute;s pueda hacerlo de una manera fashion y con estilo.  MOM no es s&oacute;lo una maleta con estilo de bolsa fashion sino es ya un estilo de vida y que su condici&oacute;n f&iacute;sica lo agradecer&aacute;.  No m&aacute;s cargar y aparte llevar las manos ocupadas.  Con MOM todo eso desaparecer&aacute; porque todo lo podr&aacute;s llevar sobre ruedas.
-                        </p>
-
-                    </div><!--goals-->
+                        <p align="justify">En MOM nuestra meta principal es contribuir a que la mujer viva m&aacute;s relajada al no cargar un pesado bolso.  Que pueda trasladar c&oacute;modamente todas sus cosas no s&oacute;lo de viaje, sino de casa, oficina o escuela y que adem&aacute;s pueda hacerlo de una manera fashion y con estilo. No m&aacute;s cargar y aparte llevar las manos ocupadas. Con MOM todo eso desaparecer&aacute; porque todo lo podr&aacute;s llevar sobre ruedas.</p>
+                    </div><!--RANKING-->
                     <div class="col-md-6 margin-btm-30">
                         <h2>Ranking de ventas</h2>
                         <div class="skills-wrapper wow animated fadeInUp">
                             <h3 class="heading-progress">Fashion Travelling<span class="pull-right">90%</span></h3>
                             <div class="progress">
-                                <div class="progress-bar" style="width: 90%" aria-valuemax="100" aria-valuemin="0" aria-valuenow="78" role="progressbar">
-                                </div>
+                                <div class="progress-bar" style="width: 90%" aria-valuemax="100" aria-valuemin="0" aria-valuenow="78" role="progressbar"></div>
                             </div>
                             <h3 class="heading-progress">Fashion Hanging<span class="pull-right">85%</span></h3>
                             <div class="progress">
-                                <div class="progress-bar" style="width: 85%" aria-valuemax="100" aria-valuemin="0" aria-valuenow="82" role="progressbar">
-                                </div>
+                                <div class="progress-bar" style="width: 85%" aria-valuemax="100" aria-valuemin="0" aria-valuenow="82" role="progressbar"></div>
                             </div>
                         </div>
-
-                    </div><!--goals-->
+                    </div><!--FINISH RANKING-->
                 </div>
             </div>
-        </section><!--about section end-->
+        </section>
+        <!--********************************************Termina segunda sección***********************************  -->
 
-
-
+        
+        <!--********************************************Inicia primer parte comentada sección****************************  -->
         <!-- <section id="team" class="section-padding">
             <div class="container">
                 <div class="row">
@@ -368,15 +354,16 @@
                 </div>
             </div>
         </section> -->
+        <!--********************************************Termina primer parte comentada sección****************************  -->
 
 
-
+        <!--********************************************Inicia tercer sección**************************************  -->
         <section id="cualidades" class="parallax testimonials bg-heading" data-stellar-background-ratio="0.5">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="center-heading text-center">
-                            <h2 class="wow animated bounceIn"  data-wow-duration="700ms" data-wow-delay="100ms">CUALIDADES</h2>
+                            <h2 class="wow animated bounceIn espacioSegunda"  data-wow-duration="700ms" data-wow-delay="100ms">CUALIDADES</h2>
                             <span class="icon"><i class="fa fa-eye"></i></span>
                         </div>
                     </div>
@@ -385,47 +372,72 @@
                     <div class="col-md-8 col-md-offset-2 text-center">
                         <div id="testi-carousel" class="owl-carousel">
                             <div>
-                                <h4 align="justify">
-
-                                    <b>Cuando la mujer hace un viaje de placer o negocios, el momento de empacar se vuelve algo dif&iacute;cil.  Lo que hace falta siempre es espacio para guardar mas cosas.  Tenemos cosas que requieren siempre de m&aacute;s cuidado.  MOM fue pensada en esas ocasiones en que ya no puedes esperar a que tu maleta la descargue una aerol&iacute;nea ya que viajas de negocios, ya no perder&aacute;s tus cosas muy personales como c&aacute;maras o incluso medicamentos y veces resulta extraviada. Con MOM Esto ya no pasar&aacute; ya que la puedes llevar contigo en todo momento. </b>
-                                </h4>
+                                <h2 align="center">
+                                <b>MOM es practica</b>
+                                </h2>
+                                <i class="glyphicon glyphicon-heart"></i>
                             </div>
                             <div>
-                                <h4 align="justify">
-                                    <b> Si deseas trabajar en el traslado, MOM es para ti ya que c&oacute;modamente y de manera segura podr&aacute;s llevar tu Laptop o Ipad en el porta equipaje sin ning&uacute;n problema.  Su medida es totalmente reglamentaria para que puedas llevarla como un bols&oacute;n.</b>
-                                </h4>
+                                <h2 align="center">
+                                <b>MOM es comoda</b>
+                                </h2>
+                                <i class="fa fa-female"></i>
                             </div>
                             <div>
-                                <h4 align="justify">
-                                    <b> Todas nuestra bolsas Travelling y Hanging, tienen nuestro logotipo grabado o en placa lo que la hace tambi&eacute;n identificable.
-                                    En el caso de las Handing, los forros son intercambiables lo que permite llevar una sola bolsa de mano pero hacerla din&aacute;mica, convirti&eacute;ndola en otra con su gama de colores de forros diferentes y que podr&aacute;s adquirir individualmente.</b>
-                                </h4>
+                                <h2 align="center">
+                                <b>Mom es espaciosa</b>
+                                </h2>
+                                <i class="fa fa-trophy"></i>
+                            </div>
+                            <div>
+                                <h2 align="center">
+                                <b>Mom usa materiales unicos</b>
+                                </h2>
+                                <i class="fa fa-star"></i>
+                            </div>
+                            <div>
+                                <h2 align="center">
+                                <b>Mom util para viajar</b>
+                                </h2>
+                                <i class="glyphicon glyphicon-plane"></i>
+                            </div>
+                            <div>
+                                <h2 align="center">
+                                <b>Mom tiene gran diseño</b>
+                                </h2>
+                                <i class="fa fa-thumbs-up"></i>
+                            </div>
+                            <div>
+                                <h2 align="center">
+                                <b>Mom es segura</b>
+                                </h2>
+                                <i class="glyphicon glyphicon-lock"></i>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </section>
+        <!--********************************************Termina tercer sección*************************************  -->
 
-
+        
+        <!--********************************************Inicia cuarta sección**************************************  -->
         <section class="cta-1">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-md-offset-3 text-center">
                         <a href="http://online.fliphtml5.com/cwvx/hlub/" class="btn btn-lg btn-border-white big-btn  btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b>Cat&aacute;logo 2014</b></a>
-
-                        <!-- Catalogo bueno http://online.fliphtml5.com/cwvx/hlub/ -->
-                        <!-- otro catalogo http://online.fliphtml5.com/hpvm/marb/#p=1 -->
                     </div><br><br><br>
-
                     <div class="col-md-4 col-md-offset-4 text-center">
                     <a href="CatalogoMujeres.pdf" class="btn btn-lg btn-border-white big-btn btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b><h4><i class="fa fa-download"></i>&nbsp;Descarga Cat&aacute;logo 2014</b></h4></a>
-                    </di>
+                    </div>
                 </div>
             </div>
-        </section><!--cta-1 end-->
+        </section>
+        <!--********************************************Termina cuarta sección**************************************  -->
 
 
+        <!--********************************************Inicia segunda parte comentada sección*******************************  -->
         <!-- <section id="services" class="section-padding parallax bg-heading" data-stellar-background-ratio="0.5">
             <div class="container">
                 <div class="row">
@@ -493,7 +505,7 @@
                 </div> -->
 
 
-                <div class="divided-50"></div>
+                <!-- <div class="divided-50"></div> -->
 
                 <!-- <div class="row">
                     <div class="col-md-6 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="300ms">
@@ -532,10 +544,12 @@
                         </div>
                     </div>
                 </div> -->
-            </div>
-        </section><!--services-->
+            <!-- </div>
+        </section> -->
+        <!--********************************************Termina segunda parte comentada sección******************************  -->
 
-
+        
+        <!--********************************************Inicia quinta sección****************************************  -->
         <section id="work" class="section-padding">
             <div class="container">
                 <div class="row">
@@ -712,8 +726,11 @@
                     </div><!--.col-md-12 of portfolio filter-->
                 </div><!--.row-->
             </div>
-        </section><!--work-->
+        </section>
+        <!--********************************************Termina quinta sección***************************************  -->
 
+
+        <!--********************************************Inicia sexta sección*****************************************  -->
         <section class="fun-facts parallax" data-stellar-background-ratio="0.5">
             <div class="container">
                 <div class="row">
@@ -737,23 +754,24 @@
                     </div><!--facts col-->
                 </div>
             </div>
-        </section><!--fun facts-->
+        </section>
+        <!--********************************************Termina sexta sección*****************************************  -->
+
+
+        <!--********************************************Inicia septima sección*****************************************  -->
         <div class="cta-3">
             <div class="container text-center">
                 <img src="image/logomom2.png" class="align-center" align="center" alt="Responsive image" height="100" width="300">
                 <h3 class=" wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">Queremos que dejes de cargar un bolso pesado que s&oacute;lo da&ntilde;ar&aacute; tu espalda.
                 Deja de cargar y ponte a rodar tu Travelling Bag!</h3>
-
                     <!-- Boton que puede servir para cualquier cosa -->
                <!--  <p class=" wow animated fadeInDown"  data-wow-duration="700ms" data-wow-delay="200ms"><a href="#" class="btn btn-border-white btn-lg">Purchase Now</a></p> -->
-
-
             </div>
-        </div><!--cta-3-->
+        </div>
+        <!--********************************************termina septima sección*****************************************  -->
 
 
-
-
+        <!--********************************************Inicia octava sección*****************************************  -->
         <section id="blog" class="section-padding">
             <div class="container">
                 <div class="row">
@@ -1783,7 +1801,11 @@
 
                 </div><!--blog post row-->
             </div>
-        </section><!--blog section end-->
+        </section>
+        <!--********************************************Termina octava sección*****************************************  -->
+
+        
+        <!--********************************************Inicia noveno sección*****************************************  -->
         <div class="cta-2">
             <div class="container text-center">
                 <div class="row">
@@ -1799,23 +1821,11 @@
 
                 </div>
             </div>
-        </div><!--cta 2-->
+        </div>
+        <!--********************************************Termina noveno sección*****************************************  -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        
+        <!--********************************************Inicia decimo sección*****************************************  -->
         <section id="contact" class="section-padding">
             <div class="container">
                 <div class="row">
@@ -1883,7 +1893,7 @@
                             <br><i class="fa fa-map-marker"></i>Patricio Sanz 1529 Col. Del Valle Del. Benito Ju&aacute;rez</p>
                             <br>
 
-                        <p><i class="fa fa-phone"></i> Telefonos: (55) 59503710 / 5950-3711
+                        <p><i class="fa fa-phone"></i> Telefonos: 52903110
                             <br><i class="fa fa-phone"></i> Telefonos: (55) 53352071</p>
                             <br>
 
@@ -1912,9 +1922,12 @@
                     </div>
                 </div>
             </div>
-        </section><!--contact-->
-        <div class="divided-50"></div>
+        </section>
+        <!--********************************************Termina decimo sección*****************************************  -->
 
+
+        <!--********************************************FOOTER*****************************************  -->
+        <div class="divided-50"></div>
         <footer id="footer">
             <div class="container text-center">
                 <a href="#home"><img src="image/logomom1.png" class="align-center" align="center" alt="Responsive image" height="100" width="300"></a>
@@ -1922,7 +1935,7 @@
                 <span>&copy; 2014. MOMSHOP</span>
             </div>
         </footer>
-
+        <!--********************************************Termina FOOTER*****************************************  -->
 
 
 
@@ -2156,8 +2169,6 @@
            });
         </script>
 
-
-
          <script>
         $('.zoom_all').elevateZoom({
         zoomType: "inner",
@@ -2167,12 +2178,9 @@
            });
         </script>
 
-
-
         <!--bootstrap js plugin-->
         <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
         <script type="text/javascript" src="js/modernizr.custom.79639.js"></script>
-
         <!--easing plugin for smooth scroll-->
         <script src="js/jquery.easing.1.3.min.js" type="text/javascript"></script>
         <script src="js/jquery.sticky.js" type="text/javascript"></script>
@@ -2189,10 +2197,7 @@
         <script src="js/owl.carousel.min.js" type="text/javascript"></script>
         <!--popup js-->
         <script src="js/jquery.magnific-popup.min.js" type="text/javascript"></script>
-
         <!--customizable plugin edit according to your needs-->
         <script src="js/custom.js" type="text/javascript"></script>
     </body>
 </html>
-
-<!-- Localized -->
