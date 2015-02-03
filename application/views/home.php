@@ -76,14 +76,14 @@
                   </div>
                 </div>
             </div>
-        </section>
-                    <!-- Contenido de Modal -->
+            <!-- Contenido de Modal -->
                     <!-- <div class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
                       <div class="modal-dialog ">
                             <embed height="350" src="https://www.youtube.com/v/SmXd2RBrigk&autoplay=1" type="application/x-shockwave-flash" width="425"></embed></object>
                       </div>
                     </div> -->
                     <!-- Fin del contenido de Modal -->
+        </section>
         <!--********************************************Termina HOME*****************************************  -->
 
 
@@ -104,8 +104,8 @@
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="#home">INICIO</a></li>
                             <li><a href="#about">&iquest;QU&Iacute;ENES SOMOS?</a></li>
+                            <li><a href="#blog">COLECCION TRAVELLING</a></li>
                             <li><a href="#work">COLECCI&Oacute;N HANGING</a></li>
-                            <li><a href="#blog">DETALLES TRAVELLING</a></li>
                             <li><a href="#contact">AF&Iacute;LIATE</a></li>
                         </ul>
                     </div><!--/.nav-collapse -->
@@ -119,6 +119,11 @@
         <section id="about" class="section-padding">
             <div class="container">
                 <div class="row">
+                    <div class="col-md-6 col-md-offset-3 respo-cust">
+                        <center>
+                        <img src="image/logomom1.png" class="img-responsive" alt="Responsive image"><br>
+                        </center>
+                    </div>
                     <div class="col-md-12">
                         <div class="center-heading text-center font-h">
                             <p class=" wow animated bounceIn color-red"  data-wow-duration="700ms" data-wow-delay="100ms"><b>&iquest;QU&Iacute;ENES SOMOS?</b></p>
@@ -166,7 +171,7 @@
                 <div class="row goals-skills-wrap">
                     <div class="col-md-6 margin-btm-30">
                         <h2>Objetivo de MOM</h2>
-                        <p align="justify">En MOM nuestra meta principal es contribuir a que la mujer viva m&aacute;s relajada al no cargar un pesado bolso.  Que pueda trasladar c&oacute;modamente todas sus cosas no s&oacute;lo de viaje, sino de casa, oficina o escuela y que adem&aacute;s pueda hacerlo de una manera fashion y con estilo. No m&aacute;s cargar y aparte llevar las manos ocupadas. Con MOM todo eso desaparecer&aacute; porque todo lo podr&aacute;s llevar sobre ruedas.</p>
+                        <p align="justify">En MOM nuestra meta principal es contribuir a que la mujer viva m&aacute;s relajada al no cargar un pesado bolso.  Que pueda trasladar c&oacute;modamente todas sus cosas no s&oacute;lo de viaje, sino de casa, oficina o escuela y que adem&aacute;s pueda hacerlo de una manera fashion y con estilo.
                     </div><!--RANKING-->
                     <div class="col-md-6 margin-btm-30">
                         <h2>Ranking de ventas</h2>
@@ -185,192 +190,23 @@
             </div>
         </section>
         <!--********************************************Termina segunda sección***********************************  -->
+        
 
         
         <!--********************************************Inicia primer parte comentada sección****************************  -->
-        <!-- <section id="team" class="section-padding">
-            <div class="container">
-                <div class="row">
-                    <div class="col-sm-12">
-                        <div class="center-heading text-center">
-                            <p class=" wow animated bounceIn color-red"  data-wow-duration="700ms" data-wow-delay="100ms"><b>PRODUCTOS</b></p>
-                            <span class="icon"><i class="glyphicon glyphicon-briefcase color-red2"></i></span>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-3 ">
-                        <ul class="ch-grid">
-                            <li>
-                              <div class="ch-item ch-img-1">
-                                <div class="ch-info-wrap">
-                                  <div class="ch-info">
-                                    <div class="ch-info-front ch-img-1"></div>
-                                    <div class="ch-info-back">
-                                          <div class="item-img-overlay">
-                                            <a href="image/fondo1.jpg" class="show-image"><br><br><br>..... </a>
-                                            </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </li>
-                          </ul>
-                    </div>
-
-                    <div class="col-md-3 ">
-                        <ul class="ch-grid">
-                            <li>
-                              <div class="ch-item">
-                                <div class="ch-info-wrap">
-                                  <div class="ch-info">
-                                    <div class="ch-info-front ch-img-2"></div>
-                                    <div class="ch-info-back2">
-                                          <div class="item-img-overlay">
-                                            <a href="image/fondo2.jpg" class="show-image"><br><br><br>..... </a>
-                                            </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </li>
-                          </ul>
-                    </div>
-
-                    <div class="col-md-3 ">
-                        <ul class="ch-grid">
-                            <li>
-                              <div class="ch-item ch-img-3">
-                                <div class="ch-info-wrap">
-                                  <div class="ch-info">
-                                    <div class="ch-info-front ch-img-3"></div>
-                                    <div class="ch-info-back3">
-                                          <div class="item-img-overlay">
-                                            <a href="image/fondo3.jpg" class="show-image"><br><br><br>..... </a>
-                                            </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </li>
-                          </ul>
-                    </div>
-
-                     <div class="col-md-3 ">
-                        <ul class="ch-grid">
-                            <li>
-                              <div class="ch-item ch-img-4">
-                                <div class="ch-info-wrap">
-                                  <div class="ch-info">
-                                    <div class="ch-info-front ch-img-4"></div>
-                                    <div class="ch-info-back4">
-                                          <div class="item-img-overlay">
-                                            <a href="image/fondo4.jpg" class="show-image"><br><br><br>..... </a>
-                                            </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </li>
-                          </ul>
-                    </div>
-
-                    <div class="col-md-3 ">
-                        <ul class="ch-grid">
-                            <li>
-                              <div class="ch-item ch-img-5">
-                                <div class="ch-info-wrap">
-                                  <div class="ch-info">
-                                    <div class="ch-info-front ch-img-5"></div>
-                                    <div class="ch-info-back5">
-                                          <div class="item-img-overlay">
-                                            <a href="image/fondo5.jpg" class="show-image"><br><br><br>..... </a>
-                                            </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </li>
-                          </ul>
-                    </div>
-
-                    <div class="col-md-3 ">
-                        <ul class="ch-grid">
-                            <li>
-                              <div class="ch-item">
-                                <div class="ch-info-wrap">
-                                  <div class="ch-info">
-                                    <div class="ch-info-front ch-img-6"></div>
-                                    <div class="ch-info-back6">
-                                          <div class="item-img-overlay">
-                                            <a href="image/fondo6.jpg" class="show-image"><br><br><br>..... </a>
-                                            </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </li>
-                          </ul>
-                    </div>
-
-                    <div class="col-md-3 ">
-                        <ul class="ch-grid">
-                            <li>
-                              <div class="ch-item ch-img-7">
-                                <div class="ch-info-wrap">
-                                  <div class="ch-info">
-                                    <div class="ch-info-front ch-img-7"></div>
-                                    <div class="ch-info-back7">
-                                          <div class="item-img-overlay">
-                                            <a href="image/fondo7.jpg" class="show-image"><br><br><br>..... </a>
-                                            </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </li>
-                          </ul>
-                    </div>
-
-                    <div class="col-md-3 ">
-                        <ul class="ch-grid">
-                            <li>
-                              <div class="ch-item ch-img-8">
-                                <div class="ch-info-wrap">
-                                  <div class="ch-info">
-                                    <div class="ch-info-front ch-img-8"></div>
-                                    <div class="ch-info-back8">
-                                          <div class="item-img-overlay">
-                                            <a href="image/fondo8.jpg" class="show-image"><br><br><br>..... </a>
-                                            </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </li>
-                          </ul>
-                    </div>
-
-                </div>
-            </div>
-        </section> -->
-        <!--********************************************Termina primer parte comentada sección****************************  -->
-
-
-        <!--********************************************Inicia tercer sección**************************************  -->
-        <section id="cualidades" class="parallax testimonials bg-heading" data-stellar-background-ratio="0.5">
+        <section id="cualidades" class="parallax  bg-heading">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
                         <div class="center-heading text-center">
-                            <h2 class="wow animated bounceIn espacioSegunda"  data-wow-duration="700ms" data-wow-delay="100ms">CUALIDADES</h2>
+                            <h2 class="wow animated bounceIn espacioSegunda"  data-wow-duration="700ms" data-wow-delay="100ms">¿Por que decidirte por una MOM?</h2>
                             <span class="icon"><i class="fa fa-eye"></i></span>
                         </div>
                     </div>
                 </div>
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 text-center">
-                        <div id="testi-carousel" class="owl-carousel">
+                        <div id="testi-carousel" class="owl-carousel espacioCualidades">
                             <div>
                                 <h2 align="center">
                                 <b>MOM es practica</b>
@@ -418,9 +254,16 @@
                 </div>
             </div>
         </section>
+        <!--********************************************Termina primer parte comentada sección****************************  -->
+
+
+
+        <!--********************************************Inicia tercer sección**************************************  -->
+        <section  class="parallax testimonials bg-heading" data-stellar-background-ratio="0.5">  </section>
         <!--********************************************Termina tercer sección*************************************  -->
 
         
+
         <!--********************************************Inicia cuarta sección**************************************  -->
         <section class="cta-1">
             <div class="container">
@@ -437,341 +280,8 @@
         <!--********************************************Termina cuarta sección**************************************  -->
 
 
-        <!--********************************************Inicia segunda parte comentada sección*******************************  -->
-        <!-- <section id="services" class="section-padding parallax bg-heading" data-stellar-background-ratio="0.5">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="center-heading text-center font-h">
-                            <p class=" wow animated bounceIn color-white"  data-wow-duration="700ms" data-wow-delay="100ms"><b>CUALIDADES T&Eacute;CNICAS</b></p>
-                            <span class="icon"><i class="fa fa-bars"></i></span>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-md-6 margin-btm-30 wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="100ms">
-                        <div class="row">
-                            <div class="col-md-2 margin-btm-30">
-                                <div class=" service-box3 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="300ms">
-                                    <i class="fa fa-plane"></i>
-                                </div>
-                            </div>
-                            <div class="col-md-10">
-                                <div class="service-info">
-                                    <h4><b>Material</h4>
-                                    <p align="justify">
-                                        <b>Nuestras maletas est&aacute;n hechas con un material llamado PIU  Poliuretano muy resistente al impacto, duro, r&iacute;gido y con alta resistencia a la abrasi&oacute;n. Normativa de las aerol&iacute;neas ya que cumple con las caracter&iacute;sticas adecuadas para llevarla como equipaje de cabina.   Cabe perfectamente con el rolling abajo en el porta equipaje de los aviones.  Es un material totalmente lavable y tiene una resistencia promedio de 12 a 15 kilogramos de peso.  Su mecanismo de rolling es de tres golpes oprimiendo el bot&oacute;n medio de la asa. Tiene una medida promedio de 50 cms  de largo, por 40 cms. de alto por 30 cms.  de grosor. Cada maleta tiene su estilo y diferentes maneras de agrandarla a&uacute;n m&aacute;s.  Nuestra l&iacute;nea se divide en Ejecutiva, Deportiva, Casual y Escolar.  Ya que algunas s&iacute; son muy ejecutivas y no ampl&iacute;an demasiado. Otras ampl&iacute;an m&aacute;s para un viaje incluso de 3 d&iacute;as de negocios.  Todas tienen porta IPAD o Laptop, bolsa interna con cierre para llaves o credenciales, dos compartimientos para celular o espejo, un cierre al fondo para ocultar documentos. Cada maleta viene en un s&oacute;lo dise&ntilde;o, estilo y color. El modelo es &uacute;nico, es decir una amarilla con grecas negras, s&oacute;lo es de ese color.  El rolling no es desmontable, sin embargo en algunos modelos se oculta con un cierre.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 margin-btm-30 wow animated fadeInRight"  data-wow-duration="700ms" data-wow-delay="200ms">
-                        <div class="row">
-                            <div class="col-md-2 margin-btm-30">
-                                <div class=" service-box3 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="300ms">
-                                    <i class="glyphicon glyphicon-briefcase"></i>
-                                </div>
-                                <br><br><br><br><br>
-                                <div class=" service-box3 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="300ms">
-                                    <i class="glyphicon glyphicon-heart"></i>
-                                </div>
-                                <br><br><br>
-                                <div class=" service-box3 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="300ms">
-                                    <i class="fa fa-users"></i>
-                                </div>
-                            </div>
-                            <div class="col-md-10">
-                                <div class="service-info">
-                                    <h4><b>Cualidades Exquisitas</h4>
-                                    <p align="justify">
-                                        <b>Cada modelo es &uacute;nico y en otras temporadas no se repite.  Cada bolsa tiene un secreto diferente, una cualidad &uacute;nica. Algunas tienen divisi&oacute;n interna, otras se les quita el porta Ipad, otras tienen alguna bolsa externa, algunas tienen un candado, en fin, cada bolsa guarda su estilo y glamour.
-                                    </p>
-                                    <br><br>
-                                    <h4><b>Informacion Importante</h4>
-                                    <p align="justify">
-                                        <b>Todas las bolsas tiene  compartimiento para IPAD, LAPTOP. Y son totalmente indocumentables en las aerol&iacute;neas.
-                                    </p>
-                                    <br><br>
-                                    <h4><b>Estilo</h4>
-                                    <p align="justify">
-                                        <b>23 Modelos de Travelling para cada gusto y estilo de mujer.  Mujer Ejecutiva, Mujer Deportiva, Mujer Casual, no importa porque MOM la llevar&aacute;s a todos lados y son totalmente combinables.
-
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
-
-
-                <!-- <div class="divided-50"></div> -->
-
-                <!-- <div class="row">
-                    <div class="col-md-6 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="300ms">
-                        <div class="row">
-                            <div class="col-md-2 margin-btm-30">
-                                <div class="service-icon service-box wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="300ms">
-                                    <i class="glyphicon glyphicon-heart"></i>
-                                </div>
-                            </div>
-                            <div class="col-md-10">
-                                <div class="service-info">
-                                    <h4><b>Informacion Importante</h4>
-                                    <p align="justify">
-                                        <b>Todas las bolsas tiene  compartimiento para IPAD, LAPTOP. Y son totalmente indocumentables en las aerol&iacute;neas.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="400ms">
-                        <div class="row">
-                            <div class="col-md-2 margin-btm-30">
-                                <div class="service-icon service-box wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="300ms">
-                                    <i class="fa fa-users"></i>
-                                </div>
-                            </div>
-                            <div class="col-md-10">
-                                <div class="service-info">
-                                    <h4><b>Estilo</h4>
-                                    <p align="justify">
-                                        <b>23 Modelos de Travelling para cada gusto y estilo de mujer.  Mujer Ejecutiva, Mujer Deportiva, Mujer Casual, no importa porque MOM la llevar&aacute;s a todos lados y son totalmente combinables.
-
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
-            <!-- </div>
-        </section> -->
-        <!--********************************************Termina segunda parte comentada sección******************************  -->
-
         
-        <!--********************************************Inicia quinta sección****************************************  -->
-        <section id="work" class="section-padding">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="center-heading text-center font-h">
-                            <p class=" wow animated bounceIn color-orange"  data-wow-duration="700ms" data-wow-delay="100ms"><b>COLECCI&Oacute;N HANGING</b></p>
-                        </div><!--center heading-->
-                    </div>
-                </div><!--center heading-->
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2 text-center">
-                        <p class="lead margin-btm-30" align="justify">
-                            Nuestros productos son hechos con los mejores materiales y son de alta calidad y pueden ser utilizados en cualquier tipo de actividad que realices d&iacute;a con d&iacute;a, puedes llevarla al gimnasio, oficina, reuniones sociales, viajes largos o cortos, de negocios o placer.
-                            Nuestra colecci&oacute;n consta de 23 modelos en Travelling bag y 8 modelos Hanging bag que se convierten en 23 por su gama de colores y forros.
-                        </p>
-                    </div>
-                </div>
-                <div class="divided-50"></div>
-                <div class="row">
-                    <div id="work-slide" class="owl-carousel">
-                        <div>
-                            <div class="col-md-6 margin-btm-30">
-                                <img src="image/bolsa1111.png" class="img-responsive" alt="">
-                            </div>
-                            <div class="col-md-6">
-                                <div class="work-detail">
-                                    <h1 class="color-grey2">Estilo Hanging</h1>
-                                    <p>
-                                        Este estilo de bolsa es para todo tipo de mujer en ocasiones se adapta mejor para el dia casual o alguna reuni&oacute;n con las amigas, pero siempre te acompa&ntilde;ar&aacute; en buenos momentos.
-                                    </p>
-                                    <p>
-                                        Est&aacute; hecho con los mejores materiales para que puedas lavarla de manera sencilla y segura de que no se decolorar&aacute; o perder&aacute; el estilo que la bolsa lleva. Tiene la capacidad de soportar 4kg en promedio.
-                                    </p>
-                                    <p>Existen diferentes colores.</p>
-                                </div>
-                            </div>
-                        </div><!--testimonials item like paragraph-->
-                        <div>
-
-                            <div class="col-md-6 margin-btm-30">
-                                <div class="work-detail">
-                                    <h1 class="color-grey2">Estilo Hanging</h1>
-                                    <p>
-                                        Lo m&aacute;s importante para nosotros es darte productos con la mejor calidad en el mercado, as&iacute; que creamos Fashion Hanging Bags, una bolsa de mano donde tu puedes transportarte a cualquier lugar en cualquier momento, gracias a que es muy fr&aacute;gil y f&aacute;cil de llevar.
-                                    </p>
-                                    <p>
-                                       El promedio de las ventas para este producto es de mujeres de 18 a 40 a&ntilde;os ya que cumplen con sus espectativas en todos los sentidos como tama&ntilde;o, colores, estilo, modelos y forros intercambiables.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <img src="image/bolsa5555.png" class="img-responsive" alt="">
-                            </div>
-                        </div><!--testimonials item like paragraph-->
-                        <div>
-                            <div class="col-md-6 margin-btm-30">
-                                <img src="image/bolsa101.png" class="img-responsive" alt="">
-                            </div>
-                            <div class="col-md-6">
-                                <div class="work-detail">
-                                    <h1 class="color-grey2">Estilo Hanging</h1>
-                                    <p>
-                                        Algunas caracter&iacute;sticas de las Fashion Hanging Bags son:
-                                        <UL type = disk >
-                                        <LI>El material es sumamente resistente al agua y al calor.
-                                        <LI>Es dificil de romper por el pol&iacute;mero con el que est&aacute; hecho.
-                                        <LI>Diferentes colores para cada tipo de gusto.
-                                        </UL>
-                                    </p>
-                                    <p>
-                                        Otra caracter&iacute;stica interesante es que MOM se preocupa por ti y cada temporada del a&ntilde;o trae para un estilo diferente para que todo el tiempo, est&eacute;s a la moda.
-                                    </p>
-                                </div>
-                            </div>
-                        </div><!--testimonials item like paragraph-->
-                    </div>
-                </div><!--portfolio carousel slide use for single item detail-->
-            </div>
-            <div class="divided-50"></div>
-            <div class="container  wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="200ms">
-                <div class="row">
-                    <div class="col-md-12">
-                        <ul class="portfolio-filters text-center">
-                            <li class="filter active" data-filter="all">Fashion Hanging Bags</li>
-                            <!-- <li class="filter" data-filter="design">Fashion Travelling Bags</li>
-                            <li class="filter" data-filter="html">Fashion Hanging Bags</li> -->
-                        </ul><!--.portfolio-filter nav-->
-
-                        <div id="grid" class="row" style="">
-
-
-                            <div class="mix col-md-4 html margin-btm-30">
-                                <div class="item-img-wrap img-circle ">
-                                    <a href="image/1fondo.jpg" class="show-image"> <img src="image/bolsa4t.png" class="img-responsive zoom_all" alt="workimg"></a>
-                                </div> <!--item img wrap-->
-                            </div><!--work item-->
-
-                           <!--  <div class="mix  col-md-4 design margin-btm-30">
-                                    <div class="item-img-wrap img-circle ">
-                                        <a href="image/bolsa1c.png" class="show-image"> <img src="image/bolsa1c.png" class="img-responsive zoom_all" alt="workimg"></a>
-                                    </div>
-                            </div> --><!--work item-->
-
-                            <div class="mix  col-md-4 html margin-btm-30">
-                                    <div class="item-img-wrap img-circle ">
-                                        <a href="image/3fondo.jpg" class="show-image"> <img src="image/bolsa5t.png" class="img-responsive zoom_all" alt="workimg"></a>
-                                    </div>
-                            </div><!--work item-->
-
-                            <!-- Primer Fila correcto -->
-
-                            <!-- <div class="mix  col-md-4 design margin-btm-30">
-                                    <div class="item-img-wrap img-circle ">
-                                        <a href="image/4fondo.jpg" class="show-image"> <img src="image/travel2.4t.png" class="img-responsive zoom_all" alt="workimg"></a>
-                                    </div>
-                            </div> --><!--work item-->
-
-                            <div class="mix  col-md-4 html margin-btm-30">
-                                    <div class="item-img-wrap img-circle ">
-                                        <a href="image/5fondo.jpg" class="show-image"> <img src="image/bolsa6t.png" class="img-responsive zoom_all" alt="workimg"></a>
-                                    </div>
-                            </div><!--work item-->
-
-                           <!--  <div class="mix  col-md-4 design margin-btm-30">
-                                    <div class="item-img-wrap img-circle ">
-                                        <a href="image/6fondo.jpg" class="show-image"> <img src="image/travel3t.png" class="img-responsive zoom_all" alt="workimg"></a>
-                                    </div>
-                            </div> --><!--work item-->
-
-                            <!-- Segunda Fila correcto -->
-
-                            <div class="mix  col-md-4 html margin-btm-30">
-                                    <div class="item-img-wrap img-circle ">
-                                        <a href="image/7fondo.jpg" class="show-image"> <img src="image/bolsa7t.png" class="img-responsive zoom_all" alt="workimg"></a>
-                                    </div>
-                            </div><!--work item-->
-
-                            <!-- <div class="mix  col-md-4 design margin-btm-30">
-                                    <div class="item-img-wrap img-circle ">
-                                        <a href="image/8fondo.jpg" class="show-image"> <img src="image/travel4t.png" class="img-responsive zoom_all" alt="workimg"></a>
-                                    </div>
-                            </div> --><!--work item-->
-
-                            <div class="mix  col-md-4 html margin-btm-30">
-                                    <div class="item-img-wrap img-circle ">
-                                        <a href="image/9fondo.jpg" class="show-image"> <img src="image/bolsa8t.png" class="img-responsive zoom_all" alt="workimg"></a>
-                                    </div>
-                            </div><!--work item-->
-
-                            <!-- Tercer Fila correcto -->
-
-                            <!-- <div class="mix  col-md-4 design margin-btm-30">
-                                    <div class="item-img-wrap img-circle ">
-                                        <a href="image/10fondo.jpg" class="show-image"> <img src="image/travel7t.png" class="img-responsive zoom_all" alt="workimg"></a>
-                                    </div>
-                            </div> --><!--work item-->
-
-                            <div class="mix  col-md-4 html margin-btm-30">
-                                    <div class="item-img-wrap img-circle ">
-                                        <a href="image/11fondo.jpg" class="show-image"> <img src="image/bolsa10t.png" class="img-responsive zoom_all" alt="workimg"></a>
-                                    </div>
-                            </div><!--work item-->
-
-                            <!-- <div class="mix  col-md-4 design margin-btm-30">
-                                    <div class="item-img-wrap img-circle ">
-                                        <a href="image/12fondo.jpg" class="show-image"> <img src="image/travel6t.png" class="img-responsive zoom_all" alt="workimg"></a>
-                                    </div>
-                            </div> --><!--work item-->
-
-                            <!-- Cuarta Fila correcto -->
-
-
-                        </div><!--#grid for filter items-->
-                    </div><!--.col-md-12 of portfolio filter-->
-                </div><!--.row-->
-            </div>
-        </section>
-        <!--********************************************Termina quinta sección***************************************  -->
-
-
-        <!--********************************************Inicia sexta sección*****************************************  -->
-        <section class="fun-facts parallax" data-stellar-background-ratio="0.5">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-4 margin-btm-30 text-center">
-                        <div class="fact-inner">
-                            <h1 class="counter">450</h1>
-                            <h3>Like Fashion Travelling Bags</h3>
-                        </div>
-                    </div><!--facts col-->
-                      <div class="col-md-4 margin-btm-30 text-center">
-                        <div class="fact-inner">
-                            <h1><span class="counter">345</span></h1>
-                            <h3>Like Fashion Hanging Bags</h3>
-                        </div>
-                    </div><!--facts col-->
-                       <div class="col-md-4 margin-btm-30 text-center">
-                        <div class="fact-inner">
-                            <h1><span class="counter">390</span></h1>
-                            <h3>Like ambos estilos </h3>
-                        </div>
-                    </div><!--facts col-->
-                </div>
-            </div>
-        </section>
-        <!--********************************************Termina sexta sección*****************************************  -->
-
-
-        <!--********************************************Inicia septima sección*****************************************  -->
-        <div class="cta-3">
-            <div class="container text-center">
-                <img src="image/logomom2.png" class="align-center" align="center" alt="Responsive image" height="100" width="300">
-                <h3 class=" wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">Queremos que dejes de cargar un bolso pesado que s&oacute;lo da&ntilde;ar&aacute; tu espalda.
-                Deja de cargar y ponte a rodar tu Travelling Bag!</h3>
-                    <!-- Boton que puede servir para cualquier cosa -->
-               <!--  <p class=" wow animated fadeInDown"  data-wow-duration="700ms" data-wow-delay="200ms"><a href="#" class="btn btn-border-white btn-lg">Purchase Now</a></p> -->
-            </div>
-        </div>
-        <!--********************************************termina septima sección*****************************************  -->
-
-
-        <!--********************************************Inicia octava sección*****************************************  -->
+        <!--********************************************Inicia quinta sección TRAVELLING****************************************  -->
         <section id="blog" class="section-padding">
             <div class="container">
                 <div class="row">
@@ -905,7 +415,6 @@
                                         <LI>Placa de MOM, forro nylon estampado MOM.
                                         <LI>Mamey con azul, con bolsa externa.
                                         <LI>Maleta Realizada en corte sint&eacute;tico.
-                                        <LI>Color rojo y marino.
                                         <LI>Cierre mediante zipper.
                                         <LI>Compartimentos interiores, 1 para laptop + 2 a tono.
                                         <LI>Se oculta el Rolling en bolsa exterior con cierre.
@@ -1035,8 +544,6 @@
                     </div>
                 <!-- Terminan los modales -->
 
-
-
                 <!-- Modal11 -->
                     <div class="modal fade" id="myModal11" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
@@ -1062,9 +569,6 @@
                         </div>
                     </div>
                 <!-- Terminan los modales -->
-
-
-
 
                 <!-- Modal12 -->
                     <div class="modal fade" id="myModal12" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -1092,8 +596,6 @@
                     </div>
                 <!-- Terminan los modales -->
 
-
-
                 <!-- Modal13 -->
                     <div class="modal fade" id="myModal13" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
@@ -1118,9 +620,6 @@
                         </div>
                     </div>
                 <!-- Terminan los modales -->
-
-
-
 
                 <!-- Modal14 -->
                     <div class="modal fade" id="myModal14" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -1147,9 +646,6 @@
                     </div>
                 <!-- Terminan los modales -->
 
-
-
-
                 <!-- Modal15 -->
                     <div class="modal fade" id="myModal15" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
@@ -1174,9 +670,6 @@
                         </div>
                     </div>
                 <!-- Terminan los modales -->
-
-
-
 
                 <!-- Modal16 -->
                     <div class="modal fade" id="myModal16" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -1203,9 +696,6 @@
                     </div>
                 <!-- Terminan los modales -->
 
-
-
-
                 <!-- Modal17 -->
                     <div class="modal fade" id="myModal17" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
@@ -1230,8 +720,6 @@
                         </div>
                     </div>
                 <!-- Terminan los modales -->
-
-
 
                 <!-- Modal18 -->
                     <div class="modal fade" id="myModal18" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -1258,9 +746,6 @@
                     </div>
                 <!-- Terminan los modales -->
 
-
-
-
                 <!-- Modal19 -->
                     <div class="modal fade" id="myModal19" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
@@ -1286,7 +771,30 @@
                     </div>
                 <!-- Terminan los modales -->
 
-
+                <!-- Modal20 -->
+                    <div class="modal fade" id="myModal20" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        <div class="modal-dialog">
+                            <div class="modal-content">
+                              <div class="modal-body">
+                                 <h3><p>Maleta Tipo Bolsa Cafe con Negro</p></h3>
+                            <p>
+                                <UL type = disk >
+                                        <LI>Placa de MOM.
+                                        <LI>Forro nylon estampado MOM.
+                                        <LI>Maleta Realizada en corte sint&eacute;tico.
+                                        <LI>Bolsillos interiores: 1 de zipper.
+                                        <LI>Compartimentos interiores: 1 para laptop + 2 a tono.
+                                        <LI>Ruedas: 2 en posterior de color negro.
+                                        <LI>Dos ruedas y dos bases.
+                                        </UL>
+                                        <span>MEDIDAS: 40x37x21cm</span>
+                                        <span>PESO: 1Kg </span>
+                            </p>
+                              </div>
+                            </div>
+                        </div>
+                    </div>
+                <!-- Terminan los modales -->
 
                 <!-- Modal21 -->
                     <div class="modal fade" id="myModal21" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -1311,124 +819,61 @@
                             </div>
                         </div>
                     </div>
-                <!-- Terminan los modales -->
 
-
-                <!-- Modal22 -->
+                 <!-- Modal22 -->
                     <div class="modal fade" id="myModal22" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                 <h3><p>Bolsa Colors pet</p></h3>
+                                 <h3><p>Maleta Tipo Bolsa color Negra</p></h3>
                             <p>
                                 <UL type = disk >
-                                        <LI>Forros intercambiables naranja, rojo, rosa metalico, negro.
-                                        <LI>Modelo peque&ntilde;o que viene en 4 colores.
-                                        <LI>Hoyos de 9 grandes por 9 chicos.
-                                        <LI>Material poliuretano, pvc y eva.
-                                        <LI>Totalmente limpiable.
+                                        <LI>Placa de MOM.
+                                        <LI>Forro nylon estampado MOM.
+                                        <LI>Maleta Realizada en corte sint&eacute;tico.
+                                        <LI>Bolsa con cierre para llaves.
+                                        <LI>Compartimentos interiores: 1 para laptop + 2 a tono.
+                                        <LI>Ruedas: 2 en posterior de color negro.
+                                        <LI>Dos ruedas y dos bases.
                                         </UL>
-                                        <span>MEDIDAS: 25X32cm</span>
+                                        <span>MEDIDAS: 40x37x21cm</span>
+                                        <span>PESO: 1,5Kg </span>
                             </p>
                               </div>
                             </div>
                         </div>
                     </div>
-                <!-- Terminan los modales -->
 
-
-                <!-- Modal23 -->
+                 <!-- Modal23 -->
                     <div class="modal fade" id="myModal23" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                 <h3><p>Bolsa Cocktail petit</p></h3>
+                                 <h3><p>Maleta Tipo Bolsa color Rojo</p></h3>
                             <p>
                                 <UL type = disk >
-                                        <LI>Forros intercambiables.
-                                        <LI>Modelo peque&ntilde;o que viene en 2 colores.
-                                        <LI>Linea mas elegante.
-                                        <LI>Material poliuretano, pvc y eva.
-                                        <LI>Totalmente limpiable.
+                                        <LI>Placa de MOM.
+                                        <LI>Forro nylon estampado MOM.
+                                        <LI>Maleta Realizada en corte sint&eacute;tico.
+                                        <LI>Bolsa con cierre para llaves.
+                                        <LI>Compartimentos interiores: 1 para laptop + 2 a tono.
+                                        <LI>Ruedas: 2 en posterior de color negro.
+                                        <LI>Dos ruedas y dos bases.
                                         </UL>
-                                        <span>MEDIDAS: 25X32cm</span>
+                                        <span>MEDIDAS: 40x37x21cm</span>
+                                        <span>PESO: 1,5Kg </span>
                             </p>
                               </div>
                             </div>
                         </div>
                     </div>
-                <!-- Terminan los modales -->
-
-                <!-- Modal24 -->
-                    <div class="modal fade" id="myModal24" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                        <div class="modal-dialog">
-                            <div class="modal-content">
-                              <div class="modal-body">
-                                 <h3><p>Bolsa Cocktail</p></h3>
-                            <p>
-                                <UL type = disk >
-                                        <LI>Forros intercambiables.
-                                        <LI>Linea mas elegante que viene en 3 tonos GOLD GLITER / RED ROSS / BROWN.
-                                        <LI>Material poliuretano, pvc y eva.
-                                        <LI>Totalmente limpiable.
-                                        </UL>
-                                        <span>MEDIDAS: 29X38cm</span>
-                            </p>
-                              </div>
-                            </div>
-                        </div>
-                    </div>
-                <!-- Terminan los modales -->
-
-                <!-- Modal25 -->
-                    <div class="modal fade" id="myModal25" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                        <div class="modal-dialog">
-                            <div class="modal-content">
-                              <div class="modal-body">
-                                 <h3><p>Bolsa Beach</p></h3>
-                            <p>
-                                <UL type = disk >
-                                        <LI>Forros intercambiables.
-                                        <LI>Linea mas elegante que viene en 5 tonos MULTIGLITER / RED / BLACK / NEON YELLOW /  FUSHIA.
-                                        <LI>Material poliuretano, pvc y eva.
-                                        <LI>Totalmente limpiable.
-                                        </UL>
-                                        <span>MEDIDAS: 27X37cm</span>
-                            </p>
-                              </div>
-                            </div>
-                        </div>
-                    </div>
-                <!-- Terminan los modales -->
-
-                <!-- Modal26 -->
-                    <div class="modal fade" id="myModal26" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-                        <div class="modal-dialog">
-                            <div class="modal-content">
-                              <div class="modal-body">
-                                 <h3><p>Bolsa colors</p></h3>
-                            <p>
-                                <UL type = disk >
-                                        <LI>Forros intercambiables.
-                                        <LI>Linea grande que viene en 2 tonos WHITE / BLACK
-                                        <LI>Material poliuretano, pvc y eva.
-                                        <LI>Hoyos 12 grandes por 12 peque&ntilde;os.
-                                        <LI>Totalmente limpiable.
-                                        </UL>
-                                        <span>MEDIDAS: 28X36cm</span>
-                            </p>
-                              </div>
-                            </div>
-                        </div>
-                    </div>
-                <!-- Terminan los modales -->
+                <!--************************************** Terminan los modales ************************************-->
 
 
-
-
+                <!-- *******************Iniciar las imagenes de las travellings con zoom ******************-->
                     <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_01" src='image/travel2.3.png' data-zoom-image="image/travel2.3.jpg"/>
+                            <a href="image/1.Travelling/travel2.3.png" class="show-image"><img id="zoom_01" src='image/1.Travelling/travel2.3.png' data-zoom-image="image/1.Travelling/travel2.3.jpg"/></a>
                         </div><!--item image hover-->
                         <div class="blog-desc">
                             <!-- Button trigger modal -->
@@ -1443,7 +888,7 @@
 
                     <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="200ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_02" src='image/travel2.1.png' data-zoom-image="image/travel2.1.jpg"/>
+                            <a href="image/1.Travelling/travel2.1.png" class="show-image"><img id="zoom_02" src='image/1.Travelling/travel2.1.png' data-zoom-image="image/1.Travelling/travel2.1.jpg"/></a>
                         </div><!--item image hover-->
                         <div class="blog-desc">
                            <!-- Button trigger modal -->
@@ -1458,7 +903,7 @@
 
                     <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="300ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_03" src='image/travel2.2.png' data-zoom-image="image/travel2.2.jpg"/>
+                            <a href="image/1.Travelling/travel2.2.png" class="show-image"><img id="zoom_03" src='image/1.Travelling/travel2.2.png' data-zoom-image="image/1.Travelling/travel2.2.jpg"/></a>
                         </div><!--item image hover-->
                         <div class="blog-desc">
                             <div align="center">
@@ -1476,7 +921,7 @@
 
                     <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_04" src='image/travel2.9.png' data-zoom-image="image/travel2.9.jpg"/>
+                            <a href="image/1.Travelling/travel2.9.png" class="show-image"><img id="zoom_04" src='image/1.Travelling/travel2.9.png' data-zoom-image="image/1.Travelling/travel2.9.jpg"/></a>
                         </div><!--item image hover-->
                         <div class="blog-desc">
                             <div align="center">
@@ -1490,7 +935,7 @@
 
                     <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="200ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_05" src='image/travel2.8.png' data-zoom-image="image/travel2.8.jpg"/>
+                            <a href="image/1.Travelling/travel2.8.png" class="show-image"><img id="zoom_05" src='image/1.Travelling/travel2.8.png' data-zoom-image="image/1.Travelling/travel2.8.jpg"/></a>
                         </div><!--item image hover-->
                         <div class="blog-desc">
                             <div align="center">
@@ -1504,7 +949,7 @@
 
                     <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="300ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_06" src='image/travel2.7.png' data-zoom-image="image/travel2.7.jpg"/>
+                            <a href="image/1.Travelling/travel2.7.png" class="show-image"><img id="zoom_06" src='image/1.Travelling/travel2.7.png' data-zoom-image="image/1.Travelling/travel2.7.jpg"/></a>
                         </div><!--item image hover-->
                         <div class="blog-desc">
                             <div align="center">
@@ -1521,7 +966,7 @@
                 <div class="row">
                     <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="400ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_07" src='image/travel2.4.png' data-zoom-image="image/travel2.4.jpg"/>
+                            <a href="image/1.Travelling/travel2.4.png" class="show-image"><img id="zoom_07" src='image/1.Travelling/travel2.4.png' data-zoom-image="image/1.Travelling/travel2.4.jpg"/></a>
                         </div><!--item image hover-->
                         <div class="blog-desc">
                             <br>
@@ -1536,7 +981,7 @@
 
                     <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="500ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_08" src='image/travel2.5.png' data-zoom-image="image/travel2.5.jpg"/>
+                            <a href="image/1.Travelling/travel2.5.png" class="show-image"><img id="zoom_08" src='image/1.Travelling/travel2.5.png' data-zoom-image="image/1.Travelling/travel2.5.jpg"/></a>
                         </div><!--item image hover-->
                         <div class="blog-desc">
                             <br>
@@ -1551,7 +996,7 @@
 
                     <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="600ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_09" src='image/travel2.6.png' data-zoom-image="image/travel2.6.jpg"/>
+                            <a href="image/1.Travelling/travel2.6.png" class="show-image"><img id="zoom_09" src='image/1.Travelling/travel2.6.png' data-zoom-image="image/1.Travelling/travel2.6.jpg"/></a>
                         </div><!--item image hover-->
                         <div class="blog-desc">
                             <br>
@@ -1568,7 +1013,7 @@
 
                     <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_10" src='image/travel8.png' data-zoom-image="image/travel8.jpg"/>
+                            <a href="image/1.Travelling/travel8.png" class="show-image"><img id="zoom_10" src='image/1.Travelling/travel8.png' data-zoom-image="image/1.Travelling/travel8.jpg"/></a>
                         </div><!--item image hover-->
                         <div class="blog-desc">
                             <!-- Button trigger modal -->
@@ -1583,7 +1028,7 @@
 
                     <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_11" src='image/travel9.png' data-zoom-image="image/travel9.jpg"/>
+                            <a href="image/1.Travelling/travel9.png" class="show-image"><img id="zoom_11" src='image/1.Travelling/travel9.png' data-zoom-image="image/1.Travelling/travel9.jpg"/></a>
                         </div><!--item image hover-->
                         <div class="blog-desc">
                             <!-- Button trigger modal -->
@@ -1598,7 +1043,7 @@
 
                      <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_12" src='image/travel10.png' data-zoom-image="image/travel10.jpg"/>
+                            <a href="image/1.Travelling/travel10.png" class="show-image"><img id="zoom_12" src='image/1.Travelling/travel10.png' data-zoom-image="image/1.Travelling/travel10.jpg"/></a>
                         </div><!--item image hover-->
                         <div class="blog-desc">
                             <!-- Button trigger modal -->
@@ -1613,7 +1058,7 @@
 
                     <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_13" src='image/travel4.png' data-zoom-image="image/travel4.jpg"/>
+                            <a href="image/1.Travelling/travel4.png" class="show-image"><img id="zoom_13" src='image/1.Travelling/travel4.png' data-zoom-image="image/1.Travelling/travel4.jpg"/></a>
                         </div><!--item image hover-->
                         <div class="blog-desc">
                             <!-- Button trigger modal -->
@@ -1628,7 +1073,7 @@
 
                     <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_14" src='image/travel11.png' data-zoom-image="image/travel11.jpg"/>
+                            <a href="image/1.Travelling/travel11.png" class="show-image"><img id="zoom_14" src='image/1.Travelling/travel11.png' data-zoom-image="image/1.Travelling/travel11.jpg"/></a>
                         </div><!--item image hover-->
                         <div class="blog-desc">
                             <!-- Button trigger modal -->
@@ -1643,7 +1088,7 @@
 
                     <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_15" src='image/travel12.png' data-zoom-image="image/travel12.jpg"/>
+                           <a href="image/1.Travelling/travel12.png" class="show-image"> <img id="zoom_15" src='image/1.Travelling/travel12.png' data-zoom-image="image/1.Travelling/travel12.jpg"/></a>
                         </div><!--item image hover-->
                         <div class="blog-desc">
                             <!-- Button trigger modal -->
@@ -1658,7 +1103,7 @@
 
                     <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_16" src='image/travel13.png' data-zoom-image="image/travel13.jpg"/>
+                            <a href="image/1.Travelling/travel13.png" class="show-image"><img id="zoom_16" src='image/1.Travelling/travel13.png' data-zoom-image="image/1.Travelling/travel13.jpg"/></a>
                         </div><!--item image hover-->
                         <div class="blog-desc">
                             <!-- Button trigger modal -->
@@ -1673,7 +1118,7 @@
 
                     <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_17" src='image/travel14.png' data-zoom-image="image/travel14.jpg"/>
+                            <a href="image/1.Travelling/travel14.png" class="show-image"><img id="zoom_17" src='image/1.Travelling/travel14.png' data-zoom-image="image/1.Travelling/travel14.jpg"/></a>
                         </div><!--item image hover-->
                         <div class="blog-desc">
                             <!-- Button trigger modal -->
@@ -1688,7 +1133,7 @@
 
                     <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_18" src='image/travel15.png' data-zoom-image="image/travel15.jpg"/>
+                           <a href="image/1.Travelling/travel15.png" class="show-image"> <img id="zoom_18" src='image/1.Travelling/travel15.png' data-zoom-image="image/1.Travelling/travel15.jpg"/></a>
                         </div><!--item image hover-->
                         <div class="blog-desc">
                             <!-- Button trigger modal -->
@@ -1703,7 +1148,7 @@
 
                     <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_19" src='image/travel16.png' data-zoom-image="image/travel16.jpg"/>
+                            <a href="image/1.Travelling/travel16.png" class="show-image"><img id="zoom_19" src='image/1.Travelling/travel16.png' data-zoom-image="image/1.Travelling/travel16.jpg"/></a>
                         </div>
                         <div class="blog-desc">
                             <div align="center">
@@ -1717,7 +1162,7 @@
 
                     <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_20" src='image/travel17.png' data-zoom-image="image/travel17.jpg"/>
+                          <a href="image/1.Travelling/travel17.png" class="show-image">  <img id="zoom_20" src='image/1.Travelling/travel17.png' data-zoom-image="image/1.Travelling/travel17.jpg"/></a>
                         </div>
                         <div class="blog-desc">
                             <div align="center">
@@ -1728,9 +1173,9 @@
                         </div>
                     </div>
 
-                   <!--  <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
+                    <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_21" src='image/bolsa1.png' data-zoom-image="image/bolsa1.jpg"/>
+                           <a href="image/1.Travelling/travel5.png" class="show-image"> <img class="zoom_all" src='image/1.Travelling/travel5.png' data-zoom-image="image/1.Travelling/travel5.jpg"/></a>
                         </div>
                         <div class="blog-desc">
                             <div align="center">
@@ -1739,11 +1184,11 @@
                             </button>
                             </div>
                         </div>
-                    </div> -->
+                    </div>
 
-                    <!-- <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
+                    <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
                         <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_22" src='image/bolsa2.png' data-zoom-image="image/bolsa2.jpg"/>
+                            <a href="image/1.Travelling/travel3.png" class="show-image"><img class="zoom_all" src='image/1.Travelling/travel3.png' data-zoom-image="image/1.Travelling/travel3.jpg"/></a>
                         </div>
                         <div class="blog-desc">
                             <div align="center">
@@ -1752,54 +1197,225 @@
                             </button>
                             </div>
                         </div>
-                    </div> -->
+                    </div>
 
-                   <!--  <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
-                        <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_23" src='image/bolsa3.png' data-zoom-image="image/bolsa3.jpg"/>
+                </div>
+            </div>
+        </section>
+
+        <!--********************************************Termina quinta sección***************************************  -->
+
+
+        <!--********************************************Inicia sexta sección*****************************************  -->
+        <section class="fun-facts parallax" data-stellar-background-ratio="0.5">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 margin-btm-30 text-center">
+                        <div class="fact-inner">
+                            <h1 class="counter">450</h1>
+                            <h3>Like Fashion Travelling Bags</h3>
                         </div>
-                        <div class="blog-desc">
-                            <div align="center">
-                            <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal24">
-                              DETALLES
-                            </button>
+                    </div><!--facts col-->
+                      <div class="col-md-4 margin-btm-30 text-center">
+                        <div class="fact-inner">
+                            <h1><span class="counter">345</span></h1>
+                            <h3>Like Fashion Hanging Bags</h3>
+                        </div>
+                    </div><!--facts col-->
+                       <div class="col-md-4 margin-btm-30 text-center">
+                        <div class="fact-inner">
+                            <h1><span class="counter">390</span></h1>
+                            <h3>Like ambos estilos </h3>
+                        </div>
+                    </div><!--facts col-->
+                </div>
+            </div>
+        </section>
+        <!--********************************************Termina sexta sección*****************************************  -->
+
+
+        <!--********************************************Inicia septima sección*****************************************  -->
+        <div class="cta-3">
+            <div class="container text-center">
+                <img src="image/logomom2.png" class="align-center" align="center" alt="Responsive image" height="100" width="300">
+                <h3 class=" wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">Queremos que dejes de cargar un bolso pesado que s&oacute;lo da&ntilde;ar&aacute; tu espalda.
+                Deja de cargar y ponte a rodar tu Travelling Bag!</h3>
+                    <!-- Boton que puede servir para cualquier cosa -->
+               <!--  <p class=" wow animated fadeInDown"  data-wow-duration="700ms" data-wow-delay="200ms"><a href="#" class="btn btn-border-white btn-lg">Purchase Now</a></p> -->
+            </div>
+        </div>
+        <!--********************************************termina septima sección*****************************************  -->
+
+
+        <!--********************************************Inicia octava sección HANGING*****************************************  -->
+        <section id="work" class="section-padding">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="center-heading text-center font-h">
+                            <p class=" wow animated bounceIn color-orange"  data-wow-duration="700ms" data-wow-delay="100ms"><b>COLECCI&Oacute;N HANGING</b></p>
+                        </div><!--center heading-->
+                    </div>
+                </div><!--center heading-->
+                <div class="row">
+                    <div class="col-md-8 col-md-offset-2 text-center">
+                        <p class="lead margin-btm-30" align="justify">
+                            Nuestros productos son hechos con los mejores materiales y son de alta calidad y pueden ser utilizados en cualquier tipo de actividad que realices d&iacute;a con d&iacute;a, puedes llevarla al gimnasio, oficina, reuniones sociales, viajes largos o cortos, de negocios o placer.
+                        </p>
+                    </div>
+                </div>
+                <div class="divided-50"></div>
+                <div class="row">
+                    <div id="work-slide" class="owl-carousel">
+                        <div>
+                            <div class="col-md-6 margin-btm-30">
+                                <img src="image/2.Hanging/bolsa1.png" class="img-responsive" alt="">
                             </div>
-                        </div>
-                    </div> -->
-
-                   <!--  <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
-                        <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_24" src='image/bolsa6.jpg' data-zoom-image="image/bolsa6.jpg"/>
-                        </div>
-                        <div class="blog-desc">
-                            <div align="center">
-                            <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal25">
-                              DETALLES
-                            </button>
+                            <div class="col-md-6">
+                                <div class="work-detail">
+                                    <h1 class="color-grey2">Estilo Hanging</h1>
+                                    <p>
+                                        Este estilo de bolsa es para todo tipo de mujer en ocasiones se adapta mejor para el dia casual o alguna reuni&oacute;n con las amigas, pero siempre te acompa&ntilde;ar&aacute; en buenos momentos.
+                                    </p>
+                                    <p>
+                                        Est&aacute; hecho con los mejores materiales para que puedas lavarla de manera sencilla y segura de que no se decolorar&aacute; o perder&aacute; el estilo que la bolsa lleva. Tiene la capacidad de soportar 4kg en promedio. Existen diferentes colores.</p>
+                                </div>
                             </div>
-                        </div>
-                    </div> -->
+                        </div><!--testimonials item like paragraph-->
+                        <div>
 
-                  <!--   <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
-                        <div class="item-img-wrap thumbnail ">
-                            <img id="zoom_25" src='image/bolsa11.jpg' data-zoom-image="image/bolsa11.jpg"/>
-                        </div>
-                        <div class="blog-desc">
-                            <div align="center">
-                            <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal26">
-                              DETALLES
-                            </button>
+                            <div class="col-md-6 margin-btm-30">
+                                <div class="work-detail">
+                                    <h1 class="color-grey2">Estilo Hanging</h1>
+                                    <p>
+                                        Lo m&aacute;s importante para nosotros es darte productos con la mejor calidad en el mercado, as&iacute; que creamos Fashion Hanging Bags, una bolsa de mano donde tu puedes transportarte a cualquier lugar en cualquier momento, gracias a que es muy fr&aacute;gil y f&aacute;cil de llevar.
+                                    </p>
+                                    <p>
+                                       El promedio de las ventas para este producto es de mujeres de 18 a 40 a&ntilde;os ya que cumplen con sus espectativas en todos los sentidos como tama&ntilde;o, colores, estilo, modelos y forros intercambiables.
+                                    </p>
+                                </div>
                             </div>
+                            <div class="col-md-6">
+                                <img src="image/2.Hanging/bolsa5.png" class="img-responsive" alt="">
+                            </div>
+                        </div><!--testimonials item like paragraph-->
+                        <div>
+                            <div class="col-md-6 margin-btm-30">
+                                <img src="image/2.Hanging/bolsa2.png" class="img-responsive" alt="">
+                            </div>
+                            <div class="col-md-6">
+                                <div class="work-detail">
+                                    <h1 class="color-grey2">Estilo Hanging</h1>
+                                    <p>
+                                        Algunas caracter&iacute;sticas de las Fashion Hanging Bags son:
+                                        <UL type = disk >
+                                        <LI>El material es sumamente resistente al agua y al calor.
+                                        <LI>Es dificil de romper por el pol&iacute;mero con el que est&aacute; hecho.
+                                        <LI>Diferentes colores para cada tipo de gusto.
+                                        </UL>
+                                    </p>
+                                </div>
+                            </div>
+                        </div><!--testimonials item like paragraph-->
+                    </div>
+                </div><!--portfolio carousel slide use for single item detail-->
+            </div>
+            <div class="divided-50"></div>
+            <div class="container  wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="200ms">
+                <div class="row">
+                    <div class="col-md-12">
+                        <ul class="portfolio-filters text-center">
+                            <li class="filter active" data-filter="all">Fashion Hanging Bags</li>
+                            <!-- <li class="filter" data-filter="design">Fashion Travelling Bags</li>
+                            <li class="filter" data-filter="html">Fashion Hanging Bags</li> -->
+                        </ul><!--.portfolio-filter nav-->
+
+                        <div id="grid" class="row" style="">
+
+                            <!-- bolsas beach -->
+                            <div class="mix  col-md-4 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/bolsa6.png" class="show-image"> <img src="image/2.Hanging/bolsa6t.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+
+                            <div class="mix  col-md-4 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/bolsa7.png" class="show-image"> <img src="image/2.Hanging/bolsa7t.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+
+                            <div class="mix  col-md-4 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/bolsa8.png" class="show-image"> <img src="image/2.Hanging/bolsa8t.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+
+                            <div class="mix  col-md-4 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/bolsa10.png" class="show-image"> <img src="image/2.Hanging/bolsa10t.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+                            
+                            
+                            <!-- bolsa coctel -->
+                            <div class="mix col-md-4 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/bolsa2.png" class="show-image"> <img src="image/2.Hanging/bolsa2cc.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+
+                            <div class="mix  col-md-4 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/bolsa5.png" class="show-image"> <img src="image/2.Hanging/bolsa5t.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+
+                            <div class="mix col-md-4 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/bolsa4.png" class="show-image"> <img src="image/2.Hanging/bolsa4t.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+
+                            <div class="mix col-md-4 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/haging-white.png" class="show-image"> <img src="image/2.Hanging/haging-white.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+
+                            <div class="mix col-md-4 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/bolsaNegra.png" class="show-image"> <img src="image/2.Hanging/bolsaNegra.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+
+                            <div class="mix col-md-4 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/bolsa-white.png" class="show-image"> <img src="image/2.Hanging/bolsa-white.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+
+                            <div class="mix col-md-4 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/bolsa-negrapunto.png" class="show-image"> <img src="image/2.Hanging/bolsa-negrapunto.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+
+                            <div class="mix col-md-4 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/bolsaRojaPuntos.png" class="show-image"> <img src="image/2.Hanging/bolsaRojaPuntos.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+
+                            <div class="mix col-md-4 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/bolsaAzulPunto.png" class="show-image"> <img src="image/2.Hanging/bolsaAzulPunto.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+
                         </div>
-                    </div> -->
-
-
-
-
-
-
-
-                </div><!--blog post row-->
+                    </div>
+                </div>
             </div>
         </section>
         <!--********************************************Termina octava sección*****************************************  -->
@@ -1824,6 +1440,71 @@
         </div>
         <!--********************************************Termina noveno sección*****************************************  -->
 
+        <section  class="parallax testimonials2 section-padding parallax bg-heading">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="center-heading text-center">
+                            <h2>Mom Es Unica!!!</h2>
+                            <span class="icon"><i class="fa fa-bars"></i></span> 
+                        </div><!--center heading-->
+                    </div>
+                </div><!--center heading-->
+                <div class="row">
+                    <div class="col-md-6 margin-btm-30 wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="100ms">
+                        <div class="row">
+                            <center>
+                            <div class="col-md-12">
+                                <div class="service-icon service-info">
+                                    <i class="fa fa-image"></i>
+                                    <h4>Mom siempre con estilo</h4>                                                                
+                                </div>
+                            </div>
+                            </center>
+                        </div>
+                    </div><!--service-col-->
+                   <div class="col-md-6 margin-btm-30 wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="100ms">
+                        <div class="row">
+                            <center>
+                            <div class="col-md-12">
+                                <div class="service-icon service-info">
+                                    <i class="fa fa-plane"></i>
+                                    <h4>Travelling siempre practica.</h4>                                                                
+                                </div>
+                            </div>
+                            </center>
+                        </div>
+                    </div><!--service-col-->
+                </div><!--services-row-->
+                <div class="divided-50"></div>
+                <div class="row">
+                    <div class="col-md-6 margin-btm-30 wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="100ms">
+                        <div class="row">
+                            <center>
+                            <div class="col-md-12">
+                                <div class="service-icon service-info">
+                                    <i class="fa fa-users"></i>
+                                    <h4>Amigable para todo tipo de ocasión.</h4>                                                                
+                                </div>
+                            </div>
+                            </center>
+                        </div>
+                    </div><!--service-col-->
+                    <div class="col-md-6 margin-btm-30 wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="100ms">
+                        <div class="row">
+                            <center>
+                            <div class="col-md-12">
+                                <div class="service-icon service-info">
+                                    <i class="fa fa-heart"></i>
+                                    <h4>Hanging siempre con diseño.</h4>                                                                
+                                </div>
+                            </div>
+                            </center>
+                        </div>
+                    </div><!--service-col-->
+                </div><!--services-row-->
+            </div>
+        </section>
         
         <!--********************************************Inicia decimo sección*****************************************  -->
         <section id="contact" class="section-padding">

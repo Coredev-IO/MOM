@@ -37,7 +37,7 @@ a {
   text-decoration: none;
 }
 a:hover{
-  color:#fe2d91;
+  color:#d03885;
   text-decoration:none;
 }
 h1,h2,h3,h4,h5,h6{
@@ -56,11 +56,11 @@ h1,h2,h3,h4,h5,h6{
   margin-bottom: 30px;
 }
 ::selection {
-  background:#fe2d91; /* Safari */
+  background:#d03885; /* Safari */
   color: #fff;
 }
 ::-moz-selection {
-  background:#fe2d91; /* Firefox */
+  background:#d03885; /* Firefox */
   color: #fff;
 }
 /**********bootstrap navigation overrides***********/
@@ -82,7 +82,7 @@ h1,h2,h3,h4,h5,h6{
   color:#000;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-  color: #fe2d91;
+  color: #d03885;
   background-color: transparent;
 }
 .navbar-brand {
@@ -127,7 +127,7 @@ h1,h2,h3,h4,h5,h6{
   background-size: auto;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-image: url(../image/1paper.jpg);
+  background-image: url(../image/wallpaper1.jpg);
   display: table;
   width: 100%;
   height: 100%;
@@ -236,10 +236,10 @@ h2.slide-btm-text{
 }
 .btn-dark:hover{
   color:#fff;
-  background-color: #fe2d91;
+  background-color: #d03885;
 }
 .btn-theme{
-  background-color: #fe2d91;
+  background-color: #d03885;
   color:#fff;
 }
 .btn-theme:hover{
@@ -307,7 +307,7 @@ h2.slide-btm-text{
   height: 60px;
   line-height: 60px;
   text-align: center;
-  color:#fe2d91;
+  color:#d03885;
   font-size: 40px;
   margin-bottom: 20px;
   -webkit-transition: 0.7s ease-in-out;
@@ -391,7 +391,7 @@ h2.slide-btm-text{
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-image: url(../image/2paper.jpg);
+  background-image: url(../image/wallpaper2.jpg);
   display: table;
   width: 100%;
   height: 70%;
@@ -402,52 +402,60 @@ h2.slide-btm-text{
   z-index: 1;
 }
 
+/**testimonials2**/
+.testimonials2{
+  background-color: #444;
+  background-image: url(../image/wallpaper4.jpg);
+  height: 75%;
+  min-height: 75%;
+}
+
 
 
 .bg-heading .center-heading h2{
-  color:#fe2d91;
+  color:#d03885;
   text-shadow: 0px 0px 3px rgba(0,0,0,0.33);
 }
 .bg-heading .center-heading .icon {
 
-  color:  #fe2d91;
+  color:  #d03885;
 }
 .bg-heading .center-heading .icon:before {
-  border-color: #fe2d91;
+  border-color: #d03885;
 }
 .bg-heading .center-heading .icon:after {
-  border-color: #fe2d91;
+  border-color: #d03885;
 }
 #testi-carousel h2{
-  color:#fe2d91;
+  color:#d03885;
   font-weight: 300;
   font-size: 50px;
   line-height: 100px;
 }
 #testi-carousel i{
-  color:#fe2d91;
+  color:#d03885;
   font-weight: 300;
   font-size: 60px;
   line-height: 100px;
 }
 #testi-carousel p{
-  color:#fe2d91;
+  color:#d03885;
 }
 
 /**cta-1**/
 .cta-1{
   padding: 40px 0;
-  background-color: #fe2d91;
+  background-color: #d03885;
 }
 /**cta-2**/
 .cta-2{
   padding: 40px 0;
-  background-color: #fe2d91;
+  background-color: #d03885;
 }
 /**cta-2**/
 .cta-3{
   padding: 40px 0;
-  background-color:#fe2d91;
+  background-color:#d03885;
 }
 .cta-3 h3{
   color:#fff;
@@ -466,7 +474,7 @@ h2.slide-btm-text{
   line-height: 70px;
   text-align: center;
   color:#fff;
-  background-color: #fff;
+  background-color: #d03885;
   border-radius: 35px;
   -webkit-border-radius: 35px;
   margin-bottom: 10px;
@@ -512,14 +520,14 @@ h2.slide-btm-text{
   transition: 0.7s ease-in-out;
 }
 .portfolio-filters li:hover{
-  background-color: #fe2d91;
+  background-color: #d03885;
   color:#fff;
-  border-color:#fe2d91;
+  border-color:#d03885;
 }
 .portfolio-filters li.active{
-  background-color: #fe2d91;
+  background-color: #d03885;
   color:#fff;
-  border-color:#fe2d91;
+  border-color:#d03885;
 }
 
 /************************image hover effect*******************/
@@ -616,27 +624,27 @@ h2.slide-btm-text{
   text-align: center;
 }
 .plan-wrap.popular .price-title{
-  background-color: #fe2d91;
+  background-color: #d03885;
   color:#fff;
 }
 
 /***contact***/
 .address-info h3{
   font-weight: 400;
-  color:#fe2d91;
+  color:#d03885;
   margin-bottom: 20px;
   font-size: 17px;
 }
 .address-info p i{
-  color:#fe2d91;
+  color:#d03885;
   margin-right: 10px;
 }
 .address-info p{
-  color:#fe2d91;
+  color:#d03885;
 }
 .social li a i{
   font-size: 20px;
-  color:#fe2d91;
+  color:#d03885;
   width:40px;
   margin-bottom: 3px;
   height: 40px;
@@ -651,7 +659,7 @@ h2.slide-btm-text{
 }
 .social li a i:hover{
   color:#fff;
-  background-color: #fe2d91;
+  background-color: #d03885;
 }
 
 .contact-form form .form-control{
@@ -826,7 +834,7 @@ iframe {
   margin-left: 5px;
 }
 .cat-list li a:hover{
-  color:#fe2d91;
+  color:#d03885;
 }
 blockquote{
   color:#aaa;
@@ -846,7 +854,7 @@ blockquote{
   font-weight: 700;
 }
 .comment-list h4 a{
-  color:#fe2d91;
+  color:#d03885;
   margin-left: 8px;
 }
 .comment-list h4 a:hover{
@@ -890,25 +898,37 @@ h3.heading-progress {
 }
 .progress-bar {
   line-height: 10px;
-  background:#fe2d91;
+  background:#d03885;
   box-shadow: none;
   -webkit-box-shadow: none;
 }
 
 /*******fun-facts****/
 .fun-facts{
-  background: url('../image/showcase-3.jpg');
-  padding: 80px 0;
+  background-color: #444;
+  background-position: center 0%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: url(../image/wallpaper3.jpg);
+  display: table;
+  width: 100%;
+  height: 70%;
+  min-height: 70%;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  vertical-align: middle;
+  z-index: 1;
+  padding: 200px 0;
 }
 .fact-inner h1{
   color:#fff;
-  font-size: 64px;
+  font-size: 90px;
   font-weight: 800;
 }
 .fact-inner h3{
   color:#fff;
-  font-weight: 300;
-  margin-bottom: 0px;
+  font-weight: 600;
 }
 
 .align-center{
@@ -926,58 +946,58 @@ h3.heading-progress {
 }
 
 .color-pink{
-  color: #fe2d91;
+  color: #d03885;
   font-size: 40px;
 }
 
 .color-green{
-  color: #fe2d91;
+  color: #d03885;
   font-size: 40px;
 }
 
 .color-white{
-  color: #fe2d91;
+  color: #d03885;
   font-size: 40px;
 }
 
 .color-grey{
-  color: #fe2d91;
+  color: #d03885;
   font-size: 40px;
 }
 
 .color-orange{
-  color: #fe2d91;
+  color: #d03885;
   font-size: 40px;
 }
 
 .color-red{
-  color: #fe2d91;
+  color: #d03885;
   font-size: 40px;
 }
 
 
 .color-pink2{
-  color: #fe2d91;
+  color: #d03885;
 }
 
 .color-red2{
-  color: #fe2d91;
+  color: #d03885;
 }
 
 .color-orange2{
-  color: #fe2d91;
+  color: #d03885;
 }
 
 .color-green2{
-  color: #fe2d91;
+  color: #d03885;
 }
 
 .color-grey2{
-  color: #fe2d91;
+  color: #d03885;
 }
 
 .btn-grey{
-  background-color: #fe2d91;
+  background-color: #d03885;
 }
 
 
