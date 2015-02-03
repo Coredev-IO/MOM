@@ -280,6 +280,23 @@
         <!--********************************************Termina cuarta sección**************************************  -->
 
 
+
+        <!--****************************************** Aqui inicia el video **************************************** -->
+        <div id="video2">
+        </div>
+        <div id="contenido_video">
+            <div class="row">
+                <br><br><br>
+                <br><br>
+                <div class="col-md-6 col-md-offset-3">
+                    <a target="_blank" class="btn btn-border-white  btn-100 btn-lg wow animated bounceInDown"  data-wow-duration="700ms" data-wow-delay="100ms"><b>Lorem Ipsum</b></a>
+                </div>
+
+            </div>            
+        </div>
+        <!--****************************************** Aqui termina el video **************************************** -->
+
+
         
         <!--********************************************Inicia quinta sección TRAVELLING****************************************  -->
         <section id="blog" class="section-padding">
@@ -1202,8 +1219,9 @@
                 </div>
             </div>
         </section>
-
+         
         <!--********************************************Termina quinta sección***************************************  -->
+
 
 
         <!--********************************************Inicia sexta sección*****************************************  -->
@@ -1234,6 +1252,7 @@
         <!--********************************************Termina sexta sección*****************************************  -->
 
 
+
         <!--********************************************Inicia septima sección*****************************************  -->
         <div class="cta-3">
             <div class="container text-center">
@@ -1245,6 +1264,7 @@
             </div>
         </div>
         <!--********************************************termina septima sección*****************************************  -->
+
 
 
         <!--********************************************Inicia octava sección HANGING*****************************************  -->
@@ -1420,6 +1440,7 @@
         </section>
         <!--********************************************Termina octava sección*****************************************  -->
 
+
         
         <!--********************************************Inicia noveno sección*****************************************  -->
         <div class="cta-2">
@@ -1440,6 +1461,7 @@
         </div>
         <!--********************************************Termina noveno sección*****************************************  -->
 
+        <!--****************************************** Aqui inicia otra seccion testimonio2 **************************** -->
         <section  class="parallax testimonials2 section-padding parallax bg-heading">
             <div class="container">
                 <div class="row">
@@ -1463,7 +1485,8 @@
                             </center>
                         </div>
                     </div><!--service-col-->
-                   <div class="col-md-6 margin-btm-30 wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="100ms">
+
+                   <div class="col-md-6 margin-btm-30 wow animated fadeInRight"  data-wow-duration="700ms" data-wow-delay="100ms">
                         <div class="row">
                             <center>
                             <div class="col-md-12">
@@ -1478,7 +1501,7 @@
                 </div><!--services-row-->
                 <div class="divided-50"></div>
                 <div class="row">
-                    <div class="col-md-6 margin-btm-30 wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="100ms">
+                    <div class="col-md-6 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
                         <div class="row">
                             <center>
                             <div class="col-md-12">
@@ -1490,7 +1513,7 @@
                             </center>
                         </div>
                     </div><!--service-col-->
-                    <div class="col-md-6 margin-btm-30 wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="100ms">
+                    <div class="col-md-6 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
                         <div class="row">
                             <center>
                             <div class="col-md-12">
@@ -1505,6 +1528,9 @@
                 </div><!--services-row-->
             </div>
         </section>
+        <!--****************************************** Aqui termina otra seccion testimonio2 **************************** -->
+
+
         
         <!--********************************************Inicia decimo sección*****************************************  -->
         <section id="contact" class="section-padding">
@@ -1512,7 +1538,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="center-heading text-center">
-                            <p class=" wow animated bounceIn color-grey"  data-wow-duration="700ms" data-wow-delay="100ms"><b>SI TE INTERESA AFILIARTE CONT&Aacute;CTANOS </b></p>
+                            <h3 class=" wow animated bounceIn color-grey"  data-wow-duration="700ms" data-wow-delay="100ms"><b>SI TE INTERESA AFILIARTE CONT&Aacute;CTANOS </b></h3>
                             <span class="icon"><i class="fa fa-phone color-grey2"></i></span>
                         </div><!--center heading-->
                     </div>
@@ -1605,6 +1631,8 @@
             </div>
         </section>
         <!--********************************************Termina decimo sección*****************************************  -->
+
+
 
 
         <!--********************************************FOOTER*****************************************  -->
@@ -1880,5 +1908,24 @@
         <script src="js/jquery.magnific-popup.min.js" type="text/javascript"></script>
         <!--customizable plugin edit according to your needs-->
         <script src="js/custom.js" type="text/javascript"></script>
+        <script src="js/jquery.videobackground.js" type="text/javascript"></script>
+
+        <script>
+            $(document).ready(function() {
+            
+                $('#video2').videobackground({
+                    videoSource: [['http://vjs.zencdn.net/v/oceans.mp4', 'video/mp4']], 
+                    controlPosition: '#rerrr',
+                    poster: 'video/big-buck-bunny.jpg',
+                    resize: false,
+                    loop: true,
+                    muted: true,
+                    loadedCallback: function() {
+                        $(this).videobackground('mute');
+                    }
+                });
+            });
+        </script>
     </body>
 </html>
+
