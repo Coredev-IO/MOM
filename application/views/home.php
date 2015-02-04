@@ -287,11 +287,10 @@
         <div id="contenido_video">
             <div class="row">
                 <br><br><br>
-                <br><br>
-                <div class="col-md-6 col-md-offset-3">
-                    <a target="_blank" class="btn btn-border-white  btn-100 btn-lg wow animated bounceInDown"  data-wow-duration="700ms" data-wow-delay="100ms"><b>Lorem Ipsum</b></a>
+                <div class="container text-center">
+                    <img src="image/logomom2.png" class="align-center" align="center" alt="Responsive image" height="150" width="400">
+                    <h3 class=" wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">Con Mom siempre podemos ir a todas partes con estilo y comodidad, ademas de que también existen diseños unicos para cualquier mujer.</h3>
                 </div>
-
             </div>            
         </div>
         <!--****************************************** Aqui termina el video **************************************** -->
@@ -1203,6 +1202,8 @@
                         </div>
                     </div>
 
+                    <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms"></div>
+
                     <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
                         <div class="item-img-wrap thumbnail ">
                             <a href="image/1.Travelling/travel3.png" class="show-image"><img class="zoom_all" src='image/1.Travelling/travel3.png' data-zoom-image="image/1.Travelling/travel3.jpg"/></a>
@@ -1215,6 +1216,8 @@
                             </div>
                         </div>
                     </div>
+
+                    <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms"></div>
 
                 </div>
             </div>
@@ -1432,6 +1435,28 @@
                                     <a href="image/2.Hanging/bolsaAzulPunto.png" class="show-image"> <img src="image/2.Hanging/bolsaAzulPunto.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
+
+                            <div class="mix col-md-4 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/bolsaBlanca.png" class="show-image"> <img src="image/2.Hanging/bolsaBlanca.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+
+                            <div class="mix col-md-4 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/bolsaNegraCoctel.png" class="show-image"> <img src="image/2.Hanging/bolsaNegraCoctel.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+
+                            <div class="mix col-md-4 html margin-btm-30"></div>
+
+                            <div class="mix col-md-4 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/bolsaCafe.png" class="show-image"> <img src="image/2.Hanging/bolsaCafe.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+
+                            <div class="mix col-md-4 html margin-btm-30"></div>
 
                         </div>
                     </div>
@@ -1916,7 +1941,7 @@
                 $('#video2').videobackground({
                     videoSource: [['http://vjs.zencdn.net/v/oceans.mp4', 'video/mp4']], 
                     controlPosition: '#rerrr',
-                    poster: 'video/big-buck-bunny.jpg',
+                    poster: 'video/big1.jpg',
                     resize: false,
                     loop: true,
                     muted: true,
