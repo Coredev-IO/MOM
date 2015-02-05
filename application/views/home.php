@@ -65,15 +65,15 @@
                          <a class="btn btn-lg btn-border-white" data-toggle="modal" data-target=".bs-example-modal-sm"> <i class="fa fa-play"></i> </a>
                     </div> -->
                     <br><br><br><br><br><br>
-                    <div class="col-md-6 col-md-offset-3 text-center">
-                        <a href="http://online.fliphtml5.com/cwvx/hlub/" class="btn btn-lg btn-border-white big-btn btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b>Cat&aacute;logo 2014</b></a>
+                    <!-- <div class="col-md-6 col-md-offset-3 text-center">
+                        <a href="http://online.fliphtml5.com/cwvx/hlub/" class="btn btn-lg btn-border-white big-btn btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b>Cat&aacute;logo 2014</b></a> -->
                             <!-- Otro Catalogo 20134 http://online.fliphtml5.com/hpvm/marb/#p=1 -->
-                    </div>
+                    <!-- </div>
                     <br><br><br>
-                    <center>
-                    <div class="col-md-4 col-md-offset-4 text-center">
+                    <center> -->
+                    <!-- <div class="col-md-4 col-md-offset-4 text-center">
                     <a href="CatalogoMujeres.pdf" class="btn btn-lg btn-border-white big-btn btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b><h4><i class="fa fa-download"></i>&nbsp;Descarga Cat&aacute;logo 2014</b></h4></a>
-                  </div>
+                  </div> -->
                 </div>
             </div>
             <!-- Contenido de Modal -->
