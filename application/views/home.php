@@ -39,7 +39,7 @@
                     <div class="row">
                         <div class="col-md-6 col-md-offset-3 respo-cust">
                             <center>
-                            <img src="image/logomom2.png" class="img-responsive" alt="Responsive image">
+                            <img src="image/logomom1.png" class="img-responsive" alt="Responsive image">
                             </center>
                         </div>
                     </div>
@@ -98,14 +98,16 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="index.html"> <img src="image/logomom1.png" class="center2" align="center" alt="workimg" height="70" width="200"></a>
+                        <a class="navbar-brand" href="index.html"> <img src="image/logomom1.png" class="center2" align="center" alt="workimg" height="60" width="140"></a>
                     </div>
                     <div class="navbar-collapse collapse">
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="#home">INICIO</a></li>
                             <li><a href="#about">&iquest;QU&Iacute;ENES SOMOS?</a></li>
+                            <li><a href="#catalogo1">CATALOGO 2014</a></li>
                             <li><a href="#blog">COLECCION TRAVELLING</a></li>
                             <li><a href="#work">COLECCI&Oacute;N HANGING</a></li>
+                            <li><a href="#proximamente">PROXIMAMENTE CATALOGO 2015</a></li>
                             <li><a href="#contact">AF&Iacute;LIATE</a></li>
                         </ul>
                     </div><!--/.nav-collapse -->
@@ -265,14 +267,14 @@
         
 
         <!--********************************************Inicia cuarta sección**************************************  -->
-        <section class="cta-1">
+        <section class="cta-1" id="catalogo1">
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 col-md-offset-3 text-center">
                         <a href="http://online.fliphtml5.com/cwvx/hlub/" class="btn btn-lg btn-border-white big-btn  btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b>Cat&aacute;logo 2014</b></a>
                     </div><br><br><br>
                     <div class="col-md-4 col-md-offset-4 text-center">
-                    <a href="CatalogoMujeres.pdf" class="btn btn-lg btn-border-white big-btn btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b><h4><i class="fa fa-download"></i>&nbsp;Descarga Cat&aacute;logo 2014</b></h4></a>
+                    <a href="CatalogoMujeres.pdf" class="btn btn-lg btn-border-white big-btn btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b><h4><i class="fa fa-download"></i>&nbsp;Descarga Cat&aacute;logo PDF 2014</b></h4></a>
                     </div>
                 </div>
             </div>
@@ -289,7 +291,7 @@
                 <br><br><br>
                 <div class="container text-center">
                     <img src="image/logomom2.png" class="align-center" align="center" alt="Responsive image" height="150" width="400">
-                    <h3 class=" wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">Con Mom siempre podemos ir a todas partes con estilo y comodidad, ademas de que también existen diseños unicos para cualquier mujer.</h3>
+                    <h3 class=" wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">Con Mom siempre podemos ir a todas partes con estilo y comodidad, existen diseños unicos para cualquier mujer.</h3>
                 </div>
             </div>            
         </div>
@@ -1468,22 +1470,24 @@
 
         
         <!--********************************************Inicia noveno sección*****************************************  -->
-        <div class="cta-2">
-            <div class="container text-center">
-                <div class="row">
-                    <div class="col-md-6 col-md-offset-3">
-                        <a href="http://online.fliphtml5.com/maab/msgs/#p=1" target="_blank" class="btn btn-border-white  btn-100 btn-lg wow animated bounceInDown"  data-wow-duration="700ms" data-wow-delay="100ms"><b>Proximamente</b></a>
-                        <!-- Catalogo bueno http://online.fliphtml5.com/maab/msgs/#p=1 -->
-                    </div>
-                    <br><br><br>
+        <section id="proximamente">
+            <div class="cta-2">
+                <div class="container text-center">
+                    <div class="row">
+                        <div class="col-md-6 col-md-offset-3">
+                            <a href="http://online.fliphtml5.com/maab/msgs/#p=1" target="_blank" class="btn btn-border-white  btn-100 btn-lg wow animated bounceInDown"  data-wow-duration="700ms" data-wow-delay="100ms"><b>Proximamente</b></a>
+                            <!-- Catalogo bueno http://online.fliphtml5.com/maab/msgs/#p=1 -->
+                        </div>
+                        <br><br><br>
 
-                    <div class="col-md-4 col-md-offset-4 text-center">
-                    <a href="CatalogoHombres.pdf" class="btn btn-lg btn-border-white big-btn btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b><h4><i class="fa fa-download"></i>&nbsp;Descarga Cat&aacute;logo 2014</b></h4></a>
-                    </div>
+                        <div class="col-md-4 col-md-offset-4 text-center">
+                        <a href="CatalogoHombres.pdf" class="btn btn-lg btn-border-white big-btn btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b><h4><i class="fa fa-download"></i>&nbsp;Descarga Cat&aacute;logo PDF 2015</b></h4></a>
+                        </div>
 
+                    </div>
                 </div>
             </div>
-        </div>
+        </section>
         <!--********************************************Termina noveno sección*****************************************  -->
 
         <!--****************************************** Aqui inicia otra seccion testimonio2 **************************** -->
