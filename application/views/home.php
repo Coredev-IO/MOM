@@ -192,9 +192,9 @@
             </div>
         </section>
         <!--********************************************Termina segunda sección***********************************  -->
-        
 
-        
+
+
         <!--********************************************Inicia primer parte comentada sección****************************  -->
         <section id="cualidades" class="parallax  bg-heading">
             <div class="container">
@@ -264,7 +264,7 @@
         <section  class="parallax testimonials bg-heading" data-stellar-background-ratio="0.5">  </section>
         <!--********************************************Termina tercer sección*************************************  -->
 
-        
+
 
         <!--********************************************Inicia cuarta sección**************************************  -->
         <section class="cta-1" id="catalogo1">
@@ -293,12 +293,12 @@
                     <img src="image/logomom2.png" class="align-center" align="center" alt="Responsive image" height="150" width="400">
                     <h3 class=" wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">Con Mom siempre podemos ir a todas partes con estilo y comodidad, existen diseños unicos para cualquier mujer.</h3>
                 </div>
-            </div>            
+            </div>
         </div>
         <!--****************************************** Aqui termina el video **************************************** -->
 
 
-        
+
         <!--********************************************Inicia quinta sección TRAVELLING****************************************  -->
         <section id="blog" class="section-padding">
             <div class="container">
@@ -914,6 +914,8 @@
                             <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal3">
                               DETALLES
                             </button>
+                            <br>
+                            <h3><b>¡AGOTADA!<b></h3>
                             </div>
                         </div><!--blog desc-->
                     </div><!--blog post col end-->
@@ -928,6 +930,8 @@
                             <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal4">
                               DETALLES
                             </button>
+                            <br>
+                            <h3><b>¡AGOTADA!<b></h3>
                             </div>
                         </div><!--blog desc-->
                     </div><!--blog post col end-->
@@ -1191,7 +1195,7 @@
                         </div>
                     </div>
 
-                    <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
+                    <!-- <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
                         <div class="item-img-wrap thumbnail ">
                            <a href="image/1.Travelling/travel5.png" class="show-image"> <img class="zoom_all" src='image/1.Travelling/travel5.png' data-zoom-image="image/1.Travelling/travel5.jpg"/></a>
                         </div>
@@ -1202,9 +1206,9 @@
                             </button>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
-                    <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms"></div>
+                    <!-- <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms"></div> -->
 
                     <div class="col-sm-4 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
                         <div class="item-img-wrap thumbnail ">
@@ -1215,6 +1219,8 @@
                             <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal23">
                               DETALLES
                             </button>
+                            <br>
+                            <h3><b>¡AGOTADA!<b></h3>
                             </div>
                         </div>
                     </div>
@@ -1224,13 +1230,13 @@
                 </div>
             </div>
         </section>
-         
+
         <!--********************************************Termina quinta sección***************************************  -->
 
 
 
         <!--********************************************Inicia sexta sección*****************************************  -->
-        <section class="fun-facts parallax" data-stellar-background-ratio="0.5">
+        <!-- <section class="fun-facts parallax" data-stellar-background-ratio="0.5">
             <div class="container">
                 <div class="row">
                     <div class="col-md-4 margin-btm-30 text-center">
@@ -1238,22 +1244,22 @@
                             <h1 class="counter">450</h1>
                             <h3>Like Fashion Travelling Bags</h3>
                         </div>
-                    </div><!--facts col-->
+                    </div>
                       <div class="col-md-4 margin-btm-30 text-center">
                         <div class="fact-inner">
                             <h1><span class="counter">345</span></h1>
                             <h3>Like Fashion Hanging Bags</h3>
                         </div>
-                    </div><!--facts col-->
+                    </div>
                        <div class="col-md-4 margin-btm-30 text-center">
                         <div class="fact-inner">
                             <h1><span class="counter">390</span></h1>
                             <h3>Like ambos estilos </h3>
                         </div>
-                    </div><!--facts col-->
+                    </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!--********************************************Termina sexta sección*****************************************  -->
 
 
@@ -1285,7 +1291,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 text-center">
                         <p class="lead margin-btm-30" align="justify">
-                            Nuestros productos son hechos con los mejores materiales y son de alta calidad y pueden ser utilizados en cualquier tipo de actividad que realices d&iacute;a con d&iacute;a, puedes llevarla al gimnasio, oficina, reuniones sociales, viajes largos o cortos, de negocios o placer.
+                            Nuestros productos son hechos con los mejores materiales(pvc) y son de alta calidad y pueden ser utilizados en cualquier tipo de actividad que realices d&iacute;a con d&iacute;a, puedes llevarla al gimnasio, oficina, reuniones sociales, viajes largos o cortos, de negocios o placer.
                         </p>
                     </div>
                 </div>
@@ -1298,7 +1304,7 @@
                             </div>
                             <div class="col-md-6">
                                 <div class="work-detail">
-                                    <h1 class="color-grey2">Estilo Hanging</h1>
+                                    <h1 class="color-grey2">Estilo Hanging con forros intercambiables</h1>
                                     <p>
                                         Este estilo de bolsa es para todo tipo de mujer en ocasiones se adapta mejor para el dia casual o alguna reuni&oacute;n con las amigas, pero siempre te acompa&ntilde;ar&aacute; en buenos momentos.
                                     </p>
@@ -1381,8 +1387,8 @@
                                     <a href="image/2.Hanging/bolsa10.png" class="show-image"> <img src="image/2.Hanging/bolsa10t.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
-                            
-                            
+
+
                             <!-- bolsa coctel -->
                             <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
@@ -1468,7 +1474,7 @@
         <!--********************************************Termina octava sección*****************************************  -->
 
 
-        
+
         <!--********************************************Inicia noveno sección*****************************************  -->
         <section id="proximamente">
             <div class="cta-2">
@@ -1497,7 +1503,7 @@
                     <div class="col-md-12">
                         <div class="center-heading text-center">
                             <h2>Mom Es Unica!!!</h2>
-                            <span class="icon"><i class="fa fa-bars"></i></span> 
+                            <span class="icon"><i class="fa fa-bars"></i></span>
                         </div><!--center heading-->
                     </div>
                 </div><!--center heading-->
@@ -1508,7 +1514,7 @@
                             <div class="col-md-12">
                                 <div class="service-icon service-info">
                                     <i class="fa fa-image"></i>
-                                    <h4>Mom siempre con estilo</h4>                                                                
+                                    <h4>Mom siempre con estilo</h4>
                                 </div>
                             </div>
                             </center>
@@ -1521,7 +1527,7 @@
                             <div class="col-md-12">
                                 <div class="service-icon service-info">
                                     <i class="fa fa-plane"></i>
-                                    <h4>Travelling siempre practica.</h4>                                                                
+                                    <h4>Travelling siempre practica.</h4>
                                 </div>
                             </div>
                             </center>
@@ -1536,7 +1542,7 @@
                             <div class="col-md-12">
                                 <div class="service-icon service-info">
                                     <i class="fa fa-users"></i>
-                                    <h4>Amigable para todo tipo de ocasión.</h4>                                                                
+                                    <h4>Amigable para todo tipo de ocasión.</h4>
                                 </div>
                             </div>
                             </center>
@@ -1548,7 +1554,7 @@
                             <div class="col-md-12">
                                 <div class="service-icon service-info">
                                     <i class="fa fa-heart"></i>
-                                    <h4>Hanging siempre con diseño.</h4>                                                                
+                                    <h4>Hanging siempre con diseño.</h4>
                                 </div>
                             </div>
                             </center>
@@ -1560,7 +1566,7 @@
         <!--****************************************** Aqui termina otra seccion testimonio2 **************************** -->
 
 
-        
+
         <!--********************************************Inicia decimo sección*****************************************  -->
         <section id="contact" class="section-padding">
             <div class="container">
@@ -1626,17 +1632,17 @@
                            <div class=" margin-btm-30 address-info wow animated bounceIn "  data-wow-duration="700ms" data-wow-delay="200ms">
                         <h3>Nuestras Oficinas</h3>
                         <p><i class="fa fa-map-marker"></i> Av. Palo Solo 130, 52778, Huixquilucan, Mex.
-                            <br><i class="fa fa-map-marker"></i>Patricio Sanz 1529 Col. Del Valle Del. Benito Ju&aacute;rez</p>
+                            <br><i class="fa fa-phone"></i> Telefonos: 52903110
+                            <br><i class="fa fa-envelope"></i> Email: ventas1@momshop.mx</p>
                             <br>
 
-                        <p><i class="fa fa-phone"></i> Telefonos: 52903110
-                            <br><i class="fa fa-phone"></i> Telefonos: (55) 53352071</p>
-                            <br>
-
-                        <p><i class="fa fa-envelope"></i> Email: ventas1@momshop.mx
+                        <p>
+                            <br><i class="fa fa-phone"></i> Telefonos: (55) 53352071
+                            <br><i class="fa fa-map-marker"></i> Patricio Sanz 1529 Col. Del Valle Del. Benito Ju&aacute;rez
                             <br><i class="fa fa-envelope"></i> Email: laura.gomez@momshop.mx</p>
                             <br>
-                            <br>
+
+
 
 
                         <p><i class="fa fa-map-marker"></i>Monterrey</p>
@@ -1669,7 +1675,8 @@
         <footer id="footer">
             <div class="container text-center">
                 <a href="#home"><img src="image/logomom1.png" class="align-center" align="center" alt="Responsive image" height="100" width="300"></a>
-                <span>CREATED BY JESUS MONTESINOS - COREDEV.IO  </span>
+                <!-- <span>CREATED BY JESUS MONTESINOS - COREDEV.IO  </span> -->
+                <span>CREATED BY <a href="http://coredev.io">COREDEV.IO</a></span>
                 <span>&copy; 2014. MOMSHOP</span>
             </div>
         </footer>
@@ -1941,9 +1948,9 @@
 
         <script>
             $(document).ready(function() {
-            
+
                 $('#video2').videobackground({
-                    videoSource: [['http://vjs.zencdn.net/v/oceans.mp4', 'video/mp4']], 
+                    videoSource: [['http://vjs.zencdn.net/v/oceans.mp4', 'video/mp4']],
                     controlPosition: '#rerrr',
                     poster: 'video/big1.jpg',
                     resize: false,
@@ -1957,4 +1964,3 @@
         </script>
     </body>
 </html>
-
