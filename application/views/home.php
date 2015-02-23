@@ -39,7 +39,7 @@
                     <div class="row">
                         <div class="col-md-6 col-md-offset-3 respo-cust">
                             <center>
-                            <img src="image/logomom1.png" class="img-responsive" alt="Responsive image">
+                            <img src="image/logomom2.png" class="img-responsive" alt="Responsive image">
                             </center>
                         </div>
                     </div>
@@ -270,9 +270,9 @@
         <section class="cta-1" id="catalogo1">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 col-md-offset-3 text-center">
+                    <!-- <div class="col-md-6 col-md-offset-3 text-center">
                         <a href="http://online.fliphtml5.com/cwvx/hlub/" class="btn btn-lg btn-border-white big-btn  btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b>Cat&aacute;logo 2014</b></a>
-                    </div><br><br><br>
+                    </div><br><br><br> -->
                     <div class="col-md-4 col-md-offset-4 text-center">
                     <a href="CatalogoMujeres.pdf" class="btn btn-lg btn-border-white big-btn btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b><h4><i class="fa fa-download"></i>&nbsp;Descarga Cat&aacute;logo PDF 2014</b></h4></a>
                     </div>
@@ -318,21 +318,23 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                <h3><p>Maleta Negra ejecutiva estilo Celine.</p></h3>
-                                <span>Negro</span>
+                                <h3><p>Maleta Negra ejecutiva estilo Celine. (Mod. 153)</p></h3>
+                                <span>Color: Negro</span>
                                 <p>
                                     <UL type = disk >
                                             <LI>Maleta con estilo de Bolsa Fashion
-                                            <LI>Maleta Realizada en corte sint&eacute;tico.
-                                            <LI>Compartimiento para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves.
+                                            <LI>Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable, 
+                                            <LI>Imitacion piel convinado imitación piel de cocodrilo
+                                            <LI>Bolsillo frontal con cierre color dorado
+                                            <LI>Forro 100% nylon estampado logotipo  MOM 
+                                            <LI>Compartimiento interno acojinado para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves. 
+                                            <LI>Trolley (asa telescopica) de aluminio reforzado cuadrado , 1m altura
+                                            <LI>Placa MOM 
                                             <LI>Dos ruedas y dos bases.
-                                            <LI>Rolling cuadrado con quingalejo de identificaci&oacute;n de maleta
-                                            <LI>Placa  MOM
-                                            <LI>Forro nylon estampado MOM
-                                            <LI>Asa telesc&oacute;pica: de color negro.
                                             </UL>
-                                     <span>MEDIDAS: 40x42x19cm</span>
-                                     <span>PESO: 2Kg </span>
+                                     <span>Medidas: Largo 40 cm.  Altura 43 cm.  Ancho 20 cm.  Asa 15 cm.</span>
+                                     <span>Peso aprox: 2Kg</span>
+                                     <span>Capacidad de Carga: 12Kg</span>
                                 </p>
                               </div>
                             </div>
@@ -344,22 +346,23 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                 <h3><p>Maleta Tipo Bolsa con Textura de Rayas</p></h3>
-                                <span>Blanco y Rojo</span>
+                                 <h3><p>Maleta Tipo Bolsa con Textura en Rayas ( Mod. 391)</p></h3>
+                                <span>Color: Rojo, Negro, Blanco</span>
                                 <p>
                                     <UL type = disk >
-                                            <LI>Maleta Realizada en corte sint&eacutetico.
-                                            <LI>Color blanco y rojo.
-                                            <LI>Maleta con estilo de Bolsa Fashion
-                                            <LI>Placa MOM
-                                            <LI>Bolsillos exteriores: 1 de tipo parche.
-                                            <LI>Forro nylon estampado MOM
-                                            <LI>Compartimiento para Laptop o Ipad. Porta celular, bolsa con cierre para llaves.
-                                            <LI>Asa telesc&oacute;pica: de color negro.
-                                            <LI>Dos ruedas y dos bases.
+                                            <LI>Maleta con estilo de Bolsa Fashion 
+                                            <LI>Maleta Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable, 
+                                            <LI>Imitación  piel de  avestruz y charol
+                                            <LI>Bolsillo frontal tipo parche con broche de iman
+                                            <LI>Forro 100%  nylon estampado logotipo  MOM 
+                                            <LI>Compartimiento interno acojinado para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves. 
+                                            <LI>Trolley (asa telescopica) de aluminio reforzado cuadrado , 1m altura
+                                            <LI>Placa MOM 
+                                            <LI>Dos ruedas y dos bases. 
                                             </UL>
-                                            <span>MEDIDAS: 38x49x17cm</span>
-                                            <span>PESO: 2Kg </span>
+                                            <span>Medidas: Largo 48 cm.  Altura 40 cm.  Ancho 18 cm.  Asa 15 cm. </span>
+                                            <span>Peso aprox: 2.5 Kg</span>
+                                            <span>Capacidad de Carga: 12Kg</span>
                                 </p>
                               </div>
                             </div>
@@ -371,21 +374,24 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                 <h3><p>Maleta Tipo Bolsa con Hilo Metalizado </p></h3>
-                            <span>Negro y Plateado</span>
+                                 <h3><p>Maleta Tipo Bolsa con Hilo Metalizado  (Mod. 6233)</p></h3>
+                            <span>Color: Negro Plateado</span>
                             <p>
 
                                 <UL type = disk >
-                                        <LI>Maleta con estilo de Bolsa Fashion
-                                        <LI>Porta celular, bolsa con cierre para llaves.
-                                        <LI>Color negro y plateado.
-                                        <LI>Cierre mediante zipper + solapa.
-                                        <LI>Compartimiento para Laptop o Ipad.
-                                        <LI>Asa telesc&oacute;pica de color negro con estampado MOM.
-                                        <LI>Dos ruedas y dos bases.
+                                        <LI>Maleta con estilo de Bolsa Fashion 
+                                        <LI>Maleta Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable, 
+                                        <LI>Imitación  piel de  charonl, hilos metalizados color plata
+                                        <LI>Solapa con cierre, hebilla color doradoCierre mediante zipper + solapa.
+                                        <LI>Forro 100% nylon, color negro
+                                        <LI>Compartimiento interno acojinado para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves. 
+                                        <LI>Trolley (asa telescopica) de aluminio reforzado cuadrado , 1m altura
+                                        <LI>Placa colgante MOM 
+                                        <LI>Dos ruedas y dos bases. 
                                         </UL>
-                                        <span>MEDIDAS: 39x42x17cm</span>
+                                        <span>MEDIDAS: Largo 43 cm.  Altura 40 cm.  Ancho 18 cm.  Asa 15 cm.</span>
                                         <span>PESO: 2Kg </span>
+                                        <span>Capacidad de Carga: 12Kg</span>
                             </p>
                               </div>
                             </div>
@@ -397,22 +403,24 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                 <h3><p>Maleta Tipo Bolsa con Tiras Entrelazadas</p></h3>
-                            <span>Fucsia y Negro</span>
+                                 <h3><p>Maleta Tipo Bolsa con Tiras Entrelazadas (Mod. 140)</p></h3>
+                            <span>Color: Fucsia,  Negro, Blanco </span>
                             <p>
                                 <UL type = disk >
-                                        <LI>Maleta con estilo de Bolsa Fashion
-                                        <LI>Maleta Realizada en corte sint&eacutetico.
-                                        <LI>Color fucsia y negro tipo charol.
-                                        <LI>Cierre mediante zipper + solapa.
-                                        <LI>Incluye candado con llaves de color plateado .
-                                        <LI>Bolsillos interiores: 1 de zipper.
-                                        <LI>Compartimentos interiores: 1 para laptop + 2 a tono.
-                                        <LI>Rolling cuadrado con candado.
-                                        <LI>Dos ruedas y dos bases.
+                                        <LI>Maleta con estilo de Bolsa Fashion.
+                                        <LI>Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable.
+                                        <LI>Imitacion piel charol, tiras entrelazadas.
+                                        <LI>Solapa con cierre.
+                                        <LI>Incluye candado con llaves de color plateado.
+                                        <LI>Forro 100% nylon, color negro.
+                                        <LI>Compartimiento interno acojinado para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves.
+                                        <LI>Trolley (asa telescopica) de aluminio reforzado cuadrado , 1m altura.
+                                        <LI>Placa colgante MOM.
+                                        <LI>Dos ruedas y dos bases. 
                                         </UL>
-                                 <span>MEDIDAS: 40x42x19cm</span>
-                                 <span>PESO: 2Kg </span>
+                                 <span>Medidas: Largo 40 cm.  Altura 45 cm.  Ancho 18 cm.  Asa 15 cm.</span>
+                                 <span>Peso aprox: 2Kg</span>
+                                 <span>Capacidad de Carga: 12Kg.</span>
                             </p>
                               </div>
                             </div>
@@ -424,22 +432,25 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                 <h3><p>Maleta Tipo Bolsa con asas en Contraste</p></h3>
-                            <span></span>
+                                 <h3><p>Maleta Tipo Bolsa Tipo Gamuza contraste piel tipo vibora (Mod. 310)</p></h3>
+                            <span>Color: Rojo Coral; Azul marino</span>
                             <p>
 
                                 <UL type = disk >
-                                        <LI>Bolsa con cierre para llaves.
-                                        <LI>Placa de MOM, forro nylon estampado MOM.
-                                        <LI>Mamey con azul, con bolsa externa.
-                                        <LI>Maleta Realizada en corte sint&eacute;tico.
-                                        <LI>Cierre mediante zipper.
-                                        <LI>Compartimentos interiores, 1 para laptop + 2 a tono.
-                                        <LI>Se oculta el Rolling en bolsa exterior con cierre.
+                                        <LI>Maleta con estilo de Bolsa Fashion 
+                                        <LI>Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable
+                                        <LI>Imitacion piel gamuza y piel vibora
+                                        <LI>Bolsillo frontal tipo cartera con broche con iman
+                                        <LI>Bolsillo tracero con cierre para ocultar asa telescopica
+                                        <LI>Forro 100% nylon estampado logotipo  MOM 
+                                        <LI>Compartimiento interno acojinado para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves. 
+                                        <LI>Trolley (asa telescopica) de aluminio reforzado cuadrado , 1m altura
+                                        <LI>Placa MOM
                                         <LI>Dos ruedas y dos bases.
                                         </UL>
-                                        <span>MEDIDAS: 37x48x19cm</span>
-                                        <span>PESO: 2Kg </span>
+                                        <span>Medidas: Largo 47 cm. Altura 40 cm. Ancho 20 cm. Asa 20 cm.</span>
+                                        <span>Peso aprox: 2Kg</span>
+                                        <span>Capacidad de Carga: 12Kg</span>
                             </p>
                               </div>
                             </div>
@@ -451,24 +462,24 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                 <h3><p>Maleta Tipo Bolsa con Textura de Lunares, naranja piel de aveztruz con rojo</p></h3>
-                            <span>Rojo y Naranja</span>
+                                 <h3><p>Maleta Tipo Bolsa con Textura de  aveztruz (Mod. 116)</p></h3>
+                            <span>Color: Naranja, Rojo</span>
                             <p>
                                 <UL type = disk >
-                                        <LI>Bolsa con cierre para llaves.
-                                        <LI>Rolling cuadrado con candado
-                                        <LI>Maleta Realizada en corte sint&eacutetico.
-                                        <LI>Color naranja y rojo.
-                                        <LI>Cierre mediante zipper.
-                                        <LI>Incluye candado con llaves de color dorado.
-                                        <LI>Bolsillos interiores: 2 de zipper.
-                                        <LI>Compartimentos interiores: 1 para laptop + 2 a tono.
-                                        <LI>Interior forrado en color naranja.
-                                        <LI>Asa telesc&oacute;pica: de color plateado con mango de color negro.
-                                        <LI>Dos ruedas y dos bases.
+                                        <LI>Maleta con estilo de Bolsa Fashion 
+                                        <LI>Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable
+                                        <LI>Imitacion piel charol, piel avestruz
+                                        <LI>Cierre superior, Tiras para modificar el tamaño espacion interno
+                                        <LI>Incluye candado con llaves de color dorado. 
+                                        <LI>Forro 100% nylon color naranja
+                                        <LI>Compartimiento interno acojinado para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves. 
+                                        <LI>Bolsillos interiores: 2 de zipper. 
+                                        <LI>Trolley (asa telescopica) de aluminio reforzado cuadrado , 1m altura
+                                        <LI>Dos ruedas y dos bases. 
                                         </UL>
-                                        <span>MEDIDAS: 40x43x23cm</span>
-                                        <span>PESO: 1,5Kg </span>
+                                        <span>Medidas:Largo 47 cm. Altura 45 cm. Ancho 23 cm. Asa 15 cm.</span>
+                                        <span>Peso aprox: 2Kg</span>
+                                        <span>Capacidad de Carga: 12Kg</span>
                             </p>
                               </div>
                             </div>
@@ -480,24 +491,24 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                 <h3><p>Maleta Tipo Bolsa con Cortes Curvos</p></h3>
-                            <span>Gris, Rosa y Beige</span>
+                                 <h3><p>Maleta Tipo Bolsa con Textura piel  de vibora  (Mod. 346)</p></h3>
+                            <span>Color: Gris musgo, melon, beige, negro</span>
                             <p>
                                 <UL type = disk >
-                                        <LI>Se oculta el Rolling en bolsa exterior con cierre.
-                                        <LI>Forro nylon estampado MOM.
-                                        <LI>Porta celular, Bolsa con cierre para llaves.
-                                        <LI>Maleta Realizada en corte sint&eacute;tico.
-                                        <LI>Color gris y rosa.
-                                        <LI>Placa MOM
-                                        <LI>Cierre mediante zipper.
-                                        <LI>Bolsillos interiores: 1 de zipper.
-                                        <LI>Compartimentos interiores: 1 para laptop + 2 a tono.
-                                        <LI>Asa telesc&oacute;pica: de color negro.
-                                        <LI>Dos ruedas y dos bases.
+                                        <LI>•Maleta con estilo de Bolsa Fashion 
+                                        <LI>•Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable
+                                        <LI>•Imitacion piel vibora
+                                        <LI>•Bolsillo tracero con cierre para ocultar asa telescopica
+                                        <LI>•Forro 100% nylon estampado logotipo  MOM 
+                                        <LI>•Compartimiento interno acojinado para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves. 
+                                        <LI>•Compartimiento tarjetero, llavero 
+                                        <LI>•Trolley (asa telescopica) de aluminio reforzado cuadrado , 1m altura
+                                        <LI>•Placa MOM 
+                                        <LI>•Dos ruedas y dos bases.
                                         </UL>
-                                        <span>MEDIDAS: 34x47x16cm</span>
-                                        <span>PESO: 1,5Kg </span>
+                                        <span>Medidas: Largo 47 cm. Altura 40 cm. Ancho 18 cm. Asa 20 cm.</span>
+                                        <span>Peso aprox: 2Kg</span>
+                                        <span>Capacidad de Carga: 12Kg</span>
                             </p>
                               </div>
                             </div>
@@ -509,23 +520,23 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                 <h3><p>Maleta Tipo Bolsa con Estoperoles</p></h3>
-                            <span>Azul Marino</span>
+                                 <h3><p>Maleta Tipo Bolsa con Textura piel con detalle estoperoles (Mod. 392)</p></h3>
+                            <span>Color: Azul Cobalto</span>
                             <p>
                                 <UL type = disk >
-                                        <LI>Placa MOM.
-                                        <LI>Forro nylon estampado MOM
-                                        <LI>Maleta realizada en corte sint&eacute;tico.
-                                        <LI>Color azul marino.
-                                        <LI>Cierre mediante zipper.
-                                        <LI>Bolsillos interiores: 1 de zipper.
-                                        <LI>Compartimentos interiores: 1 para laptop + 2 a tono.
-                                        <LI>Interior forrado en color negro con estampado de rombos color gris y caf&eacute;.
-                                        <LI>Asa telesc&oacute;pica: de color plateado con mango de color negro.
-                                        <LI>Dos ruedas y dos bases.
+                                        <LI>Maleta con estilo de Bolsa Fashion 
+                                        <LI>Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable
+                                        <LI>Imitacion piel 
+                                        <LI>Cierre superior
+                                        <LI>Forro 100% nylon estampado logotipo  MOM 
+                                        <LI>Compartimiento interno acojinado para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves. 
+                                        <LI>Placa MOM 
+                                        <LI>Trolley (asa telescopica) de aluminio reforzado, 1m altura
+                                        <LI>Dos ruedas y dos bases. 
                                         </UL>
-                                        <span>MEDIDAS: 37x44x23cm</span>
-                                        <span>PESO: 2Kg </span>
+                                        <span>Medidas: Largo 45 cm.  Altura 40 cm.  Ancho 20 cm.  Asa 15 cm.</span>
+                                        <span>Peso aprox: 2Kg</span>
+                                        <span>Capacidad de Carga: 12Kg</span>
                             </p>
                               </div>
                             </div>
@@ -537,24 +548,23 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                 <h3><p>Maleta Tipo Bolsa con Cortes en Contraste</p></h3>
-                            <span>Azul marino con Mandarina. Muy amplia</span>
+                                 <h3><p>Maleta Tipo Bolsa con Textura piel  (Mod. 319)</p></h3>
+                            <span>Color: Azul marino , Amarillo moztaza</span>
                             <p>
                                 <UL type = disk >
-                                        <LI>Placa de MOM.
-                                        <LI>Forro nylon estampado MOM.
-                                        <LI>Maleta Realizada en corte sint&eacutetico.
-                                        <LI>Color mostaza y marino..
-                                        <LI>Cierre mediante zipper + traba con broche giratorio.
-                                        <LI>Bolsillos interiores: 1 de zipper.
-                                        <LI>Compartimentos interiores: 1 para laptop + 2 a tono.
-                                        <LI>Interior forrado en color negro con estampado de rombos color gris y caf&eacute.
-                                        <LI>Asas de mano: 2 a tono + traba para unificarlas.
-                                        <LI>Asa telesc&oacutepica: de color plateado con mango de color negro.
+                                        <LI>Maleta con estilo de Bolsa Fashion 
+                                        <LI>Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable
+                                        <LI>Imitacion piel 
+                                        <LI>Cierre superior, herraje color dorado
+                                        <LI>Forro 100% nylon estampado logotipo  MOM
+                                        <LI>Compartimiento interno acojinado para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves. 
+                                        <LI>Trolley (asa telescopica) de aluminio reforzado, 1m altura
+                                        <LI>Placa MOM  
                                         <LI>Dos ruedas y dos bases.
                                         </UL>
-                                        <span>MEDIDAS: 40x37x21cm</span>
-                                        <span>PESO: 2Kg </span>
+                                        <span>Medidas: Largo 45 cm. Altura 40 cm. Ancho 20 cm. Asa 15 cm.</span>
+                                        <span>Peso aprox: 2Kg</span>
+                                        <span>Capacidad de Carga: 12Kg</span>
                             </p>
                               </div>
                             </div>
@@ -567,20 +577,23 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                 <h3><p>Maleta Tipo Bolsa Blanco Osti&oacute;n con estoperol.</p></h3>
-                            <span>Muy amplia y ejecutiva</span>
+                                 <h3><p>Maleta Tipo Bolsa con Textura piel con detalle estoperoles (Mod. 345)</p></h3>
+                            <span>Color: Blanco ostion</span>
                             <p>
                                 <UL type = disk >
-                                        <LI>Placa de MOM.
-                                        <LI>Forro nylon estampado MOM.
-                                        <LI>Maleta Realizada en corte sint&eacute;tico.
-                                        <LI>Bolsillos interiores: 1 de zipper.
-                                        <LI>Compartimentos interiores: 1 para laptop + 2 a tono.
-                                        <LI>Ruedas: 2 en posterior de color negro.
+                                        <LI>Maleta con estilo de Bolsa Fashion 
+                                        <LI>Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable
+                                        <LI>Imitacion piel 
+                                        <LI>Cierre superior
+                                        <LI>Forro 100% nylon estampado logotipo  MOM 
+                                        <LI>Compartimiento interno acojinado para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves. 
+                                        <LI>Placa MOM 
+                                        <LI>Trolley (asa telescopica) de aluminio reforzado, 1m altura
                                         <LI>Dos ruedas y dos bases.
                                         </UL>
-                                        <span>MEDIDAS: 40x37x21cm</span>
-                                        <span>PESO: 2Kg </span>
+                                        <span>Medidas: Largo 45 cm. Altura 40 cm. Ancho 20 cm. Asa 15 cm.</span>
+                                        <span>Peso aprox: 2Kg</span>
+                                        <span>Capacidad de Carga: 12Kg</span>
                             </p>
                               </div>
                             </div>
@@ -593,20 +606,24 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                 <h3><p>Maleta Tipo Bolsa Caf&eacute; con estoperol, muy amplia</p></h3>
+                                 <h3><p>Maleta Tipo Bolsa con Textura piel con detalle estoperoles (Mod. 396)</p></h3>
+                                 <span>Color: Café chocolate</span>
 
                             <p>
                                 <UL type = disk >
-                                        <LI>Placa de MOM.
-                                        <LI>Forro nylon estampado MOM.
-                                        <LI>Maleta Realizada en corte sint&eacute;tico.
-                                        <LI>Bolsillos interiores: 1 de zipper.
-                                        <LI>Compartimentos interiores: 1 para laptop + 2 a tono.
-                                        <LI>Ruedas: 2 en posterior de color negro.
-                                        <LI>Dos ruedas y dos bases.
+                                        <LI>Maleta con estilo de Bolsa Fashion 
+                                        <LI>Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable
+                                        <LI>Imitacion piel 
+                                        <LI>Cierre superior
+                                        <LI>Forro 100% nylon estampado logotipo  MOM 
+                                        <LI>Compartimiento interno acojinado para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves. 
+                                        <LI>Placa MOM 
+                                        <LI>Trolley (asa telescopica) de aluminio reforzado, 1m altura
+                                        <LI>Dos ruedas y dos bases. 
                                         </UL>
-                                        <span>MEDIDAS: 40x37x21cm</span>
-                                        <span>PESO: 2Kg </span>
+                                        <span>Medidas: Largo 45 cm. Altura 48 cm. Ancho 23 cm. Asa 15 cm.</span>
+                                        <span>Peso aprox: 2Kg</span>
+                                        <span>Capacidad de Carga: 12Kg</span>
                             </p>
                               </div>
                             </div>
@@ -619,19 +636,24 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                 <h3><p>Maleta Tipo Bolsa Amarilla con negro, bolsa externa.  Muy amplia</p></h3>
+                                 <h3><p>Maleta Tipo Bolsa con Textura piel con detalle piel de vibora (Mod. 256)</p></h3>
+                                 <span>Color: Amarillo. Negro</span>
                             <p>
                                 <UL type = disk >
-                                        <LI>Placa de MOM.
-                                        <LI>Forro nylon estampado MOM.
-                                        <LI>Maleta Realizada en corte sint&eacute;tico.
-                                        <LI>Bolsillos interiores: 1 de zipper.
-                                        <LI>Compartimentos interiores: 1 para laptop + 2 a tono.
-                                        <LI>Ruedas: 2 en posterior de color negro.
-                                        <LI>Dos ruedas y dos bases.
+                                        <LI>•Maleta con estilo de Bolsa Fashion 
+                                        <LI>•Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable
+                                        <LI>•Imitacion piel 
+                                        <LI>•Bolsillo frontal con cierre color dorado
+                                        <LI>•Broche de presion para modificar el tamaño
+                                        <LI>•Forro 100% nylon estampado logotipo  MOM 
+                                        <LI>•Compartimiento interno acojinado para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves.
+                                        <LI>•Trolley (asa telescopica) de aluminio reforzado, 1m altura
+                                        <LI>•Placa MOM 
+                                        <LI>•Dos ruedas y dos bases. 
                                         </UL>
-                                        <span>MEDIDAS: 40x37x21cm</span>
-                                        <span>PESO: 2Kg </span>
+                                        <span>Medidas: Largo 45 cm. Altura 45 cm. Ancho 24 cm. Asa 15 cm.</span>
+                                        <span>Peso aprox: 2Kg</span>
+                                        <span>Capacidad de Carga: 12Kg</span>
                             </p>
                               </div>
                             </div>
@@ -644,19 +666,23 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                 <h3><p>Maleta Tipo Bolsa Azul universitaria con mo&ntilde;o</p></h3>
+                                 <h3><p>Maleta Tipo Bolsa con Textura piel modelo Juvenil (Mod. 107)</p></h3>
+                                 <span>Color: Azul Celeste</span>
                             <p>
                                 <UL type = disk >
-                                        <LI>Placa de MOM.
-                                        <LI>Forro nylon estampado MOM.
-                                        <LI>Maleta Realizada en corte sint&eacute;tico.
-                                        <LI>Bolsillos interiores: 1 de zipper.
-                                        <LI>Compartimentos interiores: 1 para laptop + 2 a tono.
-                                        <LI>Ruedas: 2 en posterior de color negro.
-                                        <LI>Dos ruedas y dos bases.
+                                        <LI>•Maleta con estilo de Bolsa Fashion 
+                                        <LI>•Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable
+                                        <LI>•Imitacion piel, franjas estampadas color beige, blanco, negro
+                                        <LI>•Solapa  adorno moño en color plata, candados de adorno laterales
+                                        <LI>•Forro 100% nylon color negro
+                                        <LI>•Compartimiento interno acojinado para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves. 
+                                        <LI>•Placa colgante  MOM
+                                        <LI>•Trolley (asa telescopica) de aluminio reforzado, 1m altura
+                                        <LI>•Dos ruedas y dos bases.
                                         </UL>
-                                        <span>MEDIDAS: 40x37x21cm</span>
-                                        <span>PESO: 2Kg </span>
+                                        <span>Medidas: Largo 45 cm. Altura 37 cm. Ancho 20 cm. Asa 13 cm.</span>
+                                        <span>Peso aprox: 2Kg</span>
+                                        <span>Capacidad de Carga: 12Kg</span>
                             </p>
                               </div>
                             </div>
@@ -669,19 +695,23 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                 <h3><p>Maleta Tipo Bolsa Amarilla con grecas negras</p></h3>
+                                 <h3><p>Maleta Tipo Bolsa con Tiras Entrelazadas (Mod. 135)</p></h3>
+                                 <span>Color: Amarillo,  Negro, Blanco</span>
                             <p>
                                 <UL type = disk >
-                                        <LI>Placa de MOM.
-                                        <LI>Forro nylon estampado MOM.
-                                        <LI>Maleta Realizada en corte sint&eacute;tico.
-                                        <LI>Bolsillos interiores: 1 de zipper.
-                                        <LI>Compartimentos interiores: 1 para laptop + 2 a tono.
-                                        <LI>Ruedas: 2 en posterior de color negro.
+                                        <LI>Maleta con estilo de Bolsa Fashion 
+                                        <LI>Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable
+                                        <LI>Imitacion piel charol, tiras entrelazadas
+                                        <LI>3 Tiras  con broches de iman
+                                        <LI>Forro 100% nylon, color negro 
+                                        <LI>Compartimiento interno acojinado(desprendible) para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves. 
+                                        <LI>Trolley (asa telescopica) de aluminio reforzado cuadrado , 1m altura
+                                        <LI>Placa colgante MOM 
                                         <LI>Dos ruedas y dos bases.
                                         </UL>
-                                        <span>MEDIDAS: 40x37x21cm</span>
-                                        <span>PESO: 2Kg </span>
+                                        <span>Medidas: Largo 45 cm. Altura 40 cm. Ancho 20 cm. Asa 15 cm.</span>
+                                        <span>Peso aprox: 2Kg</span>
+                                        <span>Capacidad de Carga: 12Kg </span>
                             </p>
                               </div>
                             </div>
@@ -694,19 +724,22 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                 <h3><p>Maleta Tipo Bolsa travelling bag, azul mezclilla, tipo piel aveztruz</p></h3>
+                                 <h3><p>Maleta Tipo Bolsa con Textura de  aveztruz (Mod. 034)</p></h3>
+                                 <span>Color: Azul celeste</span>
                             <p>
                                 <UL type = disk >
-                                        <LI>Placa de MOM.
-                                        <LI>Forro nylon estampado MOM.
-                                        <LI>Maleta Realizada en corte sint&eacute;tico.
-                                        <LI>Bolsillos interiores: 1 de zipper.
-                                        <LI>Compartimentos interiores: 1 para laptop + 2 a tono.
-                                        <LI>Ruedas: 2 en posterior de color negro.
-                                        <LI>Dos ruedas y dos bases.
+                                        <LI>Maleta con estilo de Bolsa Fashion 
+                                        <LI>Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable
+                                        <LI>Imitacion piel charol, piel avestruz
+                                        <LI>Cierre superior, herraje color plata
+                                        <LI>Forro 100% nylon color negro
+                                        <LI>Compartimiento interno acojinado para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves. 
+                                        <LI>Trolley (asa telescopica) de aluminio reforzado, 1m altura
+                                        <LI>Dos ruedas y dos bases. 
                                         </UL>
-                                        <span>MEDIDAS: 40x37x21cm</span>
-                                        <span>PESO: 2Kg </span>
+                                        <span>Medidas: Largo 47 cm. Altura 45 cm. Ancho 23 cm. Asa 15 cm.</span>
+                                        <span>Peso aprox: 2Kg</span>
+                                        <span>Capacidad de Carga: 12Kg</span>
                             </p>
                               </div>
                             </div>
@@ -719,19 +752,23 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                 <h3><p>Maleta Tipo Bolsa negro con morado</p></h3>
+                                 <h3><p>Maleta Tipo Bolsa con Textura de  charol tipo cocodrilo (Mod. 0289)</p></h3>
+                                 <span>Color: Azul plumbago, Negro</span>
                             <p>
                                 <UL type = disk >
-                                        <LI>Placa de MOM.
-                                        <LI>Forro nylon estampado MOM.
-                                        <LI>Maleta Realizada en corte sint&eacute;tico.
-                                        <LI>Bolsillos interiores: 1 de zipper.
-                                        <LI>Compartimentos interiores: 1 para laptop + 2 a tono.
-                                        <LI>Ruedas: 2 en posterior de color negro.
+                                        <LI>Maleta con estilo de Bolsa Fashion 
+                                        <LI>Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable
+                                        <LI>Imitacion piel charol tipo cocodrilo, contraste imitacion piel
+                                        <LI>Bolsillo frontal tipo cartera con broches de presion
+                                        <LI>Forro 100% nylon color negro
+                                        <LI>Compartimiento interno acojinado para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves. 
+                                        <LI>Compartimento tipo bolsillo cetral con cierre
+                                        <LI>Trolley (asa telescopica) de aluminio reforzado, 1m altura
                                         <LI>Dos ruedas y dos bases.
                                         </UL>
-                                        <span>MEDIDAS: 40x37x21cm</span>
-                                        <span>PESO: 2Kg </span>
+                                        <span>Medidas: Largo 47 cm. Altura 45 cm. Ancho 23 cm. Asa 15 cm.</span>
+                                        <span>Peso aprox: 2Kg</span>
+                                        <span>Capacidad de Carga: 12Kg</span>
                             </p>
                               </div>
                             </div>
@@ -744,19 +781,22 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                 <h3><p>Maleta Tipo Bolsa naranja con mo&ntilde;o</p></h3>
+                                 <h3><p>Maleta Tipo Bolsa con Textura Capitone y  avestruz (Mod. 110)</p></h3>
+                                 <span>Color: Naranja</span>
                             <p>
                                 <UL type = disk >
-                                        <LI>Placa de MOM.
-                                        <LI>Forro nylon estampado MOM.
-                                        <LI>Maleta Realizada en corte sint&eacute;tico.
-                                        <LI>Bolsillos interiores: 1 de zipper.
-                                        <LI>Compartimentos interiores: 1 para laptop + 2 a tono.
-                                        <LI>Ruedas: 2 en posterior de color negro.
-                                        <LI>Dos ruedas y dos bases.
+                                        <LI>Maleta con estilo de Bolsa Fashion 
+                                        <LI>Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable
+                                        <LI>Imitacion piel avestruz
+                                        <LI>Solapa con cierre, herraje color dorado
+                                        <LI>Forro 100% nylon color negro
+                                        <LI>Compartimiento interno acojinado para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves. 
+                                        <LI>Trolley (asa telescopica) de aluminio reforzado, 1m altura
+                                        <LI>Dos ruedas y dos bases. 
                                         </UL>
-                                        <span>MEDIDAS: 40x37x21cm</span>
-                                        <span>PESO: 2Kg </span>
+                                        <span>Medidas: Largo 45 cm. Altura 50 cm. Ancho 20 cm. Asa 10 cm.</span>
+                                        <span>Peso aprox: 2Kg</span>
+                                        <span>Capacidad de Carga: 12Kg</span>
                             </p>
                               </div>
                             </div>
@@ -769,19 +809,24 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                 <h3><p>Maleta Tipo Bolsa Rosa con limon, bolsa externa, muy divertida y jovial</p></h3>
+                                 <h3><p>Maleta Tipo Bolsa Tipo Gamuza (Mod. 341)</p></h3>
+                                 <span>Color: Rosa,  Amarillo Limon</span>
                             <p>
                                 <UL type = disk >
-                                        <LI>Placa de MOM.
-                                        <LI>Forro nylon estampado MOM.
-                                        <LI>Maleta Realizada en corte sint&eacute;tico.
-                                        <LI>Bolsillos interiores: 1 de zipper.
-                                        <LI>Compartimentos interiores: 1 para laptop + 2 a tono.
-                                        <LI>Ruedas: 2 en posterior de color negro.
+                                        <LI>Maleta con estilo de Bolsa Fashion.
+                                        <LI>Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable
+                                        <LI>Imitacion piel gamuza
+                                        <LI>Bolsillo frontal tipo cartera con broche color dorado
+                                        <LI>Bolsillo tracero con cierre para ocultar asa telescopica
+                                        <LI>Forro 100% nylon estampado logotipo  MOM 
+                                        <LI>Compartimiento interno acojinado para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves. 
+                                        <LI>Trolley (asa telescopica) de aluminio reforzado cuadrado , 1m altura
+                                        <LI>Placa MOM
                                         <LI>Dos ruedas y dos bases.
                                         </UL>
-                                        <span>MEDIDAS: 40x37x21cm</span>
-                                        <span>PESO: 2Kg </span>
+                                        <span>Medidas: Largo 47 cm. Altura 40 cm. Ancho 20 cm. Asa 20 cm.</span>
+                                        <span>Peso aprox: 2Kg</span>
+                                        <span>Capacidad de Carga: 12Kg</span>
                             </p>
                               </div>
                             </div>
@@ -819,19 +864,22 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                 <h3><p>Maleta Tipo Bolsa rosa con azul tipo fendi</p></h3>
+                                 <h3><p>Maleta Tipo Bolsa  Bicolor tipo Fendi (Mod. 155)</p></h3>
+                                 <span>Color: Azul, rosa</span>
                             <p>
                                 <UL type = disk >
-                                        <LI>Placa de MOM.
-                                        <LI>Forro nylon estampado MOM.
-                                        <LI>Maleta Realizada en corte sint&eacute;tico.
-                                        <LI>Bolsa con cierre para llaves.
-                                        <LI>Compartimentos interiores: 1 para laptop + 2 a tono.
-                                        <LI>Ruedas: 2 en posterior de color negro.
-                                        <LI>Dos ruedas y dos bases.
+                                        <LI>Maleta con estilo de Bolsa Fashion 
+                                        <LI>Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable
+                                        <LI>Imitacion piel 
+                                        <LI>Cierre superior, herraje color dorado
+                                        <LI>Forro 100% nylon color rosa
+                                        <LI>Compartimiento interno acojinado para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves. 
+                                        <LI>Trolley (asa telescopica) de aluminio reforzado cuadrado, 1m altura
+                                        <LI>Dos ruedas y dos bases. 
                                         </UL>
-                                        <span>MEDIDAS: 40x37x21cm</span>
-                                        <span>PESO: 1,5Kg </span>
+                                        <span>Medidas: Largo 45 cm. Altura 45 cm. Ancho 20 cm. Asa 15 cm.</span>
+                                        <span>Peso aprox: 2Kg</span>
+                                        <span>Capacidad de Carga: 12Kg</span>
                             </p>
                               </div>
                             </div>
@@ -867,19 +915,23 @@
                         <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-body">
-                                 <h3><p>Maleta Tipo Bolsa color Rojo</p></h3>
+                                 <h3><p>Maleta Tipo Bolsa con Textura piel modelo Juvenil (Mod. 103)</p></h3>
+                                 <span>Color: Rojo</span>
                             <p>
                                 <UL type = disk >
-                                        <LI>Placa de MOM.
-                                        <LI>Forro nylon estampado MOM.
-                                        <LI>Maleta Realizada en corte sint&eacute;tico.
-                                        <LI>Bolsa con cierre para llaves.
-                                        <LI>Compartimentos interiores: 1 para laptop + 2 a tono.
-                                        <LI>Ruedas: 2 en posterior de color negro.
-                                        <LI>Dos ruedas y dos bases.
+                                        <LI>•Maleta con estilo de Bolsa Fashion 
+                                        <LI>•Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable
+                                        <LI>•Imitacion piel, franjas estampadas color beige, blanco, negro
+                                        <LI>•Candados laterales de adorno 
+                                        <LI>•Forro 100% nylon color negro
+                                        <LI>•Compartimiento interno acojinado para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves. 
+                                        <LI>•Placa colgante  MOM 
+                                        <LI>•Trolley (asa telescopica) de aluminio reforzado, 1m altura
+                                        <LI>•Dos ruedas y dos bases.
                                         </UL>
-                                        <span>MEDIDAS: 40x37x21cm</span>
-                                        <span>PESO: 1,5Kg </span>
+                                        <span>Medidas: Largo 47 cm. Altura 35 cm. Ancho 18 cm. Asa 13 cm.</span>
+                                        <span>Peso aprox: 2Kg</span>
+                                        <span>Capacidad de Carga: 12Kg</span>
                             </p>
                               </div>
                             </div>
@@ -1340,9 +1392,10 @@
                                     <p>
                                         Algunas caracter&iacute;sticas de las Fashion Hanging Bags son:
                                         <UL type = disk >
-                                        <LI>El material es sumamente resistente al agua y al calor.
-                                        <LI>Es dificil de romper por el pol&iacute;mero con el que est&aacute; hecho.
-                                        <LI>Diferentes colores para cada tipo de gusto.
+                                        <LI>El material es sumamente resistente al agua y al calor, lavable 100% 
+                                        <LI>Es dificil de romper por el polímero (PVC) con el que está hecho. 
+                                        <LI>Diferentes colores para cada tipo de gusto. 
+                                        <LI>Cuenta con forros intercabiables diferentes colores para todos los  modelos (excepto modelos Elegance)
                                         </UL>
                                     </p>
                                 </div>
@@ -1480,11 +1533,10 @@
             <div class="cta-2">
                 <div class="container text-center">
                     <div class="row">
-                        <div class="col-md-6 col-md-offset-3">
+                        <!-- <div class="col-md-6 col-md-offset-3">
                             <a href="http://online.fliphtml5.com/maab/msgs/#p=1" target="_blank" class="btn btn-border-white  btn-100 btn-lg wow animated bounceInDown"  data-wow-duration="700ms" data-wow-delay="100ms"><b>Proximamente</b></a>
-                            <!-- Catalogo bueno http://online.fliphtml5.com/maab/msgs/#p=1 -->
                         </div>
-                        <br><br><br>
+                        <br><br><br> -->
 
                         <div class="col-md-4 col-md-offset-4 text-center">
                         <a href="CatalogoHombres.pdf" class="btn btn-lg btn-border-white big-btn btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b><h4><i class="fa fa-download"></i>&nbsp;Descarga Cat&aacute;logo PDF 2015</b></h4></a>
