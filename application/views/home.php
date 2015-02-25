@@ -98,7 +98,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="index.html"> <img src="image/logomom1.png" class="center2" align="center" alt="workimg" height="60" width="140"></a>
+                        <a class="navbar-brand" href="index.html"> <img src="image/logomom1.png" class="center2" align="center" alt="workimg" height="50" width="100"></a>
                     </div>
                     <div class="navbar-collapse collapse">
                         <ul class="nav navbar-nav navbar-right">
@@ -135,7 +135,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 text-center wow animated fadeInUp" data-wow-duration="700ms" data-wow-delay="300ms">
                         <p class="lead margin-btm-30" align="justify">
-                        Somos una marca dedicada a la venta y distribuci&oacute;en de productos de Moda, Belleza, Estilo y Comodidad, pensada en la mujer actual que se desarrolla en un mundo din&aacutemico y cambiante y que  adem&aacute;s se preocupa por realizar sus actividades proyectando glamour, personalidad y estilo. Productos dise&ntilde;ados y pensados para facilitar su vida con estilo y comodidad.
+                        Somos una marca dedicada a la venta y distribuci&oacute;n de productos de Moda, Belleza, Estilo y Comodidad, pensada en la mujer actual que se desarrolla en un mundo din&aacutemico y cambiante y que  adem&aacute;s se preocupa por realizar sus actividades proyectando glamour, personalidad y estilo. Productos dise&ntilde;ados y pensados para facilitar su vida con estilo y comodidad.
                         </p>
                     </div>
                 </div>
@@ -151,21 +151,21 @@
                         <div class="service-box wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="400ms">
                             <i class="fa fa-heart"></i>
                             <h3>Mom est&aacute; con el ritmo diario de la vida</h3>
-                            <p align="justify"> En MOM nos preocupamos porque cada uno de nuestros productos tenga el balance necesario para estar a la moda.</p>
+                            <p align="justify"> En MOM nos preocupamos porque cada uno de nuestros productos tenga estilo y este a la moda.</p>
                         </div>
                     </div><!--service col end-->
                     <div class="col-md-3 margin-btm-30">
                         <div class="service-box wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="500ms">
                             <i class="fa fa-car"></i>
                             <h3>Mom es fashion a donde quiera que vayas</h3>
-                            <p align="justify">MOM est&aacute; dise&ntilde;ada para llevarla c&oacute;modamente a todos lados, para que te acompa&ntilde;e a cualquier actividad y no solo te sirva para viajar.</p>
+                            <p align="justify">MOM est&aacute; dise&ntilde;ada para llevarla c&oacute;modamente a todos lados, para que te acompa&ntilde;e a cualquier actividad.</p>
                         </div>
                     </div><!--service col end-->
                     <div class="col-md-3 margin-btm-30">
                         <div class="service-box wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="600ms">
                             <i class="fa fa-gift"></i>
                             <h3>Mom es un bonito regalo</h3>
-                            <p align="justify">Un regalo &uacute;til, de calidad y duradero, que adem&aacute;s podr&iacute;a ser un bello detalle para cualquier mujer que viaje mucho y con estilo.</p>
+                            <p align="justify">Es &uacute;til, de calidad y duradero,para cualquier mujer que viaje mucho y con estilo.</p>
                         </div>
                     </div><!--service col end-->
                 </div>
@@ -260,11 +260,6 @@
 
 
 
-        <!--********************************************Inicia tercer sección**************************************  -->
-        <section  class="parallax testimonials bg-heading" data-stellar-background-ratio="0.5">  </section>
-        <!--********************************************Termina tercer sección*************************************  -->
-
-
 
         <!--********************************************Inicia cuarta sección**************************************  -->
         <section class="cta-1" id="catalogo1">
@@ -280,24 +275,32 @@
             </div>
         </section>
         <!--********************************************Termina cuarta sección**************************************  -->
+            <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+              <!-- Indicators -->
+              <ol class="carousel-indicators">
+                <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+              </ol>
 
-
-
-        <!--****************************************** Aqui inicia el video **************************************** -->
-        <div id="video2">
-        </div>
-        <div id="contenido_video">
-            <div class="row">
-                <br><br><br>
-                <div class="container text-center">
-                    <img src="image/logomom2.png" class="align-center" align="center" alt="Responsive image" height="150" width="400">
-                    <h3 class=" wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">Con Mom siempre podemos ir a todas partes con estilo y comodidad, existen diseños unicos para cualquier mujer.</h3>
+              <!-- Wrapper for slides -->
+              <div class="carousel-inner" role="listbox">
+                <div class="item active">
+                  <img src="image/slide1.jpg" class="img-responsive slide-imagen">
                 </div>
+                <div class="item">
+                  <img src="image/slide2.jpg" class="img-responsive slide-imagen">
+                  <div class="carousel-caption">
+                  </div>
+                </div>
+                <div class="item">
+                  <img src="image/slide3.jpg" class="img-responsive slide-imagen">
+                  <div class="carousel-caption">
+                  </div>
+                </div>
+                ....
+              </div>
             </div>
-        </div>
-        <!--****************************************** Aqui termina el video **************************************** -->
-
-
 
         <!--********************************************Inicia quinta sección TRAVELLING****************************************  -->
         <section id="blog" class="section-padding">
@@ -919,15 +922,15 @@
                                  <span>Color: Rojo</span>
                             <p>
                                 <UL type = disk >
-                                        <LI>•Maleta con estilo de Bolsa Fashion 
-                                        <LI>•Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable
-                                        <LI>•Imitacion piel, franjas estampadas color beige, blanco, negro
-                                        <LI>•Candados laterales de adorno 
-                                        <LI>•Forro 100% nylon color negro
-                                        <LI>•Compartimiento interno acojinado para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves. 
-                                        <LI>•Placa colgante  MOM 
-                                        <LI>•Trolley (asa telescopica) de aluminio reforzado, 1m altura
-                                        <LI>•Dos ruedas y dos bases.
+                                        <LI>Maleta con estilo de Bolsa Fashion 
+                                        <LI>Realizada en corte sintético. (PIU-POLIURETANO) 100% lavable
+                                        <LI>Imitacion piel, franjas estampadas color beige, blanco, negro
+                                        <LI>Candados laterales de adorno 
+                                        <LI>Forro 100% nylon color negro
+                                        <LI>Compartimiento interno acojinado para Laptop o Ipad. Porta celular, Bolsa con cierre para llaves. 
+                                        <LI>Placa colgante  MOM 
+                                        <LI>Trolley (asa telescopica) de aluminio reforzado, 1m altura
+                                        <LI>Dos ruedas y dos bases.
                                         </UL>
                                         <span>Medidas: Largo 47 cm. Altura 35 cm. Ancho 18 cm. Asa 13 cm.</span>
                                         <span>Peso aprox: 2Kg</span>
@@ -1314,6 +1317,20 @@
         </section> -->
         <!--********************************************Termina sexta sección*****************************************  -->
 
+        
+         <!--****************************************** Aqui inicia el video **************************************** -->
+        <div id="video2">
+        </div>
+        <div id="contenido_video">
+            <div class="row">
+                <br><br><br>
+                <div class="container text-center">
+                    <img src="image/logomom2.png" class="align-center" align="center" alt="Responsive image" height="150" width="400">
+                    <h3 class=" wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">Con Mom siempre podemos ir a todas partes con estilo y comodidad, existen diseños unicos para cualquier mujer.</h3>
+                </div>
+            </div>
+        </div>
+        <!--****************************************** Aqui termina el video **************************************** -->
 
 
         <!--********************************************Inicia septima sección*****************************************  -->
@@ -1329,6 +1346,10 @@
         <!--********************************************termina septima sección*****************************************  -->
 
 
+        <!--********************************************Inicia tercer sección**************************************  -->
+        <section id="work" class="parallax testimonials bg-heading"></section>
+        <!--********************************************Termina tercer sección*************************************  -->
+
 
         <!--********************************************Inicia octava sección HANGING*****************************************  -->
         <section id="work" class="section-padding">
@@ -1343,7 +1364,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 text-center">
                         <p class="lead margin-btm-30" align="justify">
-                            Nuestros productos son hechos con los mejores materiales(pvc) y son de alta calidad y pueden ser utilizados en cualquier tipo de actividad que realices d&iacute;a con d&iacute;a, puedes llevarla al gimnasio, oficina, reuniones sociales, viajes largos o cortos, de negocios o placer.
+                            Es una colección única, el cambio el de forros las hacen divertidas y vanguardistas, son hechos con los mejores materiales(pvc), son lavables y resistentes al igual que sus forros, son de alta calidad y pueden ser utilizados en cualquier tipo de actividad que realices d&iacute;a con d&iacute;a, puedes llevarla al gimnasio, oficina, reuniones sociales, viajes largos o cortos, de negocios o placer.
                         </p>
                     </div>
                 </div>
@@ -1372,9 +1393,6 @@
                                     <h1 class="color-grey2">Estilo Hanging</h1>
                                     <p>
                                         Lo m&aacute;s importante para nosotros es darte productos con la mejor calidad en el mercado, as&iacute; que creamos Fashion Hanging Bags, una bolsa de mano donde tu puedes transportarte a cualquier lugar en cualquier momento, gracias a que es muy fr&aacute;gil y f&aacute;cil de llevar.
-                                    </p>
-                                    <p>
-                                       El promedio de las ventas para este producto es de mujeres de 18 a 40 a&ntilde;os ya que cumplen con sus espectativas en todos los sentidos como tama&ntilde;o, colores, estilo, modelos y forros intercambiables.
                                     </p>
                                 </div>
                             </div>
@@ -1547,77 +1565,40 @@
             </div>
         </section>
         <!--********************************************Termina noveno sección*****************************************  -->
+        
+        <!-- *********************************************Seccion de forros ******************************************** -->
+        <sectionclass="section-padding">
+            <div class="container">
+                <div class="row">
+                    <br>
+                    <div class="center-heading text-center font-h">
+                        <p class=" wow animated bounceIn color-orange4"  data-wow-duration="700ms" data-wow-delay="100ms"><b>FORROS MOM</b></p>
+                    </div>
+                    <h3 class=" wow animated fadeInUp text-center"  data-wow-duration="700ms" data-wow-delay="100ms">
+                        Existen diferentes tipos de forros para la colección Hanging muy resistentes y duraretos.
+                    </h3>
+                    <div class="mix  col-md-5">
+                        <div class="wow animated fadeInUp item-img-wrap forros-espacio">
+                            <a href="image/forros1.jpg" class="show-image"> <img src="image/forros1.jpg" class="img-responsive" alt="workimg"></a>
+                        </div>
+                    </div>
+                    <div class="col-md-2"></div>
+                    <div class="mix  col-md-5">
+                        <div class="wow animated fadeInDown item-img-wrap forros-espacio">
+                            <a href="image/forros2.jpg" class="show-image"> <img src="image/forros2.jpg" class="img-responsive" alt="workimg"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>    
+        </section>
+        <!-- *********************************************Seccion de forros termina ************************************** -->
+
 
         <!--****************************************** Aqui inicia otra seccion testimonio2 **************************** -->
         <section  class="parallax testimonials2 section-padding parallax bg-heading">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="center-heading text-center">
-                            <h2>Mom Es Unica!!!</h2>
-                            <span class="icon"><i class="fa fa-bars"></i></span>
-                        </div><!--center heading-->
-                    </div>
-                </div><!--center heading-->
-                <div class="row">
-                    <div class="col-md-6 margin-btm-30 wow animated fadeInLeft"  data-wow-duration="700ms" data-wow-delay="100ms">
-                        <div class="row">
-                            <center>
-                            <div class="col-md-12">
-                                <div class="service-icon service-info">
-                                    <i class="fa fa-image"></i>
-                                    <h4>Mom siempre con estilo</h4>
-                                </div>
-                            </div>
-                            </center>
-                        </div>
-                    </div><!--service-col-->
-
-                   <div class="col-md-6 margin-btm-30 wow animated fadeInRight"  data-wow-duration="700ms" data-wow-delay="100ms">
-                        <div class="row">
-                            <center>
-                            <div class="col-md-12">
-                                <div class="service-icon service-info">
-                                    <i class="fa fa-plane"></i>
-                                    <h4>Travelling siempre practica.</h4>
-                                </div>
-                            </div>
-                            </center>
-                        </div>
-                    </div><!--service-col-->
-                </div><!--services-row-->
-                <div class="divided-50"></div>
-                <div class="row">
-                    <div class="col-md-6 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
-                        <div class="row">
-                            <center>
-                            <div class="col-md-12">
-                                <div class="service-icon service-info">
-                                    <i class="fa fa-users"></i>
-                                    <h4>Amigable para todo tipo de ocasión.</h4>
-                                </div>
-                            </div>
-                            </center>
-                        </div>
-                    </div><!--service-col-->
-                    <div class="col-md-6 margin-btm-30 wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">
-                        <div class="row">
-                            <center>
-                            <div class="col-md-12">
-                                <div class="service-icon service-info">
-                                    <i class="fa fa-heart"></i>
-                                    <h4>Hanging siempre con diseño.</h4>
-                                </div>
-                            </div>
-                            </center>
-                        </div>
-                    </div><!--service-col-->
-                </div><!--services-row-->
-            </div>
         </section>
         <!--****************************************** Aqui termina otra seccion testimonio2 **************************** -->
-
-
+      
 
         <!--********************************************Inicia decimo sección*****************************************  -->
         <section id="contact" class="section-padding">
@@ -1718,7 +1699,6 @@
             </div>
         </section>
         <!--********************************************Termina decimo sección*****************************************  -->
-
 
 
 
