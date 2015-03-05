@@ -1523,7 +1523,7 @@
 
                             <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
-                                    <a href="image/2.Hanging/bolsaBlanca1.png" class="show-image"> <img src="image/2.Hanging/bolsaBlanca.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                    <a href="image/2.Hanging/bolsaCafe1.png" class="show-image"> <img src="image/2.Hanging/bolsaCafe.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
 
@@ -1533,12 +1533,12 @@
                                 </div>
                             </div>
 
+    
                             <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
-                                    <a href="image/2.Hanging/bolsaCafe1.png" class="show-image"> <img src="image/2.Hanging/bolsaCafe.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                    <a href="image/2.Hanging/bolsaBlanca1.png" class="show-image"> <img src="image/2.Hanging/bolsaBlanca.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
-
 
                         </div>
                     </div>
