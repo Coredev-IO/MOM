@@ -98,7 +98,7 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="index.html"> <img src="image/logomom1.png" class="center2" align="center" alt="workimg" height="50" width="100"></a>
+                        <a class="navbar-brand" href="index.php"> <img src="image/logomom1.png" class="center2" align="" alt="workimg" height="60" width="110"></a>
                     </div>
                     <div class="navbar-collapse collapse">
                         <ul class="nav navbar-nav navbar-right">
@@ -107,7 +107,7 @@
                             <li><a href="#catalogo1">CATALOGO 2014</a></li>
                             <li><a href="#blog">COLECCION TRAVELLING</a></li>
                             <li><a href="#work">COLECCI&Oacute;N HANGING</a></li>
-                            <li><a href="#proximamente">PROXIMAMENTE CATALOGO 2015</a></li>
+                            <li><a href="#proximamente">PROX. CATALOGO 2015</a></li>
                             <li><a href="#contact">AF&Iacute;LIATE</a></li>
                         </ul>
                     </div><!--/.nav-collapse -->
@@ -269,7 +269,7 @@
                         <a href="http://online.fliphtml5.com/cwvx/hlub/" class="btn btn-lg btn-border-white big-btn  btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b>Cat&aacute;logo 2014</b></a>
                     </div><br><br><br> -->
                     <div class="col-md-4 col-md-offset-4 text-center">
-                    <a href="CatalogoMujeres.pdf" class="btn btn-lg btn-border-white big-btn btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b><h4><i class="fa fa-download"></i>&nbsp;Descarga Cat&aacute;logo PDF 2014</b></h4></a>
+                    <a href="CatalogoMujeres.pdf" class="btn btn-lg btn-border-white big-btn btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b><h4><i class="fa fa-download"></i>&nbsp;Cat&aacute;logo PDF 2014</b></h4></a>
                     </div>
                 </div>
             </div>
@@ -286,19 +286,18 @@
               <!-- Wrapper for slides -->
               <div class="carousel-inner" role="listbox">
                 <div class="item active">
-                  <img src="image/slide1.jpg" class="img-responsive slide-imagen">
+                  <img src="image/slide1.jpg" class="img-responsive slide-imagen",width="100%" >
                 </div>
                 <div class="item">
-                  <img src="image/slide2.jpg" class="img-responsive slide-imagen">
+                  <img src="image/slide2.jpg" class="img-responsive slide-imagen"width="100%" >
                   <div class="carousel-caption">
                   </div>
                 </div>
                 <div class="item">
-                  <img src="image/slide3.jpg" class="img-responsive slide-imagen">
+                  <img src="image/slide3.jpg" class="img-responsive slide-imagen"width="100%" >
                   <div class="carousel-caption">
                   </div>
                 </div>
-                ....
               </div>
             </div>
 
@@ -1319,7 +1318,7 @@
 
         
          <!--****************************************** Aqui inicia el video **************************************** -->
-        <div id="video2">
+        <!-- <div id="video2">
         </div>
         <div id="contenido_video">
             <div class="row">
@@ -1329,7 +1328,7 @@
                     <h3 class=" wow animated fadeInUp"  data-wow-duration="700ms" data-wow-delay="100ms">Con Mom siempre podemos ir a todas partes con estilo y comodidad, existen diseños unicos para cualquier mujer.</h3>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!--****************************************** Aqui termina el video **************************************** -->
 
 
@@ -1443,13 +1442,13 @@
 
                             <div class="mix  col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
-                                    <a href="image/2.Hanging/bolsa7.png" class="show-image"> <img src="image/2.Hanging/bolsa7t.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                    <a href="image/2.Hanging/bolsa8.png" class="show-image"> <img src="image/2.Hanging/bolsa8t.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
 
                             <div class="mix  col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
-                                    <a href="image/2.Hanging/bolsa8.png" class="show-image"> <img src="image/2.Hanging/bolsa8t.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                    <a href="image/2.Hanging/bolsa7.png" class="show-image"> <img src="image/2.Hanging/bolsa7t.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
 
@@ -1461,12 +1460,6 @@
 
 
                             <!-- bolsa coctel -->
-                            <div class="mix col-md-4 html margin-btm-30">
-                                <div class="item-img-wrap img-circle ">
-                                    <a href="image/2.Hanging/bolsa2.png" class="show-image"> <img src="image/2.Hanging/bolsa2cc.png" class="img-responsive zoom_all" alt="workimg"></a>
-                                </div>
-                            </div>
-
                             <div class="mix  col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsa5.png" class="show-image"> <img src="image/2.Hanging/bolsa5t.png" class="img-responsive zoom_all" alt="workimg"></a>
@@ -1481,13 +1474,26 @@
 
                             <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
-                                    <a href="image/2.Hanging/haging-white.png" class="show-image"> <img src="image/2.Hanging/haging-white.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                    <a href="image/2.Hanging/bolsa3.png" class="show-image"> <img src="image/2.Hanging/bolsa3cc.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
 
                             <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
-                                    <a href="image/2.Hanging/bolsaNegra.png" class="show-image"> <img src="image/2.Hanging/bolsaNegra.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                    <a href="image/2.Hanging/bolsa2.png" class="show-image"> <img src="image/2.Hanging/bolsa2cc.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+
+                            <div class="mix col-md-4 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/haging-white.png" class="show-image"> <img src="image/2.Hanging/haging-white.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+
+                            
+                            <div class="mix col-md-4 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/bolsa-negrapunto.png" class="show-image"> <img src="image/2.Hanging/bolsa-negrapunto.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
 
@@ -1499,7 +1505,7 @@
 
                             <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
-                                    <a href="image/2.Hanging/bolsa-negrapunto.png" class="show-image"> <img src="image/2.Hanging/bolsa-negrapunto.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                    <a href="image/2.Hanging/bolsaNegra.png" class="show-image"> <img src="image/2.Hanging/bolsaNegra.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
 
@@ -1517,25 +1523,22 @@
 
                             <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
-                                    <a href="image/2.Hanging/bolsaBlanca.png" class="show-image"> <img src="image/2.Hanging/bolsaBlanca.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                    <a href="image/2.Hanging/bolsaBlanca1.png" class="show-image"> <img src="image/2.Hanging/bolsaBlanca.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
 
                             <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
-                                    <a href="image/2.Hanging/bolsaNegraCoctel.png" class="show-image"> <img src="image/2.Hanging/bolsaNegraCoctel.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                    <a href="image/2.Hanging/bolsaNegraCoctel1.png" class="show-image"> <img src="image/2.Hanging/bolsaNegraCoctel.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
-
-                            <div class="mix col-md-4 html margin-btm-30"></div>
 
                             <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
-                                    <a href="image/2.Hanging/bolsaCafe.png" class="show-image"> <img src="image/2.Hanging/bolsaCafe.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                    <a href="image/2.Hanging/bolsaCafe1.png" class="show-image"> <img src="image/2.Hanging/bolsaCafe.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
 
-                            <div class="mix col-md-4 html margin-btm-30"></div>
 
                         </div>
                     </div>
@@ -1544,27 +1547,6 @@
         </section>
         <!--********************************************Termina octava sección*****************************************  -->
 
-
-
-        <!--********************************************Inicia noveno sección*****************************************  -->
-        <section id="proximamente">
-            <div class="cta-2">
-                <div class="container text-center">
-                    <div class="row">
-                        <!-- <div class="col-md-6 col-md-offset-3">
-                            <a href="http://online.fliphtml5.com/maab/msgs/#p=1" target="_blank" class="btn btn-border-white  btn-100 btn-lg wow animated bounceInDown"  data-wow-duration="700ms" data-wow-delay="100ms"><b>Proximamente</b></a>
-                        </div>
-                        <br><br><br> -->
-
-                        <div class="col-md-4 col-md-offset-4 text-center">
-                        <a href="CatalogoHombres.pdf" class="btn btn-lg btn-border-white big-btn btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b><h4><i class="fa fa-download"></i>&nbsp;Descarga Cat&aacute;logo PDF 2015</b></h4></a>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!--********************************************Termina noveno sección*****************************************  -->
         
         <!-- *********************************************Seccion de forros ******************************************** -->
         <sectionclass="section-padding">
@@ -1599,6 +1581,28 @@
         </section>
         <!--****************************************** Aqui termina otra seccion testimonio2 **************************** -->
       
+            
+         <!--********************************************Inicia noveno sección*****************************************  -->
+        <section id="proximamente">
+            <div class="cta-2">
+                <div class="container text-center">
+                    <div class="row">
+                        <!-- <div class="col-md-6 col-md-offset-3">
+                            <a href="http://online.fliphtml5.com/maab/msgs/#p=1" target="_blank" class="btn btn-border-white  btn-100 btn-lg wow animated bounceInDown"  data-wow-duration="700ms" data-wow-delay="100ms"><b>Proximamente</b></a>
+                        </div>
+                        <br><br><br> -->
+
+                        <div class="col-md-4 col-md-offset-4 text-center">
+                        <a href="CatalogoHombres.pdf" class="btn btn-lg btn-border-white big-btn btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b><h4><i class="fa fa-download"></i>&nbsp; Cat&aacute;logo PDF 2015</b></h4></a>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--********************************************Termina noveno sección*****************************************  -->
+
+
 
         <!--********************************************Inicia decimo sección*****************************************  -->
         <section id="contact" class="section-padding">
@@ -1670,26 +1674,24 @@
                             <br>
 
                         <p>
-                            <br><i class="fa fa-phone"></i> Telefonos: (55) 53352071
                             <br><i class="fa fa-map-marker"></i> Patricio Sanz 1529 Col. Del Valle Del. Benito Ju&aacute;rez
+                            <br><i class="fa fa-phone"></i> Telefonos: (55) 53352071
                             <br><i class="fa fa-envelope"></i> Email: laura.gomez@momshop.mx</p>
                             <br>
-
-
-
-
-                        <p><i class="fa fa-map-marker"></i>Monterrey</p>
-                        <p><i class="fa fa-user"></i>Contacto: Perla Aurora Villareal Martinez</p>
-                        <p><i class="fa fa-phone"></i> Telefono: 811 594 5121</p>
-                        <p><i class="fa fa-envelope"></i>Email: perlavillareal_mtz@hotmail.com</p>
-
+                        
+                        <p>
+                            <br><i class="fa fa-map-marker"></i> Monterrey
+                            <br><i class="fa fa-phone"></i> Telefono: 811 594 5121
+                            <br><i class="fa fa-envelope"></i> Email: perlavillareal_mtz@hotmail.com
+                            <br><i class="fa fa-user"></i>Contacto: Perla Aurora Villareal Martinez</p>
+                            <br>
 
                     </div>
                         <div class=" address-info wow animated bounceIn"  data-wow-duration="700ms" data-wow-delay="400ms">
                             <h3>S&iacute;guenos</h3>
                             <ul class="list-inline social">
                                 <li><a href="https://www.facebook.com/momshop"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                <!-- <li><a href="#"><i class="fa fa-twitter"></i></a></li> -->
 
 
                             </ul>
