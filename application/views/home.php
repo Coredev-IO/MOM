@@ -1711,7 +1711,13 @@
                 <a href="#home"><img src="image/logomom1.png" class="align-center" align="center" alt="Responsive image" height="100" width="300"></a>
                 <!-- <span>CREATED BY JESUS MONTESINOS - COREDEV.IO  </span> -->
                 <span>CREATED BY <a href="http://coredev.io">COREDEV.IO</a></span>
-                <span>&copy; 2014. MOMSHOP</span>
+                <span>AVISO DE PRIVACIDAD
+
+COMERCIALIZADORA MEXAMI S.A DE C.V ( MOM FASHION TRAVELLING BAGS) es responsable del tratamiento de sus datos personales, con domicilio en Av Palo Solo 130, col. Palo Solo, Huxquilucan, Edo de México.
+
+MOM FASHION TRAVELLING BAGS, recabará sus datos personales con la finalidad de crear cuentas personales, enviarle avisos sobre nuestras ofertas, efectuar el procesamiento de compras, pedidos, pagos, informar sobre compras.  MOM FASHION TRAVELLING BAGS está comprometido con la seguridad y privacidad de sus datos personales.
+
+Usted puede ejercer, en cualquier momento, los derechos de acceso, rectificación, cancelación y oposición de sus datos de carácter personal mediante correo electrónico dirigido aventas1@momshop.mx o bien mediante un escrito dirigido a Av Palo Solo 130, col. Palo Solo, Huxquilucan, Edo de México, acompañando siempre una fotocopia de su identificación oficial.</span>
             </div>
         </footer>
         <!--********************************************Termina FOOTER*****************************************  -->
