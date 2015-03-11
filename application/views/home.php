@@ -105,7 +105,7 @@
                             <li><a href="#home">INICIO</a></li>
                             <li><a href="#about">&iquest;QU&Iacute;ENES SOMOS?</a></li>
                             <li><a href="#catalogo1">CATALOGO 2014</a></li>
-                            <li><a href="#blog">COLECCION TRAVELLING</a></li>
+                            <li><a href="#blog">COLECCIÓN TRAVELLING</a></li>
                             <li><a href="#work">COLECCI&Oacute;N HANGING</a></li>
                             <li><a href="#proximamente">PROX. CATALOGO 2015</a></li>
                             <li><a href="#contact">AF&Iacute;LIATE</a></li>
@@ -307,7 +307,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="center-heading text-center font-h">
-                            <p class=" wow animated bounceIn color-green"  data-wow-duration="700ms" data-wow-delay="100ms"><b>DETALLES TRAVELLING</b></p>
+                            <p class=" wow animated bounceIn color-green"  data-wow-duration="700ms" data-wow-delay="100ms"><b>COLECCIÓN TRAVELLING</b></p>
                             <span class="icon"><i class="fa fa-edit color-green2"></i></span>
                         </div><!--center heading-->
                     </div>
@@ -1363,7 +1363,7 @@
                 <div class="row">
                     <div class="col-md-8 col-md-offset-2 text-center">
                         <p class="lead margin-btm-30" align="justify">
-                            Es una colección única, el cambio el de forros las hacen divertidas y vanguardistas, son hechos con los mejores materiales(pvc), son lavables y resistentes al igual que sus forros, son de alta calidad y pueden ser utilizados en cualquier tipo de actividad que realices d&iacute;a con d&iacute;a, puedes llevarla al gimnasio, oficina, reuniones sociales, viajes largos o cortos, de negocios o placer.
+                            Es una colección única, el cambio de forros las hacen divertidas y vanguardistas, son hechos con los mejores materiales(pvc), son lavables y resistentes al igual que sus forros, son de alta calidad y pueden ser utilizados en cualquier tipo de actividad que realices d&iacute;a con d&iacute;a, puedes llevarla al gimnasio, oficina, reuniones sociales, viajes largos o cortos, de negocios o placer.
                         </p>
                     </div>
                 </div>
@@ -1434,32 +1434,42 @@
                         <div id="grid" class="row" style="">
 
                             <!-- bolsas beach -->
-                            <div class="mix  col-md-4 html margin-btm-30">
+                            <center><h2>MOM 8801-R1 BEACH</h2></center>
+                            <div class="mix  col-md-1 html margin-btm-30"></div>
+
+                            <div class="mix  col-md-2 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsa6.png" class="show-image"> <img src="image/2.Hanging/bolsa6t.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
 
-                            <div class="mix  col-md-4 html margin-btm-30">
+                            <div class="mix  col-md-2 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsa8.png" class="show-image"> <img src="image/2.Hanging/bolsa8t.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
 
-                            <div class="mix  col-md-4 html margin-btm-30">
+                            <div class="mix  col-md-2 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsa7.png" class="show-image"> <img src="image/2.Hanging/bolsa7t.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
 
-                            <div class="mix  col-md-4 html margin-btm-30">
+                            <div class="mix  col-md-2 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsa10.png" class="show-image"> <img src="image/2.Hanging/bolsa10t.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
 
+                            <div class="mix  col-md-2 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/bolsaroja.png" class="show-image"> <img src="image/2.Hanging/bolsaroja.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+
 
                             <!-- bolsa coctel -->
+                            <center class="col-md-12"><h2>MOM 2009-J1 COCKTAIL</h2></center>
                             <div class="mix  col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsa5.png" class="show-image"> <img src="image/2.Hanging/bolsa5t.png" class="img-responsive zoom_all" alt="workimg"></a>
@@ -1478,6 +1488,8 @@
                                 </div>
                             </div>
 
+                            <center class="col-md-12"><h2>MOM 3009-J1 COCKTAIL</h2></center>
+
                             <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsa2.png" class="show-image"> <img src="image/2.Hanging/bolsa2cc.png" class="img-responsive zoom_all" alt="workimg"></a>
@@ -1489,8 +1501,11 @@
                                     <a href="image/2.Hanging/haging-white.png" class="show-image"> <img src="image/2.Hanging/haging-white.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
+                            <div class="mix col-md-12 html margin-btm-30">
+                            </div>
 
-                            
+                            <!-- Colors Candy -->
+                            <center class="col-md-12"><h2>MOM 2000-B2 COLORS CANDY BLACK/WHITE</h2></center>
                             <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsa-negrapunto.png" class="show-image"> <img src="image/2.Hanging/bolsa-negrapunto.png" class="img-responsive zoom_all" alt="workimg"></a>
@@ -1503,6 +1518,11 @@
                                 </div>
                             </div>
 
+                            <div class="mix col-md-12 html margin-btm-30">
+                            </div>
+                            
+                            <!-- COLOR -->
+                            <center class="col-md-12"><h2>MOM 2000-B3 COLORS</h2></center>
                             <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsaNegra.png" class="show-image"> <img src="image/2.Hanging/bolsaNegra.png" class="img-responsive zoom_all" alt="workimg"></a>
@@ -1511,16 +1531,41 @@
 
                             <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/bolsablancaAmarilla.png" class="show-image"> <img src="image/2.Hanging/bolsablancaAmarilla.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+
+                            <div class="mix col-md-12 html margin-btm-30">
+                            </div>
+                            
+                            <!-- color petit -->
+                            <center class="col-md-12"><h2>MOM 3001-B3 COLORS PETIT</h2></center>
+                            <div class="mix col-md-3 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsaRojaPuntos.png" class="show-image"> <img src="image/2.Hanging/bolsaRojaPuntos.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
 
-                            <div class="mix col-md-4 html margin-btm-30">
+                            <div class="mix col-md-3 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsaAzulPunto.png" class="show-image"> <img src="image/2.Hanging/bolsaAzulPunto.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
 
+                            <div class="mix col-md-3 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/NegroAmarillo.png" class="show-image"> <img src="image/2.Hanging/NegroAmarillo.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+
+                            <div class="mix col-md-3 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/puntosAmarillos.png" class="show-image"> <img src="image/2.Hanging/puntosAmarillos.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+                            
+                            <!-- Elegance -->
+                            <center class="col-md-12"><h2>MOM ELEGANCE 3001-Z6 //0701-Y3 //4011-Y2</h2></center>
                             <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsaCafe1.png" class="show-image"> <img src="image/2.Hanging/bolsaCafe.png" class="img-responsive zoom_all" alt="workimg"></a>
@@ -1557,7 +1602,7 @@
                         <p class=" wow animated bounceIn color-orange4"  data-wow-duration="700ms" data-wow-delay="100ms"><b>FORROS MOM</b></p>
                     </div>
                     <h3 class=" wow animated fadeInUp text-center"  data-wow-duration="700ms" data-wow-delay="100ms">
-                        Existen diferentes tipos de forros para la colección Hanging muy resistentes y duraretos.
+                        Existen diferentes tipos de forros para la colección Hanging muy resistentes y duraderos.
                     </h3>
                     <div class="mix  col-md-5">
                         <div class="wow animated fadeInUp item-img-wrap forros-espacio">
