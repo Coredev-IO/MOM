@@ -107,7 +107,7 @@
                             <li><a href="#catalogo1">CATALOGO 2014</a></li>
                             <li><a href="#blog">COLECCIÓN TRAVELLING</a></li>
                             <li><a href="#work">COLECCI&Oacute;N HANGING</a></li>
-                            <li><a href="#proximamente">PROX. CATALOGO 2015</a></li>
+                            <li><a href="#proximamente">AVANCES 2015</a></li>
                             <li><a href="#contact">AF&Iacute;LIATE</a></li>
                         </ul>
                     </div><!--/.nav-collapse -->
@@ -1434,34 +1434,32 @@
                         <div id="grid" class="row" style="">
 
                             <!-- bolsas beach -->
-                            <center><h2>MOM 8801-R1 BEACH</h2></center>
-                            <div class="mix  col-md-1 html margin-btm-30"></div>
-
-                            <div class="mix  col-md-2 html margin-btm-30">
+                            <center><h2>BEACH</h2></center>
+                            <div class="mix  col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsa6.png" class="show-image"> <img src="image/2.Hanging/bolsa6t.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
 
-                            <div class="mix  col-md-2 html margin-btm-30">
+                            <div class="mix  col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsa8.png" class="show-image"> <img src="image/2.Hanging/bolsa8t.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
 
-                            <div class="mix  col-md-2 html margin-btm-30">
+                            <div class="mix  col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsa7.png" class="show-image"> <img src="image/2.Hanging/bolsa7t.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
-
-                            <div class="mix  col-md-2 html margin-btm-30">
+                            <div class="mix  col-md-2 html margin-btm-30"></div>
+                            <div class="mix  col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsa10.png" class="show-image"> <img src="image/2.Hanging/bolsa10t.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
 
-                            <div class="mix  col-md-2 html margin-btm-30">
+                            <div class="mix  col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsaroja.png" class="show-image"> <img src="image/2.Hanging/bolsaroja.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
@@ -1469,7 +1467,7 @@
 
 
                             <!-- bolsa coctel -->
-                            <center class="col-md-12"><h2>MOM 2009-J1 COCKTAIL</h2></center>
+                            <center class="col-md-12"><h2>COCKTAIL</h2></center>
                             <div class="mix  col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsa5.png" class="show-image"> <img src="image/2.Hanging/bolsa5t.png" class="img-responsive zoom_all" alt="workimg"></a>
@@ -1488,11 +1486,13 @@
                                 </div>
                             </div>
 
-                            <center class="col-md-12"><h2>MOM 3009-J1 COCKTAIL</h2></center>
+                            <center class="col-md-12"><h2>COCKTAIL PETIT</h2></center>
+
+                            <div class="mix  col-md-2 html margin-btm-30"></div>
 
                             <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
-                                    <a href="image/2.Hanging/bolsa2.png" class="show-image"> <img src="image/2.Hanging/bolsa2cc.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                    <a href="image/2.Hanging/momazul2.png" class="show-image"> <img src="image/2.Hanging/momazul2.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
 
@@ -1501,11 +1501,10 @@
                                     <a href="image/2.Hanging/haging-white.png" class="show-image"> <img src="image/2.Hanging/haging-white.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
-                            <div class="mix col-md-12 html margin-btm-30">
-                            </div>
 
                             <!-- Colors Candy -->
-                            <center class="col-md-12"><h2>MOM 2000-B2 COLORS CANDY BLACK/WHITE</h2></center>
+                            <center class="col-md-12"><h2>COLORS CANDY BLACK/WHITE</h2></center>
+                            <div class="mix  col-md-2 html margin-btm-30"></div>
                             <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsa-negrapunto.png" class="show-image"> <img src="image/2.Hanging/bolsa-negrapunto.png" class="img-responsive zoom_all" alt="workimg"></a>
@@ -1522,7 +1521,8 @@
                             </div>
                             
                             <!-- COLOR -->
-                            <center class="col-md-12"><h2>MOM 2000-B3 COLORS</h2></center>
+                            <center class="col-md-12"><h2>COLORS</h2></center>
+                            <div class="mix  col-md-2 html margin-btm-30"></div>
                             <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsaNegra.png" class="show-image"> <img src="image/2.Hanging/bolsaNegra.png" class="img-responsive zoom_all" alt="workimg"></a>
@@ -1539,37 +1539,51 @@
                             </div>
                             
                             <!-- color petit -->
-                            <center class="col-md-12"><h2>MOM 3001-B3 COLORS PETIT</h2></center>
-                            <div class="mix col-md-3 html margin-btm-30">
+                            <center class="col-md-12"><h2>COLORS PETIT</h2></center>
+                            <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsaRojaPuntos.png" class="show-image"> <img src="image/2.Hanging/bolsaRojaPuntos.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
 
-                            <div class="mix col-md-3 html margin-btm-30">
+                            <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsaAzulPunto.png" class="show-image"> <img src="image/2.Hanging/bolsaAzulPunto.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
 
-                            <div class="mix col-md-3 html margin-btm-30">
+                            <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/NegroAmarillo.png" class="show-image"> <img src="image/2.Hanging/NegroAmarillo.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
-
-                            <div class="mix col-md-3 html margin-btm-30">
+                            
+                            <div class="mix  col-md-4 html margin-btm-30"></div>
+                            <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/puntosAmarillos.png" class="show-image"> <img src="image/2.Hanging/puntosAmarillos.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
                             
                             <!-- Elegance -->
-                            <center class="col-md-12"><h2>MOM ELEGANCE 3001-Z6 //0701-Y3 //4011-Y2</h2></center>
+                            <center class="col-md-12"><h2>MOM ELEGANCE</h2></center>
                             <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
                                     <a href="image/2.Hanging/bolsaCafe1.png" class="show-image"> <img src="image/2.Hanging/bolsaCafe.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
+                            </div>
+                            <div class="mix col-md-4 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/negraelegante.png" class="show-image"> <img src="image/2.Hanging/negraelegante.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+                            <div class="mix col-md-4 html margin-btm-30">
+                                <div class="item-img-wrap img-circle ">
+                                    <a href="image/2.Hanging/blancaelegante.png" class="show-image"> <img src="image/2.Hanging/blancaelegante.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                </div>
+                            </div>
+                            
+                            <div class="mix col-md-2 html margin-btm-30">
                             </div>
 
                             <div class="mix col-md-4 html margin-btm-30">
@@ -1581,7 +1595,7 @@
     
                             <div class="mix col-md-4 html margin-btm-30">
                                 <div class="item-img-wrap img-circle ">
-                                    <a href="image/2.Hanging/bolsaBlanca1.png" class="show-image"> <img src="image/2.Hanging/bolsaBlanca.png" class="img-responsive zoom_all" alt="workimg"></a>
+                                    <a href="image/2.Hanging/doble1.png" class="show-image"> <img src="image/2.Hanging/doble1.png" class="img-responsive zoom_all" alt="workimg"></a>
                                 </div>
                             </div>
 
