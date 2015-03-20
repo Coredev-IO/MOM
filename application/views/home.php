@@ -1716,11 +1716,11 @@
                           <textarea class="form-control" rows="7" id="message" placeholder="Mensaje" name="mensaje" required=""></textarea>
                         </div> <div class="clearfix"></div>
 
-
                         <p class="text-right">
+                            <a href="#" class="btn btn-theme btn-lg btn-grey">Enviar</a>
                           <?php
-                          $attributes = array('class' => 'class="btn btn-theme btn-lg btn-grey"');
-                          echo form_submit( 'submit', 'Enviar', $attributes['class']); ?>
+                          // $attributes = array('class' => 'class="btn btn-theme btn-lg btn-grey"');
+                          // echo form_submit( 'submit', 'Enviar', $attributes['class']); ?>
                         </p>
 
                     </div><!--form col-->
