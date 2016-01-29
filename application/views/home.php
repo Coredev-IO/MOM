@@ -104,10 +104,10 @@
                         <ul class="nav navbar-nav navbar-right">
                             <li><a href="#home">INICIO</a></li>
                             <li><a href="#about">&iquest;QU&Iacute;ENES SOMOS?</a></li>
-                            <li><a href="#catalogo1">CATALOGO 2014</a></li>
+                            <!-- <li><a href="#catalogo1">CATALOGO 2014</a></li> -->
                             <li><a href="#blog">COLECCIÓN TRAVELLING</a></li>
                             <li><a href="#work">COLECCI&Oacute;N HANGING</a></li>
-                            <li><a href="#proximamente">AVANCES 2015</a></li>
+                            <!-- <li><a href="#proximamente">AVANCES 2015</a></li> -->
                             <li><a href="#contact">AF&Iacute;LIATE</a></li>
                         </ul>
                     </div><!--/.nav-collapse -->
@@ -265,9 +265,9 @@
         <section class="cta-1" id="catalogo1">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-6 col-md-offset-3 text-center">
+                   <!--  <div class="col-md-6 col-md-offset-3 text-center">
                         <a href="http://online.fliphtml5.com/cwvx/hlub/" class="btn btn-lg btn-border-white big-btn  btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b>Cat&aacute;logo 2014</b></a>
-                    </div><br><br><br>
+                    </div><br><br><br> -->
                     <!-- <div class="col-md-4 col-md-offset-4 text-center">
                     <a href="CatalogoMujeres.pdf" class="btn btn-lg btn-border-white big-btn btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b><h4><i class="fa fa-download"></i>&nbsp;Cat&aacute;logo PDF 2014</b></h4></a>
                     </div> -->
@@ -1646,10 +1646,10 @@
             <div class="cta-2">
                 <div class="container text-center">
                     <div class="row">
-                        <div class="col-md-6 col-md-offset-3">
+                        <!-- <div class="col-md-6 col-md-offset-3">
                             <a href="http://online.fliphtml5.com/maab/msgs/#p=1" target="_blank" class="btn btn-border-white  btn-100 btn-lg wow animated bounceInDown"  data-wow-duration="700ms" data-wow-delay="100ms"><b>Catalog PDF 2015</b></a>
                         </div>
-                        <br><br><br>
+                        <br><br><br> -->
 
                         <!-- <div class="col-md-4 col-md-offset-4 text-center">
                         <a href="CatalogoHombres.pdf" class="btn btn-lg btn-border-white big-btn btn-100" target="_blank"  data-wow-duration="700ms" data-wow-delay="100ms"><b><h4><i class="fa fa-download"></i>&nbsp; Cat&aacute;logo PDF 2015</b></h4></a>
@@ -1728,14 +1728,15 @@
                            <div class=" margin-btm-30 address-info wow animated bounceIn "  data-wow-duration="700ms" data-wow-delay="200ms">
                         <h3>Nuestras Oficinas</h3>
                         <p><i class="fa fa-map-marker"></i> Av. Palo Solo 130, 52778, Huixquilucan, Mex.
-                            <br><i class="fa fa-phone"></i> Telefonos: 52903110
-                            <br><i class="fa fa-envelope"></i> Email: ventas1@momshop.mx</p>
+                            <br><i class="fa fa-phone"></i> Telefonos: 26152103
+                            <br><i class="fa fa-phone"></i> Celular:  (55) 44908480 
+                            <br><i class="fa fa-envelope"></i> Email: ventas@mexami.com</p>
                             <br>
 
                         <p>
                             <br><i class="fa fa-map-marker"></i> Patricio Sanz 1529 Col. Del Valle Del. Benito Ju&aacute;rez
-                            <br><i class="fa fa-phone"></i> Telefonos: (55) 53352071
-                            <br><i class="fa fa-envelope"></i> Email: laura.gomez@momshop.mx</p>
+                            <br><i class="fa fa-phone"></i> Telefonos: (55) 91967012
+                            <br><i class="fa fa-envelope"></i> Email: lagoma_13@yahoo.com.mx</p>
                             <br>
                         
                         <p>
