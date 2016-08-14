@@ -118,6 +118,34 @@
 
 
         <!--********************************************Inicia segunda sección***********************************  -->
+        <!-- Modal de inicio empieza -->
+        <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="gridSystemModalLabel" id="myModalprueba">
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+               <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <center>
+                <h2 class="modal-title" id="gridSystemModalLabel">LO NUEVO!</h2>
+                </center>
+              </div>
+              <div class="modal-body">
+                <div class="row">
+                <center>
+                  <div class="col-md-12"><h4>AHORA TODOS NUESTROS PRODUCTOS LOS ENCUENTRAS EN PORTAMODA</h4></div>
+                  <br><br>
+                  <div class="col-md-12"><h4><a href="http://www.portamoda.com.mx/#!contacto/rjn2t">Entrar a Portamoda</a></h4></div>
+                  <div class="col-md-6"><h2><a href="https://www.facebook.com/portamodamx/?ref=bookmarks"><i class="fa fa-facebook"></i></a></h2></div>
+                  <div class="col-md-6"><h2><a href="https://www.instagram.com/portamodamx/"><i class="fa fa-instagram "></i></a></h2></div>
+                  <br>
+                </center>
+                </div>
+              </div>
+            </div><!-- /.modal-content -->
+          </div><!-- /.modal-dialog -->
+        </div><!-- /.modal -->
+
+        <!-- Modal de inicio fin -->
+
         <section id="about" class="section-padding">
             <div class="container">
                 <div class="row">
@@ -170,6 +198,7 @@
                     </div><!--service col end-->
                 </div>
                 <div class="divided-50"></div>
+
                 <div class="row goals-skills-wrap">
                     <div class="col-md-6 margin-btm-30">
                         <h2>Objetivo de MOM</h2>
@@ -2060,6 +2089,12 @@ Usted puede ejercer, en cualquier momento, los derechos de acceso, rectificació
                         $(this).videobackground('mute');
                     }
                 });
+            });
+        </script>
+
+        <script type="text/javascript">
+            $(window).load(function(){
+                $('#myModalprueba').modal('show');
             });
         </script>
     </body>
